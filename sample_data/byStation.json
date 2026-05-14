@@ -1,0 +1,82 @@
+{
+  "source": "Air4Thai, Pollution Control Department, Thailand",
+  "stationID": "119t",
+  "nameTH": "สวนสาธารณะธารา",
+  "nameEN": "Pak Nam Subdistrict, Mueang District, Krabi",
+  "areaTH": "ต.ปากน้ำ อ.เมือง, กระบี่",
+  "areaEN": "Pak Nam Subdistrict, Mueang District, Krabi",
+  "lat": 8.0506237,
+  "lon": 98.9180489,
+  "observedAt": {
+    "date": "2026-04-21",
+    "time": "22:00"
+  },
+  "timezone": "Asia/Bangkok",
+  "imageKey": "c_moderate_63",
+  "imageKeySelected": "c_moderate_s_63",
+  "observedAtUtc": "2026-04-21T22:00:00+07:00",
+  "current": {
+    "aqi": {
+      "value": 63,
+      "label": "Moderate",
+      "color": "#FFE15A",
+      "textColor": "black",
+      "colorKey": "c_moderate",
+      "advice": "Air quality is acceptable for most people"
+    },
+    "pollutants": {
+      "pm1": {
+        "value": null,
+        "unit": "µg/m³"
+      },
+      "pm25": {
+        "value": 15.7,
+        "unit": "µg/m³"
+      },
+      "pm10": {
+        "value": null,
+        "unit": "µg/m³"
+      },
+      "o3": {
+        "value": 38,
+        "unit": "ppb"
+      },
+      "co": {
+        "value": 0.9,
+        "unit": "ppm"
+      },
+      "no2": {
+        "value": 4,
+        "unit": "ppb"
+      },
+      "so2": {
+        "value": 1,
+        "unit": "ppb"
+      }
+    },
+    "environment": {
+      "temperature": null,
+      "humidity": null,
+      "co2": null,
+      "tvoc": null,
+      "tvocIndex": null,
+      "noxIndex": null,
+      "heatIndex": null
+    }
+  },
+  "history24h": [
+    {
+      "observedAtUtc": "2026-04-21T22:00:00+07:00",
+      "local": {
+        "date": "2026-04-21",
+        "time": "22:00"
+      },
+      "aqi": 63,
+      "pm1": null,
+      "pm10": null,
+      "pm25": 15.7,
+      "temperature": null,
+      "humidity": null
+    }
+  ]
+}

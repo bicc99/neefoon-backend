@@ -1,0 +1,9125 @@
+{
+  "updatedAt": "2026-04-25T08:40:57.249Z",
+  "filter": {
+    "country": "all",
+    "sort": "desc",
+    "metric": "median"
+  },
+  "count": 1302,
+  "items": [
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Krebet Senggrong",
+      "aqi": 232,
+      "stationCount": 1
+    },
+    {
+      "country": "Vietnam",
+      "country_code": "vn",
+      "city": "Hà Nội",
+      "aqi": 177,
+      "stationCount": 1
+    },
+    {
+      "country": "Bangladesh",
+      "country_code": "bd",
+      "city": "Dhaka",
+      "aqi": 170,
+      "stationCount": 2
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Phitsanulok",
+      "aqi": 169,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Khone",
+      "aqi": 167,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Houaydokthong",
+      "aqi": 157,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Paktha",
+      "aqi": 156,
+      "stationCount": 1
+    },
+    {
+      "country": "Nepal",
+      "country_code": "np",
+      "city": "Dhangadhi",
+      "aqi": 154,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Sukhothai",
+      "aqi": 153,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Juan Francisco Bulnes",
+      "aqi": 153,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Donxai",
+      "aqi": 152,
+      "stationCount": 1
+    },
+    {
+      "country": "Malawi",
+      "country_code": "mw",
+      "city": "Namiwawa 1",
+      "aqi": 152,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Bululawang",
+      "aqi": 152,
+      "stationCount": 3
+    },
+    {
+      "country": "Argentina",
+      "country_code": "ar",
+      "city": "Virrey Del Pino",
+      "aqi": 151,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Savannah",
+      "aqi": 150,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Phayao",
+      "aqi": 147,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Champassack District",
+      "aqi": 147,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Muang Sing",
+      "aqi": 144,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Phabong",
+      "aqi": 143,
+      "stationCount": 1
+    },
+    {
+      "country": "Nepal",
+      "country_code": "np",
+      "city": "Budhanilkantha-08",
+      "aqi": 142,
+      "stationCount": 1
+    },
+    {
+      "country": "China",
+      "country_code": "cn",
+      "city": "Nanguan District",
+      "aqi": 141,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Borsele",
+      "aqi": 140,
+      "stationCount": 1
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "ae",
+      "city": "Al Barsha South 5",
+      "aqi": 138,
+      "stationCount": 1
+    },
+    {
+      "country": "China",
+      "country_code": "cn",
+      "city": "Changchun City",
+      "aqi": 138,
+      "stationCount": 2
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Lak Seesip",
+      "aqi": 137,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Lille",
+      "aqi": 136,
+      "stationCount": 2
+    },
+    {
+      "country": "Nepal",
+      "country_code": "np",
+      "city": "Nagarjun-02",
+      "aqi": 136,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Bonn",
+      "aqi": 136,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Lampang",
+      "aqi": 135,
+      "stationCount": 6
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Ubon Ratchathani",
+      "aqi": 135,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Macuelizo",
+      "aqi": 135,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "City of Bristol",
+      "aqi": 134,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Xianghon",
+      "aqi": 133,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Satheu Tai",
+      "aqi": 132,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Gading",
+      "aqi": 132,
+      "stationCount": 3
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Tak",
+      "aqi": 131,
+      "stationCount": 1
+    },
+    {
+      "country": "Nepal",
+      "country_code": "np",
+      "city": "Lalitpur",
+      "aqi": 131,
+      "stationCount": 3
+    },
+    {
+      "country": "Belgium",
+      "country_code": "be",
+      "city": "Antwerp",
+      "aqi": 131,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Doykao",
+      "aqi": 130,
+      "stationCount": 1
+    },
+    {
+      "country": "Mexico",
+      "country_code": "mx",
+      "city": "Monterrey",
+      "aqi": 130,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Asbach",
+      "aqi": 129,
+      "stationCount": 1
+    },
+    {
+      "country": "India",
+      "country_code": "in",
+      "city": "Bengaluru",
+      "aqi": 129,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Chiang Rai",
+      "aqi": 128,
+      "stationCount": 9
+    },
+    {
+      "country": "Nepal",
+      "country_code": "np",
+      "city": "Kirtipur-10",
+      "aqi": 128,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Sankt Augustin",
+      "aqi": 128,
+      "stationCount": 1
+    },
+    {
+      "country": "Nepal",
+      "country_code": "np",
+      "city": "Kathmandu Metropolitan City",
+      "aqi": 128,
+      "stationCount": 2
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Thinkeo-Tai",
+      "aqi": 127,
+      "stationCount": 1
+    },
+    {
+      "country": "Philippines",
+      "country_code": "ph",
+      "city": "Tublay",
+      "aqi": 126,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Байкент",
+      "aqi": 126,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Löhe",
+      "aqi": 126,
+      "stationCount": 1
+    },
+    {
+      "country": "Mongolia",
+      "country_code": "mn",
+      "city": "Tonkhil",
+      "aqi": 125,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Om",
+      "aqi": 125,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Houayloungtheung",
+      "aqi": 125,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Buri Ram",
+      "aqi": 124,
+      "stationCount": 4
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Phrae",
+      "aqi": 124,
+      "stationCount": 2
+    },
+    {
+      "country": "Belgium",
+      "country_code": "be",
+      "city": "Bruges",
+      "aqi": 124,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Suphan Buri",
+      "aqi": 123,
+      "stationCount": 2
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Uthai Thani",
+      "aqi": 123,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Rotterdam",
+      "aqi": 123,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Thaluang",
+      "aqi": 123,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Kamphaeng Phet",
+      "aqi": 122,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Klamath Falls",
+      "aqi": 122,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Frechen",
+      "aqi": 122,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Mae Hong Son",
+      "aqi": 121,
+      "stationCount": 30
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Phonxai",
+      "aqi": 121,
+      "stationCount": 2
+    },
+    {
+      "country": "Cambodia",
+      "country_code": "kh",
+      "city": "Khan Prek Pnov",
+      "aqi": 121,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Sumberpetung",
+      "aqi": 120,
+      "stationCount": 2
+    },
+    {
+      "country": "Belgium",
+      "country_code": "be",
+      "city": "Mortsel",
+      "aqi": 118,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Ngeune",
+      "aqi": 118,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Hatya",
+      "aqi": 118,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Bakalan",
+      "aqi": 118,
+      "stationCount": 4
+    },
+    {
+      "country": "Belgium",
+      "country_code": "be",
+      "city": "Willebroek",
+      "aqi": 118,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Lao Kham",
+      "aqi": 117,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Lak 36",
+      "aqi": 117,
+      "stationCount": 1
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "my",
+      "city": "Kangar",
+      "aqi": 117,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Lomsak Tai",
+      "aqi": 116,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Attapeu",
+      "aqi": 116,
+      "stationCount": 2
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Krebet",
+      "aqi": 116,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Gouda",
+      "aqi": 116,
+      "stationCount": 1
+    },
+    {
+      "country": "Bhutan",
+      "country_code": "bt",
+      "city": "Dzongkhag Thromde",
+      "aqi": 116,
+      "stationCount": 10
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "B. Nonsavan",
+      "aqi": 115,
+      "stationCount": 1
+    },
+    {
+      "country": "Nigeria",
+      "country_code": "ng",
+      "city": "Mushin",
+      "aqi": 115,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Georgetown",
+      "aqi": 114,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Luang Prabang",
+      "aqi": 114,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Kasi",
+      "aqi": 114,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Urek - Urek",
+      "aqi": 114,
+      "stationCount": 1
+    },
+    {
+      "country": "Uganda",
+      "country_code": "ug",
+      "city": "Kampala",
+      "aqi": 114,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Richmond Hill",
+      "aqi": 114,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Chai Nat",
+      "aqi": 113,
+      "stationCount": 2
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Muang Pakxeng",
+      "aqi": 113,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Soukhouma",
+      "aqi": 113,
+      "stationCount": 1
+    },
+    {
+      "country": "India",
+      "country_code": "in",
+      "city": "Nagpur",
+      "aqi": 113,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Nakhon Sawan",
+      "aqi": 112,
+      "stationCount": 2
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Uttaradit",
+      "aqi": 112,
+      "stationCount": 6
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Hulst",
+      "aqi": 111,
+      "stationCount": 1
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "ae",
+      "city": "Dubai",
+      "aqi": 111,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Cologne",
+      "aqi": 111,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Carthage",
+      "aqi": 111,
+      "stationCount": 1
+    },
+    {
+      "country": "Belgium",
+      "country_code": "be",
+      "city": "Sint-Niklaas",
+      "aqi": 111,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Lamphun",
+      "aqi": 110,
+      "stationCount": 5
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Surin",
+      "aqi": 109,
+      "stationCount": 2
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Hyderabad City Taluka",
+      "aqi": 109,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Copán Ruinas",
+      "aqi": 108,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Khlong Luang Town Municipality",
+      "aqi": 108,
+      "stationCount": 2
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Gualaco",
+      "aqi": 108,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Gondanglegi",
+      "aqi": 108,
+      "stationCount": 1
+    },
+    {
+      "country": "India",
+      "country_code": "in",
+      "city": "Biraldham Nagar",
+      "aqi": 107,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Helotes",
+      "aqi": 107,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Ketawang",
+      "aqi": 107,
+      "stationCount": 1
+    },
+    {
+      "country": "Mexico",
+      "country_code": "mx",
+      "city": "Mexico City",
+      "aqi": 106,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Rolesville",
+      "aqi": 106,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Austin",
+      "aqi": 105,
+      "stationCount": 6
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Nongkan",
+      "aqi": 105,
+      "stationCount": 1
+    },
+    {
+      "country": "Myanmar",
+      "country_code": "mm",
+      "city": "Yangon",
+      "aqi": 105,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "El Progreso",
+      "aqi": 105,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Sing Buri",
+      "aqi": 104,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Madison Heights",
+      "aqi": 104,
+      "stationCount": 1
+    },
+    {
+      "country": "Mexico",
+      "country_code": "mx",
+      "city": "Texcoco de Mora",
+      "aqi": 104,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Nongtan",
+      "aqi": 103,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "El Negrito",
+      "aqi": 103,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Multan",
+      "aqi": 103,
+      "stationCount": 2
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Si Sa Ket",
+      "aqi": 102,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Chiang Mai",
+      "aqi": 102,
+      "stationCount": 28
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Beechworth",
+      "aqi": 102,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Asheville",
+      "aqi": 102,
+      "stationCount": 1
+    },
+    {
+      "country": "Belgium",
+      "country_code": "be",
+      "city": "Oostrozebeke",
+      "aqi": 102,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Khongxedone",
+      "aqi": 102,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Bergen op Zoom",
+      "aqi": 102,
+      "stationCount": 1
+    },
+    {
+      "country": "Philippines",
+      "country_code": "ph",
+      "city": "Caloocan",
+      "aqi": 102,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "South Jakarta",
+      "aqi": 101,
+      "stationCount": 2
+    },
+    {
+      "country": "Israel",
+      "country_code": "il",
+      "city": "Shaar Hefer",
+      "aqi": 101,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Spring",
+      "aqi": 101,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Cary",
+      "aqi": 100,
+      "stationCount": 5
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Raleigh",
+      "aqi": 100,
+      "stationCount": 3
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Souliya",
+      "aqi": 100,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Tlogorejo",
+      "aqi": 100,
+      "stationCount": 3
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Kanchanaburi",
+      "aqi": 99,
+      "stationCount": 2
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Nan",
+      "aqi": 99,
+      "stationCount": 39
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Phapong",
+      "aqi": 99,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Phia-Mai",
+      "aqi": 99,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Don Kho",
+      "aqi": 99,
+      "stationCount": 1
+    },
+    {
+      "country": "India",
+      "country_code": "in",
+      "city": "New Delhi",
+      "aqi": 99,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Catacamas",
+      "aqi": 99,
+      "stationCount": 1
+    },
+    {
+      "country": "India",
+      "country_code": "in",
+      "city": "Vagra",
+      "aqi": 99,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bloomfield Hills",
+      "aqi": 99,
+      "stationCount": 1
+    },
+    {
+      "country": "Taiwan",
+      "country_code": "tw",
+      "city": "Tainan",
+      "aqi": 98,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Balikpapan",
+      "aqi": 98,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Round Rock",
+      "aqi": 98,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Simpsonville",
+      "aqi": 98,
+      "stationCount": 1
+    },
+    {
+      "country": "Israel",
+      "country_code": "il",
+      "city": "Raanana",
+      "aqi": 98,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Danlí",
+      "aqi": 98,
+      "stationCount": 1
+    },
+    {
+      "country": "Nicaragua",
+      "country_code": "ni",
+      "city": "Ticuantepe",
+      "aqi": 98,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Pathum Thani",
+      "aqi": 97,
+      "stationCount": 7
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "San Antonio",
+      "aqi": 97,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Paklay",
+      "aqi": 97,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Nonghet",
+      "aqi": 97,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Ghareeb Abad",
+      "aqi": 97,
+      "stationCount": 1
+    },
+    {
+      "country": "Brazil",
+      "country_code": "br",
+      "city": "São Paulo",
+      "aqi": 97,
+      "stationCount": 1
+    },
+    {
+      "country": "Hungary",
+      "country_code": "hu",
+      "city": "Solymár",
+      "aqi": 97,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Mission",
+      "aqi": 97,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Launceston",
+      "aqi": 96,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Blacksburg",
+      "aqi": 96,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Samkang",
+      "aqi": 96,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Ban Nampan",
+      "aqi": 96,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Lakmuang",
+      "aqi": 96,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Ta Oy",
+      "aqi": 96,
+      "stationCount": 1
+    },
+    {
+      "country": "China",
+      "country_code": "cn",
+      "city": "Chira County",
+      "aqi": 96,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Lake Wylie",
+      "aqi": 95,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Wissen",
+      "aqi": 95,
+      "stationCount": 1
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "my",
+      "city": "Kuala Lumpur",
+      "aqi": 95,
+      "stationCount": 1
+    },
+    {
+      "country": "Portugal",
+      "country_code": "pt",
+      "city": "Valongo",
+      "aqi": 95,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Phouan",
+      "aqi": 95,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Saisetha",
+      "aqi": 95,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Sumberejo",
+      "aqi": 95,
+      "stationCount": 6
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Winston-Salem",
+      "aqi": 95,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "حیدرآباد",
+      "aqi": 95,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Gracias",
+      "aqi": 95,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Las Flores",
+      "aqi": 95,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Phichit",
+      "aqi": 94,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Wake Forest",
+      "aqi": 94,
+      "stationCount": 2
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Koudekerke",
+      "aqi": 94,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Bounneua",
+      "aqi": 94,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "B. Xamkhon",
+      "aqi": 94,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Mebane",
+      "aqi": 94,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Songkhla",
+      "aqi": 93,
+      "stationCount": 5
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Sa Kaeo",
+      "aqi": 93,
+      "stationCount": 2
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Golden Beach",
+      "aqi": 93,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Fulshear",
+      "aqi": 93,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Phouviang (Houa Phan)",
+      "aqi": 93,
+      "stationCount": 1
+    },
+    {
+      "country": "India",
+      "country_code": "in",
+      "city": "Gurgaon",
+      "aqi": 93,
+      "stationCount": 1
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "ae",
+      "city": "Al Hebiah 4",
+      "aqi": 93,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "San Jorge",
+      "aqi": 93,
+      "stationCount": 1
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Barcelona",
+      "aqi": 92,
+      "stationCount": 4
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Namor",
+      "aqi": 92,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Ban Bungxang",
+      "aqi": 92,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Santa Rita",
+      "aqi": 92,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Chaiyaphum",
+      "aqi": 91,
+      "stationCount": 2
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Muang Khua",
+      "aqi": 91,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Ban Khinak",
+      "aqi": 91,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Essex",
+      "aqi": 91,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Nadon",
+      "aqi": 91,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Valkenburg",
+      "aqi": 91,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Phetchabun",
+      "aqi": 90,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Melbourne",
+      "aqi": 90,
+      "stationCount": 6
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Cittadella",
+      "aqi": 90,
+      "stationCount": 1
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "ae",
+      "city": "Wadi Al Safa 7",
+      "aqi": 90,
+      "stationCount": 1
+    },
+    {
+      "country": "Vietnam",
+      "country_code": "vn",
+      "city": "Thủ Đức",
+      "aqi": 90,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Phongsali",
+      "aqi": 90,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Phonsavan",
+      "aqi": 90,
+      "stationCount": 2
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Phanip",
+      "aqi": 90,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Houaysa",
+      "aqi": 90,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Samouay",
+      "aqi": 90,
+      "stationCount": 2
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Barki",
+      "aqi": 90,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Bahawalpur City Tehsil",
+      "aqi": 90,
+      "stationCount": 5
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Napoun",
+      "aqi": 90,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bluff City",
+      "aqi": 90,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Maha Sarakham",
+      "aqi": 89,
+      "stationCount": 2
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Saraburi",
+      "aqi": 89,
+      "stationCount": 2
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "West Jakarta",
+      "aqi": 89,
+      "stationCount": 2
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "Celestynów",
+      "aqi": 89,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Xayabury District",
+      "aqi": 89,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Lak 52",
+      "aqi": 89,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "La Ceiba",
+      "aqi": 89,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Jajag",
+      "aqi": 89,
+      "stationCount": 1
+    },
+    {
+      "country": "Cambodia",
+      "country_code": "kh",
+      "city": "Khan Chbar Ampov",
+      "aqi": 89,
+      "stationCount": 1
+    },
+    {
+      "country": "Israel",
+      "country_code": "il",
+      "city": "Ashkelon",
+      "aqi": 89,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Krabi",
+      "aqi": 88,
+      "stationCount": 2
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Ang Thong",
+      "aqi": 88,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "South Tangerang",
+      "aqi": 88,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Akron",
+      "aqi": 88,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Büren",
+      "aqi": 88,
+      "stationCount": 1
+    },
+    {
+      "country": "Ecuador",
+      "country_code": "ec",
+      "city": "Guayaquil",
+      "aqi": 88,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "Valašské Meziříčí",
+      "aqi": 88,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Muang Mai",
+      "aqi": 88,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Muangpeun",
+      "aqi": 88,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bethel Manor",
+      "aqi": 88,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "San Pedro Sula",
+      "aqi": 88,
+      "stationCount": 3
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Sukkur",
+      "aqi": 88,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Bahawalpur District",
+      "aqi": 88,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Ghazir",
+      "aqi": 88,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Sopbao",
+      "aqi": 87,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Khanthaboury District",
+      "aqi": 87,
+      "stationCount": 2
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Baoowala",
+      "aqi": 87,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Karachi Division",
+      "aqi": 87,
+      "stationCount": 5
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Dusseldorf",
+      "aqi": 87,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Jesús de Otoro",
+      "aqi": 87,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Talanga",
+      "aqi": 87,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Kassel",
+      "aqi": 87,
+      "stationCount": 1
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "Wejherowo",
+      "aqi": 86,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Leidschendam",
+      "aqi": 86,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Whittlesea",
+      "aqi": 86,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Christiansburg",
+      "aqi": 86,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Donglouang",
+      "aqi": 86,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Champhone District",
+      "aqi": 86,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Muang Phin",
+      "aqi": 86,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Lakhonepheng District",
+      "aqi": 86,
+      "stationCount": 1
+    },
+    {
+      "country": "Cambodia",
+      "country_code": "kh",
+      "city": "Khan Pou Senchey",
+      "aqi": 86,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Peel en Maas",
+      "aqi": 86,
+      "stationCount": 1
+    },
+    {
+      "country": "Belgium",
+      "country_code": "be",
+      "city": "Kampenhout",
+      "aqi": 86,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Nieheim",
+      "aqi": 86,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "City of Westminster",
+      "aqi": 85,
+      "stationCount": 2
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "my",
+      "city": "Shah Alam",
+      "aqi": 85,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Vieng Xai",
+      "aqi": 85,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Namoun",
+      "aqi": 85,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Qaskeleñ",
+      "aqi": 85,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Alpharetta",
+      "aqi": 84,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Lynden",
+      "aqi": 84,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "ເມືອງ ໂພນທອງ",
+      "aqi": 84,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Muangkhi",
+      "aqi": 84,
+      "stationCount": 1
+    },
+    {
+      "country": "India",
+      "country_code": "in",
+      "city": "Dantri",
+      "aqi": 84,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Bsalim, Mezher, and Majzoub",
+      "aqi": 84,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Chachoengsao",
+      "aqi": 83,
+      "stationCount": 6
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Prachin Buri",
+      "aqi": 83,
+      "stationCount": 1
+    },
+    {
+      "country": "China",
+      "country_code": "cn",
+      "city": "Chaoyang District",
+      "aqi": 83,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Uithoorn",
+      "aqi": 83,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Depok",
+      "aqi": 83,
+      "stationCount": 1
+    },
+    {
+      "country": "Belgium",
+      "country_code": "be",
+      "city": "Halen",
+      "aqi": 83,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Central Jakarta",
+      "aqi": 83,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Xon-Tai",
+      "aqi": 83,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Dera Ghazi Khan",
+      "aqi": 83,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Broomfield",
+      "aqi": 83,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Khon Kaen",
+      "aqi": 82,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Ratchaburi",
+      "aqi": 82,
+      "stationCount": 2
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Greater London",
+      "aqi": 82,
+      "stationCount": 13
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Spring Hill",
+      "aqi": 82,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Glenfield",
+      "aqi": 82,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Beckenham",
+      "aqi": 82,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Chippewa Lake",
+      "aqi": 82,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Muang Et",
+      "aqi": 82,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Derh Pindi",
+      "aqi": 82,
+      "stationCount": 1
+    },
+    {
+      "country": "Peru",
+      "country_code": "pe",
+      "city": "Pachacámac",
+      "aqi": 82,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Lohfelden",
+      "aqi": 82,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Thür",
+      "aqi": 82,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Cleveland",
+      "aqi": 82,
+      "stationCount": 1
+    },
+    {
+      "country": "China",
+      "country_code": "cn",
+      "city": "Chabu",
+      "aqi": 81,
+      "stationCount": 1
+    },
+    {
+      "country": "India",
+      "country_code": "in",
+      "city": "Delhi",
+      "aqi": 81,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Gainesville",
+      "aqi": 81,
+      "stationCount": 3
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Nongphagna",
+      "aqi": 81,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Meung Quan",
+      "aqi": 81,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Lak Sao",
+      "aqi": 81,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Ban Dongphilo",
+      "aqi": 81,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Cantarranas",
+      "aqi": 81,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Yamaranguila",
+      "aqi": 81,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Loei",
+      "aqi": 80,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Houston",
+      "aqi": 80,
+      "stationCount": 16
+    },
+    {
+      "country": "Sudan",
+      "country_code": "sd",
+      "city": "Uma Cocab",
+      "aqi": 80,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Vientiane Capital",
+      "aqi": 80,
+      "stationCount": 8
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Naphai",
+      "aqi": 80,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "San Xai",
+      "aqi": 80,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Pagak",
+      "aqi": 80,
+      "stationCount": 10
+    },
+    {
+      "country": "Slovenia",
+      "country_code": "si",
+      "city": "Mengeš",
+      "aqi": 80,
+      "stationCount": 1
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "Wrocław",
+      "aqi": 79,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Stow",
+      "aqi": 79,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bowling Green",
+      "aqi": 79,
+      "stationCount": 2
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Lahore",
+      "aqi": 79,
+      "stationCount": 6
+    },
+    {
+      "country": "Kenya",
+      "country_code": "ke",
+      "city": "Kinoo ward",
+      "aqi": 79,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Atascocita",
+      "aqi": 79,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Modena",
+      "aqi": 79,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Elizabeth City",
+      "aqi": 78,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Cumming",
+      "aqi": 78,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Montesson",
+      "aqi": 78,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Dulce Nombre de Culmí",
+      "aqi": 78,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Lancashire",
+      "aqi": 78,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Detroit",
+      "aqi": 78,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Chanthaburi",
+      "aqi": 77,
+      "stationCount": 2
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Maarssen",
+      "aqi": 77,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Ban Kho",
+      "aqi": 77,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Keo Oudom District",
+      "aqi": 77,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Muang Nong",
+      "aqi": 77,
+      "stationCount": 1
+    },
+    {
+      "country": "Bahrain",
+      "country_code": "bh",
+      "city": "A'ali",
+      "aqi": 77,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Sempol",
+      "aqi": 77,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Kebontempur",
+      "aqi": 77,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Multan District",
+      "aqi": 77,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Aachen",
+      "aqi": 77,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Charlottesville",
+      "aqi": 77,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Hôtel Dieu",
+      "aqi": 77,
+      "stationCount": 2
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "San Manuel",
+      "aqi": 77,
+      "stationCount": 1
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "gmina Zielonki",
+      "aqi": 77,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Phuket",
+      "aqi": 76,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Charlotte",
+      "aqi": 76,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "County Durham",
+      "aqi": 76,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Wayne",
+      "aqi": 76,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Nieuwegein",
+      "aqi": 76,
+      "stationCount": 1
+    },
+    {
+      "country": "Argentina",
+      "country_code": "ar",
+      "city": "Berisso",
+      "aqi": 76,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Hundal",
+      "aqi": 76,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Nakoutchan",
+      "aqi": 76,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Nasrah",
+      "aqi": 76,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Nakhon Ratchasima",
+      "aqi": 75,
+      "stationCount": 11
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Satun",
+      "aqi": 75,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Los Gatos",
+      "aqi": 75,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Whitehorse",
+      "aqi": 75,
+      "stationCount": 1
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "sa",
+      "city": "Riyadh Region",
+      "aqi": 75,
+      "stationCount": 1
+    },
+    {
+      "country": "Israel",
+      "country_code": "il",
+      "city": "Zikhron Yaakov",
+      "aqi": 75,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Phou Khoun",
+      "aqi": 75,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "West Des Moines",
+      "aqi": 75,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Marietta",
+      "aqi": 75,
+      "stationCount": 2
+    },
+    {
+      "country": "India",
+      "country_code": "in",
+      "city": "Bhopal",
+      "aqi": 75,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Nakhon Nayok",
+      "aqi": 74,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Lop Buri",
+      "aqi": 74,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Waukee",
+      "aqi": 74,
+      "stationCount": 1
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Melilla",
+      "aqi": 74,
+      "stationCount": 1
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "sa",
+      "city": "Dammam Governorate",
+      "aqi": 74,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Telgte",
+      "aqi": 74,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Turin",
+      "aqi": 74,
+      "stationCount": 2
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "gmina Nowa Wieś Wielka",
+      "aqi": 74,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Peachtree City",
+      "aqi": 74,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Phang-nga",
+      "aqi": 73,
+      "stationCount": 2
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Ranong",
+      "aqi": 73,
+      "stationCount": 1
+    },
+    {
+      "country": "Romania",
+      "country_code": "ro",
+      "city": "Cluj-Napoca",
+      "aqi": 73,
+      "stationCount": 2
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Semarang",
+      "aqi": 73,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Brüggen",
+      "aqi": 73,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Phonme",
+      "aqi": 73,
+      "stationCount": 1
+    },
+    {
+      "country": "Ireland",
+      "country_code": "ie",
+      "city": "Dublin",
+      "aqi": 73,
+      "stationCount": 2
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "gmina Kornowac",
+      "aqi": 73,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Bangkok",
+      "aqi": 72,
+      "stationCount": 124
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Chon Buri",
+      "aqi": 72,
+      "stationCount": 5
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Doetinchem",
+      "aqi": 72,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Casalmaggiore",
+      "aqi": 72,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Lamaní",
+      "aqi": 72,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Corpus Christi",
+      "aqi": 72,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Xiangkho",
+      "aqi": 72,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Ban Lao Bridge",
+      "aqi": 72,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Moreland",
+      "aqi": 72,
+      "stationCount": 1
+    },
+    {
+      "country": "Philippines",
+      "country_code": "ph",
+      "city": "Las Piñas",
+      "aqi": 72,
+      "stationCount": 1
+    },
+    {
+      "country": "Romania",
+      "country_code": "ro",
+      "city": "Târgu Mureș",
+      "aqi": 72,
+      "stationCount": 3
+    },
+    {
+      "country": "Belgium",
+      "country_code": "be",
+      "city": "Geel",
+      "aqi": 72,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Prachuap Khiri Khan",
+      "aqi": 71,
+      "stationCount": 2
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Phra Nakhon Si Ayutthaya",
+      "aqi": 71,
+      "stationCount": 2
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Winterswijk Meddo",
+      "aqi": 71,
+      "stationCount": 1
+    },
+    {
+      "country": "Croatia",
+      "country_code": "hr",
+      "city": "City of Zagreb",
+      "aqi": 71,
+      "stationCount": 4
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Reading",
+      "aqi": 71,
+      "stationCount": 2
+    },
+    {
+      "country": "Greece",
+      "country_code": "gr",
+      "city": "Panorama Municipal Unit",
+      "aqi": 71,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Alhambra",
+      "aqi": 71,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Parma",
+      "aqi": 71,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Amsterdam",
+      "aqi": 71,
+      "stationCount": 3
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Utrecht",
+      "aqi": 71,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "Brno",
+      "aqi": 71,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Erwin",
+      "aqi": 71,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Chandiya",
+      "aqi": 71,
+      "stationCount": 1
+    },
+    {
+      "country": "India",
+      "country_code": "in",
+      "city": "Vejalpur Taluka",
+      "aqi": 71,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Brookhaven",
+      "aqi": 71,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Samut Prakan",
+      "aqi": 70,
+      "stationCount": 6
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Nong Khai",
+      "aqi": 70,
+      "stationCount": 3
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Amnat Charoen",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Ellicott City",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "Ireland",
+      "country_code": "ie",
+      "city": "Julianstown ED",
+      "aqi": 70,
+      "stationCount": 2
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Staffordshire",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Dallas",
+      "aqi": 70,
+      "stationCount": 2
+    },
+    {
+      "country": "Hungary",
+      "country_code": "hu",
+      "city": "Derecskei járás",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Dongen",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Kent",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Nawan Pind",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bakersfield",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "Nigeria",
+      "country_code": "ng",
+      "city": "Gwarinpa",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Baushrieh",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "La Paz",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Villa de San Antonio",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Choluteca",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Oak Ridge",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "Hong Kong",
+      "country_code": "hk",
+      "city": "Hong Kong",
+      "aqi": 70,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Trat",
+      "aqi": 69,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Darlington",
+      "aqi": 69,
+      "stationCount": 1
+    },
+    {
+      "country": "Nigeria",
+      "country_code": "ng",
+      "city": "Surulere",
+      "aqi": 69,
+      "stationCount": 1
+    },
+    {
+      "country": "Philippines",
+      "country_code": "ph",
+      "city": "Valenzuela",
+      "aqi": 69,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Aamchit",
+      "aqi": 69,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Hanover",
+      "aqi": 69,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "San Lorenzo",
+      "aqi": 69,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Roi Et",
+      "aqi": 68,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Conway",
+      "aqi": 68,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Hurt",
+      "aqi": 68,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Enschede",
+      "aqi": 68,
+      "stationCount": 1
+    },
+    {
+      "country": "Senegal",
+      "country_code": "sn",
+      "city": "Communauté rurale de Ronkh",
+      "aqi": 68,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Muang Khoun",
+      "aqi": 68,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Driebergen-Rijsenburg",
+      "aqi": 68,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Hachenburg",
+      "aqi": 68,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "North Lanarkshire",
+      "aqi": 68,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Nonthaburi",
+      "aqi": 67,
+      "stationCount": 5
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Brighton and Hove",
+      "aqi": 67,
+      "stationCount": 4
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Moonee Valley",
+      "aqi": 67,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Schmeilsdorf",
+      "aqi": 67,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Raiwind Tehsil",
+      "aqi": 67,
+      "stationCount": 2
+    },
+    {
+      "country": "Liberia",
+      "country_code": "lr",
+      "city": "Monrovia",
+      "aqi": 67,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Hillsboro",
+      "aqi": 67,
+      "stationCount": 1
+    },
+    {
+      "country": "India",
+      "country_code": "in",
+      "city": "Srinagar",
+      "aqi": 67,
+      "stationCount": 2
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Nakhon Si Thammarat",
+      "aqi": 66,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Narathiwat",
+      "aqi": 66,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Samut Songkhram",
+      "aqi": 66,
+      "stationCount": 2
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Surat Thani",
+      "aqi": 66,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Phetchaburi",
+      "aqi": 66,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Louisville",
+      "aqi": 66,
+      "stationCount": 1
+    },
+    {
+      "country": "Morocco",
+      "country_code": "ma",
+      "city": "Marrakesh",
+      "aqi": 66,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Surrey",
+      "aqi": 66,
+      "stationCount": 2
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Vianen",
+      "aqi": 66,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "Leskovec",
+      "aqi": 66,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "San Antonio de Oriente",
+      "aqi": 66,
+      "stationCount": 1
+    },
+    {
+      "country": "Slovakia",
+      "country_code": "sk",
+      "city": "Lužianky",
+      "aqi": 66,
+      "stationCount": 1
+    },
+    {
+      "country": "Turkey",
+      "country_code": "tr",
+      "city": "Canakkale",
+      "aqi": 66,
+      "stationCount": 1
+    },
+    {
+      "country": "Ghana",
+      "country_code": "gh",
+      "city": "Tema",
+      "aqi": 66,
+      "stationCount": 3
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Schkeuditz",
+      "aqi": 66,
+      "stationCount": 1
+    },
+    {
+      "country": "India",
+      "country_code": "in",
+      "city": "Jammu",
+      "aqi": 66,
+      "stationCount": 2
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Bqosta",
+      "aqi": 66,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Trang",
+      "aqi": 65,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Pattani",
+      "aqi": 65,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Phatthalung",
+      "aqi": 65,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Yala",
+      "aqi": 65,
+      "stationCount": 2
+    },
+    {
+      "country": "Hungary",
+      "country_code": "hu",
+      "city": "Hajdúsámson",
+      "aqi": 65,
+      "stationCount": 1
+    },
+    {
+      "country": "Romania",
+      "country_code": "ro",
+      "city": "Sibiu",
+      "aqi": 65,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Hampshire",
+      "aqi": 65,
+      "stationCount": 4
+    },
+    {
+      "country": "Slovakia",
+      "country_code": "sk",
+      "city": "Ružomberok",
+      "aqi": 65,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Namngat",
+      "aqi": 65,
+      "stationCount": 1
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "gmina Suchy Las",
+      "aqi": 65,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Jbeil",
+      "aqi": 65,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Nakhon Pathom",
+      "aqi": 64,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Yasothon",
+      "aqi": 64,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Borough of Wokingham",
+      "aqi": 64,
+      "stationCount": 2
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "District of Tuggeranong",
+      "aqi": 64,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Rogue River",
+      "aqi": 64,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "SO POÚ Turnov",
+      "aqi": 64,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Muangphiang",
+      "aqi": 64,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "Hradec Králové",
+      "aqi": 64,
+      "stationCount": 1
+    },
+    {
+      "country": "Slovenia",
+      "country_code": "si",
+      "city": "Domžale",
+      "aqi": 64,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Hlaliyeh Saida",
+      "aqi": 64,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Nakhon Phanom",
+      "aqi": 63,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Mukdahan",
+      "aqi": 63,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Samut Sakhon",
+      "aqi": 63,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bellvue",
+      "aqi": 63,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Bassersdorf",
+      "aqi": 63,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Frankfurt",
+      "aqi": 63,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Parkville",
+      "aqi": 63,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Irving",
+      "aqi": 63,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Meaux",
+      "aqi": 63,
+      "stationCount": 1
+    },
+    {
+      "country": "Nigeria",
+      "country_code": "ng",
+      "city": "Ikeja",
+      "aqi": 63,
+      "stationCount": 2
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Faisalabad City Tehsil",
+      "aqi": 63,
+      "stationCount": 15
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Tegucigalpa",
+      "aqi": 63,
+      "stationCount": 3
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Almaty",
+      "aqi": 63,
+      "stationCount": 111
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Rayong",
+      "aqi": 62,
+      "stationCount": 7
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bluffton",
+      "aqi": 62,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Grand Rapids",
+      "aqi": 62,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Worcestershire",
+      "aqi": 62,
+      "stationCount": 2
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Brunswick",
+      "aqi": 62,
+      "stationCount": 1
+    },
+    {
+      "country": "Ireland",
+      "country_code": "ie",
+      "city": "Delgany ED",
+      "aqi": 62,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Chaklala Cantonment",
+      "aqi": 62,
+      "stationCount": 1
+    },
+    {
+      "country": "Nigeria",
+      "country_code": "ng",
+      "city": "Obafemi Owode",
+      "aqi": 62,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Faisalabad District",
+      "aqi": 62,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Comayagua",
+      "aqi": 62,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Puerto Cortés",
+      "aqi": 62,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Chumphon",
+      "aqi": 61,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Bueng Kan",
+      "aqi": 61,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Udon Thani",
+      "aqi": 61,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Oconomowoc",
+      "aqi": 61,
+      "stationCount": 3
+    },
+    {
+      "country": "Japan",
+      "country_code": "jp",
+      "city": "Tokyo",
+      "aqi": 61,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Kampen",
+      "aqi": 61,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Twinsburg",
+      "aqi": 61,
+      "stationCount": 1
+    },
+    {
+      "country": "Cameroon",
+      "country_code": "cm",
+      "city": "Douala III",
+      "aqi": 61,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Trebur",
+      "aqi": 61,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Spenge",
+      "aqi": 61,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Sidon",
+      "aqi": 61,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Milwaukee",
+      "aqi": 60,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Leiden",
+      "aqi": 60,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Hastings",
+      "aqi": 60,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Claviers",
+      "aqi": 60,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Lieli LU",
+      "aqi": 60,
+      "stationCount": 1
+    },
+    {
+      "country": "Ireland",
+      "country_code": "ie",
+      "city": "Swords",
+      "aqi": 60,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Breda",
+      "aqi": 60,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Hanau",
+      "aqi": 60,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Jamrud Tehsil",
+      "aqi": 60,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Gopi Rai",
+      "aqi": 60,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Avellino",
+      "aqi": 60,
+      "stationCount": 1
+    },
+    {
+      "country": "Senegal",
+      "country_code": "sn",
+      "city": "Ziguinchor",
+      "aqi": 60,
+      "stationCount": 4
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "Smolkov",
+      "aqi": 60,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Kalasin",
+      "aqi": 59,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Nong Bua Lam Phu",
+      "aqi": 59,
+      "stationCount": 1
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "Warsaw",
+      "aqi": 59,
+      "stationCount": 5
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Bois-de-la-Pierre",
+      "aqi": 59,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Huntsville",
+      "aqi": 59,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Palaiseau",
+      "aqi": 59,
+      "stationCount": 1
+    },
+    {
+      "country": "Hungary",
+      "country_code": "hu",
+      "city": "Diósd",
+      "aqi": 59,
+      "stationCount": 1
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Madrid",
+      "aqi": 59,
+      "stationCount": 2
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Xanakham",
+      "aqi": 59,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Ban Bungxe",
+      "aqi": 59,
+      "stationCount": 1
+    },
+    {
+      "country": "Armenia",
+      "country_code": "am",
+      "city": "Yerevan",
+      "aqi": 59,
+      "stationCount": 3
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Old City",
+      "aqi": 59,
+      "stationCount": 4
+    },
+    {
+      "country": "Philippines",
+      "country_code": "ph",
+      "city": "Quezon City",
+      "aqi": 59,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Glen Ellyn",
+      "aqi": 59,
+      "stationCount": 1
+    },
+    {
+      "country": "Croatia",
+      "country_code": "hr",
+      "city": "Grad Sveta Nedelja",
+      "aqi": 59,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bartlett",
+      "aqi": 58,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Stirling",
+      "aqi": 58,
+      "stationCount": 1
+    },
+    {
+      "country": "Hungary",
+      "country_code": "hu",
+      "city": "Debrecen",
+      "aqi": 58,
+      "stationCount": 3
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "County Londonderry",
+      "aqi": 58,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Banlao",
+      "aqi": 58,
+      "stationCount": 1
+    },
+    {
+      "country": "South Korea",
+      "country_code": "kr",
+      "city": "Seoul",
+      "aqi": 58,
+      "stationCount": 1
+    },
+    {
+      "country": "Morocco",
+      "country_code": "ma",
+      "city": "Ben Guerir",
+      "aqi": 58,
+      "stationCount": 1
+    },
+    {
+      "country": "Hungary",
+      "country_code": "hu",
+      "city": "Budakalász",
+      "aqi": 58,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Alkmaar",
+      "aqi": 58,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Daska",
+      "aqi": 58,
+      "stationCount": 1
+    },
+    {
+      "country": "Nigeria",
+      "country_code": "ng",
+      "city": "Shangisha",
+      "aqi": 58,
+      "stationCount": 2
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Narowal",
+      "aqi": 58,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Gwadar",
+      "aqi": 58,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Muzaffarabad",
+      "aqi": 58,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Langley (District)",
+      "aqi": 57,
+      "stationCount": 1
+    },
+    {
+      "country": "Senegal",
+      "country_code": "sn",
+      "city": "Dakar",
+      "aqi": 57,
+      "stationCount": 4
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "McKees Rocks",
+      "aqi": 57,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Corinth",
+      "aqi": 57,
+      "stationCount": 1
+    },
+    {
+      "country": "Cyprus",
+      "country_code": "cy",
+      "city": "Ypsonas",
+      "aqi": 57,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Eltville",
+      "aqi": 57,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "City of Edinburgh",
+      "aqi": 57,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Tübingen",
+      "aqi": 57,
+      "stationCount": 1
+    },
+    {
+      "country": "Ghana",
+      "country_code": "gh",
+      "city": "Accra",
+      "aqi": 56,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Monona",
+      "aqi": 56,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Frazer Township",
+      "aqi": 56,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Dübendorf",
+      "aqi": 56,
+      "stationCount": 3
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Golden",
+      "aqi": 56,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Bern",
+      "aqi": 56,
+      "stationCount": 2
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Fontainebleau",
+      "aqi": 56,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Memphis",
+      "aqi": 56,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Denpasar",
+      "aqi": 56,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "West Berkshire",
+      "aqi": 56,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Iowa Colony",
+      "aqi": 56,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Bietigheim-Bissingen",
+      "aqi": 56,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Kotli Sattian Tehsil",
+      "aqi": 56,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Paris",
+      "aqi": 56,
+      "stationCount": 2
+    },
+    {
+      "country": "Cyprus",
+      "country_code": "cy",
+      "city": "Paphos Municipality",
+      "aqi": 56,
+      "stationCount": 1
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "Wieliczka",
+      "aqi": 56,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Reiskirchen",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "Croatia",
+      "country_code": "hr",
+      "city": "Općina Kostrena",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Plano",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Oberönz",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Little Elm",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "Japan",
+      "country_code": "jp",
+      "city": "Shinagawa",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Bennekom",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "Senegal",
+      "country_code": "sn",
+      "city": "Commune de Bargny",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "'s-Hertogenbosch",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "Japan",
+      "country_code": "jp",
+      "city": "Hiroshima",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Sevilla",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Deir El Balamand",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "Croatia",
+      "country_code": "hr",
+      "city": "Grad Samobor",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Marcovia",
+      "aqi": 55,
+      "stationCount": 1
+    },
+    {
+      "country": "Thailand",
+      "country_code": "th",
+      "city": "Sakon Nakhon",
+      "aqi": 54,
+      "stationCount": 4
+    },
+    {
+      "country": "Hungary",
+      "country_code": "hu",
+      "city": "Vámosszabadi",
+      "aqi": 54,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Rockville",
+      "aqi": 54,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "Unhošť",
+      "aqi": 54,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Livingston",
+      "aqi": 54,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "La Mirada",
+      "aqi": 54,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Levin",
+      "aqi": 54,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Atlanta",
+      "aqi": 54,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Voorburg",
+      "aqi": 54,
+      "stationCount": 3
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Pringgondani",
+      "aqi": 54,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "De Fryske Marren",
+      "aqi": 54,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Lincoln",
+      "aqi": 53,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Wierden",
+      "aqi": 53,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "SO POÚ Kolín",
+      "aqi": 53,
+      "stationCount": 1
+    },
+    {
+      "country": "Singapore",
+      "country_code": "sg",
+      "city": "Singapore",
+      "aqi": 53,
+      "stationCount": 9
+    },
+    {
+      "country": "Philippines",
+      "country_code": "ph",
+      "city": "Iloilo City",
+      "aqi": 53,
+      "stationCount": 4
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Ontario",
+      "aqi": 53,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Appleton",
+      "aqi": 53,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Montevecchia",
+      "aqi": 53,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Vancouver",
+      "aqi": 53,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Model Town",
+      "aqi": 53,
+      "stationCount": 3
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Gujranwala City Tehsil",
+      "aqi": 53,
+      "stationCount": 7
+    },
+    {
+      "country": "Israel",
+      "country_code": "il",
+      "city": "Shoham",
+      "aqi": 53,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Sursee",
+      "aqi": 53,
+      "stationCount": 1
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Oviedo",
+      "aqi": 53,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Oberursel (Taunus)",
+      "aqi": 52,
+      "stationCount": 2
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Dijk en Waard",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Roden",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Hirschaid",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "SO POÚ Roztoky",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Majadahonda",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Flers",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "South Africa",
+      "country_code": "za",
+      "city": "Pretoria",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "Maldives",
+      "country_code": "mv",
+      "city": "Malé",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "Portugal",
+      "country_code": "pt",
+      "city": "Lisbon",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Schönenbuch",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Palmerston",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Santa Rosa",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Veendam",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "Bulgaria",
+      "country_code": "bg",
+      "city": "Stara Zagora",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Alcobendas",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Regenstauf",
+      "aqi": 52,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Birmingham",
+      "aqi": 51,
+      "stationCount": 11
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Kent",
+      "aqi": 51,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Eagan",
+      "aqi": 51,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Milpitas",
+      "aqi": 51,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "IJmuiden",
+      "aqi": 51,
+      "stationCount": 1
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "Krakow",
+      "aqi": 51,
+      "stationCount": 3
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Milan",
+      "aqi": 51,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Crestwood",
+      "aqi": 51,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Murree",
+      "aqi": 51,
+      "stationCount": 2
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Kahuta Tehsil",
+      "aqi": 51,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Hermel",
+      "aqi": 51,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Al Qoubaiyat",
+      "aqi": 51,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Merced",
+      "aqi": 50,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bedford",
+      "aqi": 50,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Beilen",
+      "aqi": 50,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "East Greenwich",
+      "aqi": 50,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Moormerland",
+      "aqi": 50,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Fresno",
+      "aqi": 50,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Fort Worth",
+      "aqi": 50,
+      "stationCount": 4
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Richmond",
+      "aqi": 50,
+      "stationCount": 2
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Zwolle",
+      "aqi": 50,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Houten",
+      "aqi": 50,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Neuss",
+      "aqi": 50,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Chah Sultan",
+      "aqi": 50,
+      "stationCount": 5
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Granada",
+      "aqi": 50,
+      "stationCount": 1
+    },
+    {
+      "country": "Senegal",
+      "country_code": "sn",
+      "city": "Commune de Diamniadio",
+      "aqi": 50,
+      "stationCount": 1
+    },
+    {
+      "country": "China",
+      "country_code": "cn",
+      "city": "Gandain township",
+      "aqi": 50,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Westmont",
+      "aqi": 50,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Olde West Chester",
+      "aqi": 50,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Centreville",
+      "aqi": 49,
+      "stationCount": 1
+    },
+    {
+      "country": "Greece",
+      "country_code": "gr",
+      "city": "Municipal Unit of Tolofona",
+      "aqi": 49,
+      "stationCount": 1
+    },
+    {
+      "country": "Japan",
+      "country_code": "jp",
+      "city": "Ibaraki Prefecture",
+      "aqi": 49,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Manchester",
+      "aqi": 48,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Lost Hills",
+      "aqi": 48,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Leicestershire",
+      "aqi": 48,
+      "stationCount": 2
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "Poznan",
+      "aqi": 48,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Berlin",
+      "aqi": 48,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Elk Grove",
+      "aqi": 48,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Wilmette",
+      "aqi": 47,
+      "stationCount": 1
+    },
+    {
+      "country": "Ukraine",
+      "country_code": "ua",
+      "city": "Kyiv",
+      "aqi": 47,
+      "stationCount": 1
+    },
+    {
+      "country": "China",
+      "country_code": "cn",
+      "city": "Suzhou",
+      "aqi": 47,
+      "stationCount": 1
+    },
+    {
+      "country": "Austria",
+      "country_code": "at",
+      "city": "Frauendorf an der Au",
+      "aqi": 47,
+      "stationCount": 1
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "my",
+      "city": "Kampung Tambulaung",
+      "aqi": 47,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Sialkot",
+      "aqi": 47,
+      "stationCount": 4
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "County Down",
+      "aqi": 47,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Stendal",
+      "aqi": 47,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Bdebba",
+      "aqi": 47,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Schifferstadt",
+      "aqi": 47,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Cincinnati",
+      "aqi": 47,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Herznach-Ueken",
+      "aqi": 46,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Gig Harbor",
+      "aqi": 46,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Grants Pass",
+      "aqi": 46,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Friendswood",
+      "aqi": 46,
+      "stationCount": 1
+    },
+    {
+      "country": "Romania",
+      "country_code": "ro",
+      "city": "Timișoara",
+      "aqi": 46,
+      "stationCount": 1
+    },
+    {
+      "country": "Senegal",
+      "country_code": "sn",
+      "city": "Diourbel",
+      "aqi": 46,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Weatherford",
+      "aqi": 46,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Islamabad",
+      "aqi": 46,
+      "stationCount": 2
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Noor Pura",
+      "aqi": 46,
+      "stationCount": 1
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Polinyà",
+      "aqi": 46,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Haarlem",
+      "aqi": 46,
+      "stationCount": 1
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Viladecavalls",
+      "aqi": 46,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Salem",
+      "aqi": 46,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Montebello",
+      "aqi": 45,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Hengelo",
+      "aqi": 45,
+      "stationCount": 2
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Beverwijk",
+      "aqi": 45,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Somerville",
+      "aqi": 44,
+      "stationCount": 3
+    },
+    {
+      "country": "Austria",
+      "country_code": "at",
+      "city": "Klosterneuburg",
+      "aqi": 44,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Mount Prospect",
+      "aqi": 44,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Revere",
+      "aqi": 44,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "SO POÚ Kralupy nad Vltavou",
+      "aqi": 44,
+      "stationCount": 1
+    },
+    {
+      "country": "Belgium",
+      "country_code": "be",
+      "city": "Mont-Saint-Guibert",
+      "aqi": 44,
+      "stationCount": 1
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Las Palmas",
+      "aqi": 44,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Land van Cuijk",
+      "aqi": 44,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Juneau",
+      "aqi": 44,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Coconut Creek",
+      "aqi": 44,
+      "stationCount": 1
+    },
+    {
+      "country": "Honduras",
+      "country_code": "hn",
+      "city": "Tela",
+      "aqi": 44,
+      "stationCount": 1
+    },
+    {
+      "country": "Ghana",
+      "country_code": "gh",
+      "city": "Tulaku",
+      "aqi": 44,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Qarasay District",
+      "aqi": 44,
+      "stationCount": 8
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Sterling",
+      "aqi": 44,
+      "stationCount": 1
+    },
+    {
+      "country": "Senegal",
+      "country_code": "sn",
+      "city": "Communauté rurale de Diembéring",
+      "aqi": 44,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Stuttgart",
+      "aqi": 44,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Zurich",
+      "aqi": 43,
+      "stationCount": 7
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Sachse",
+      "aqi": 43,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "South Hill",
+      "aqi": 43,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Mundelein",
+      "aqi": 43,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Oberthal",
+      "aqi": 43,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Dover",
+      "aqi": 43,
+      "stationCount": 1
+    },
+    {
+      "country": "Portugal",
+      "country_code": "pt",
+      "city": "Palmeira de Faro e Curvos",
+      "aqi": 43,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Ottobrunn",
+      "aqi": 43,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Jacksonville",
+      "aqi": 43,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Eau Claire",
+      "aqi": 43,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Emmen",
+      "aqi": 43,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Hochdorf",
+      "aqi": 43,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Zahle",
+      "aqi": 43,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Durham",
+      "aqi": 43,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Fallbrook",
+      "aqi": 42,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Oakland",
+      "aqi": 42,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "nečleněná Opava",
+      "aqi": 42,
+      "stationCount": 1
+    },
+    {
+      "country": "Malta",
+      "country_code": "mt",
+      "city": "Swieqi",
+      "aqi": 42,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "West Sussex",
+      "aqi": 42,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Stillwater",
+      "aqi": 42,
+      "stationCount": 1
+    },
+    {
+      "country": "Japan",
+      "country_code": "jp",
+      "city": "Hayama",
+      "aqi": 42,
+      "stationCount": 2
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Moruzzo / Murùs",
+      "aqi": 42,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Saint-Genis-Laval",
+      "aqi": 42,
+      "stationCount": 2
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Weinheim",
+      "aqi": 42,
+      "stationCount": 1
+    },
+    {
+      "country": "Austria",
+      "country_code": "at",
+      "city": "Vienna",
+      "aqi": 41,
+      "stationCount": 5
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Clayton",
+      "aqi": 41,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Alachua County",
+      "aqi": 41,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Martinez",
+      "aqi": 41,
+      "stationCount": 2
+    },
+    {
+      "country": "Greece",
+      "country_code": "gr",
+      "city": "Nipsa",
+      "aqi": 41,
+      "stationCount": 1
+    },
+    {
+      "country": "Austria",
+      "country_code": "at",
+      "city": "Bergern im Dunkelsteinerwald",
+      "aqi": 41,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Rancho Cucamonga",
+      "aqi": 41,
+      "stationCount": 1
+    },
+    {
+      "country": "Kosovo",
+      "country_code": "xk",
+      "city": "Pristina",
+      "aqi": 41,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Punjab",
+      "aqi": 41,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Manheim",
+      "aqi": 41,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "La Vina",
+      "aqi": 41,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Falls Church",
+      "aqi": 41,
+      "stationCount": 1
+    },
+    {
+      "country": "India",
+      "country_code": "in",
+      "city": "Rajouri",
+      "aqi": 41,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Oxfordshire",
+      "aqi": 40,
+      "stationCount": 4
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "San Mateo",
+      "aqi": 40,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Newberry",
+      "aqi": 40,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Howell",
+      "aqi": 40,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Oberasbach",
+      "aqi": 40,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "SO POÚ Český Brod",
+      "aqi": 40,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Dos Palos",
+      "aqi": 39,
+      "stationCount": 2
+    },
+    {
+      "country": "Slovenia",
+      "country_code": "si",
+      "city": "Spodnja Brežnica",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Loenen",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "Belgium",
+      "country_code": "be",
+      "city": "Cerfontaine",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Schwäbisch Gmünd",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Graton",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Visalia",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "South Gloucestershire",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Narragansett",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "San Clemente",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Baltimore",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Tacoma",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Beavercreek",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Weston",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Westmorland and Furness",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Peshawar City Tehsil",
+      "aqi": 39,
+      "stationCount": 4
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Harrison",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Zaandam",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Pixley",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Campton Township",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "SO POÚ Zruč nad Sázavou",
+      "aqi": 39,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Laguna Hills",
+      "aqi": 38,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Chartres",
+      "aqi": 38,
+      "stationCount": 1
+    },
+    {
+      "country": "Argentina",
+      "country_code": "ar",
+      "city": "Saladillo",
+      "aqi": 38,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Orange",
+      "aqi": 38,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "West Chester",
+      "aqi": 38,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Kirkland",
+      "aqi": 38,
+      "stationCount": 2
+    },
+    {
+      "country": "Bulgaria",
+      "country_code": "bg",
+      "city": "Veliko Tarnovo",
+      "aqi": 38,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "St. Marys",
+      "aqi": 38,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Geneva",
+      "aqi": 38,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Menlo Park",
+      "aqi": 37,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Lake Forest",
+      "aqi": 37,
+      "stationCount": 1
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "id",
+      "city": "Makassar",
+      "aqi": 37,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Valencia",
+      "aqi": 37,
+      "stationCount": 1
+    },
+    {
+      "country": "Serbia",
+      "country_code": "rs",
+      "city": "Belgrade",
+      "aqi": 37,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "West Sacramento",
+      "aqi": 37,
+      "stationCount": 1
+    },
+    {
+      "country": "Senegal",
+      "country_code": "sn",
+      "city": "Saint-Louis",
+      "aqi": 37,
+      "stationCount": 4
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Motorway City",
+      "aqi": 37,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Everett",
+      "aqi": 37,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Qyzylqairat",
+      "aqi": 37,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Takoma Park",
+      "aqi": 37,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Palo Alto",
+      "aqi": 36,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Seattle",
+      "aqi": 36,
+      "stationCount": 13
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Coventry Lake",
+      "aqi": 36,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Hawthorne",
+      "aqi": 36,
+      "stationCount": 2
+    },
+    {
+      "country": "South Africa",
+      "country_code": "za",
+      "city": "Durban North",
+      "aqi": 36,
+      "stationCount": 2
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "Pňov-Předhradí",
+      "aqi": 36,
+      "stationCount": 1
+    },
+    {
+      "country": "Austria",
+      "country_code": "at",
+      "city": "Leobersdorf",
+      "aqi": 36,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Diablo",
+      "aqi": 36,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Sheffield",
+      "aqi": 36,
+      "stationCount": 2
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Savona",
+      "aqi": 36,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Kinloch",
+      "aqi": 36,
+      "stationCount": 1
+    },
+    {
+      "country": "Ireland",
+      "country_code": "ie",
+      "city": "Cork",
+      "aqi": 35,
+      "stationCount": 2
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Norfolk",
+      "aqi": 35,
+      "stationCount": 2
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Holzgerlingen",
+      "aqi": 35,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Medway",
+      "aqi": 35,
+      "stationCount": 1
+    },
+    {
+      "country": "Hungary",
+      "country_code": "hu",
+      "city": "Szentendre",
+      "aqi": 35,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Almere",
+      "aqi": 35,
+      "stationCount": 2
+    },
+    {
+      "country": "South Africa",
+      "country_code": "za",
+      "city": "Cape Town",
+      "aqi": 34,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Folsom",
+      "aqi": 34,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Los Banos",
+      "aqi": 34,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Boca Raton",
+      "aqi": 34,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Somerset",
+      "aqi": 34,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "El Lago",
+      "aqi": 34,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Ganderkesee",
+      "aqi": 34,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Normal",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Stillwater Township",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "Nepal",
+      "country_code": "np",
+      "city": "Kanda-04",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Lincolnshire",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "China",
+      "country_code": "cn",
+      "city": "Artux City",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Easton",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "San Diego",
+      "aqi": 33,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Gardena",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Southampton",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Zeewolde",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Birkenwerder",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Indianapolis",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Bessenbach",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "Senegal",
+      "country_code": "sn",
+      "city": "Rufisque",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Amersfoort",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Karlsruhe",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Dorrance Township",
+      "aqi": 33,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Irvine",
+      "aqi": 32,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bellevue",
+      "aqi": 32,
+      "stationCount": 4
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Arcata",
+      "aqi": 32,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Antelope",
+      "aqi": 32,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Melrose",
+      "aqi": 32,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Drolshagen",
+      "aqi": 32,
+      "stationCount": 1
+    },
+    {
+      "country": "Slovenia",
+      "country_code": "si",
+      "city": "Hoče-Slivnica",
+      "aqi": 32,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Texas Charter Township",
+      "aqi": 32,
+      "stationCount": 1
+    },
+    {
+      "country": "Ghana",
+      "country_code": "gh",
+      "city": "Kpone-Katamanso Municipal District",
+      "aqi": 32,
+      "stationCount": 1
+    },
+    {
+      "country": "Slovakia",
+      "country_code": "sk",
+      "city": "Bratislava",
+      "aqi": 32,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Tuzdybastau",
+      "aqi": 32,
+      "stationCount": 1
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "lb",
+      "city": "Ain Dara",
+      "aqi": 32,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Castellanza",
+      "aqi": 32,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bellingham",
+      "aqi": 31,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Springville",
+      "aqi": 31,
+      "stationCount": 2
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Tharwa",
+      "aqi": 31,
+      "stationCount": 1
+    },
+    {
+      "country": "Colombia",
+      "country_code": "co",
+      "city": "Cali",
+      "aqi": 31,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Santa Cruz",
+      "aqi": 31,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Redmond",
+      "aqi": 31,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Fairmead",
+      "aqi": 31,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Mentor",
+      "aqi": 31,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Echteld",
+      "aqi": 31,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Sherpur",
+      "aqi": 31,
+      "stationCount": 1
+    },
+    {
+      "country": "Serbia",
+      "country_code": "rs",
+      "city": "Vojvodina",
+      "aqi": 31,
+      "stationCount": 1
+    },
+    {
+      "country": "Taiwan",
+      "country_code": "tw",
+      "city": "Zhubei City",
+      "aqi": 31,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Rome",
+      "aqi": 31,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Bradford",
+      "aqi": 30,
+      "stationCount": 2
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Castricum",
+      "aqi": 30,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bainbridge Island",
+      "aqi": 29,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Sunset Hills",
+      "aqi": 29,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Tiburon",
+      "aqi": 29,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Santa Maria",
+      "aqi": 29,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Hobart",
+      "aqi": 29,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Moraga",
+      "aqi": 29,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Wateringen",
+      "aqi": 29,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Bergamo",
+      "aqi": 29,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Union Hill-Novelty Hill",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Larchmont",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "South Africa",
+      "country_code": "za",
+      "city": "KwaDukuza Local Municipality",
+      "aqi": 28,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Anderson",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Pleasantville",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Beaumont",
+      "aqi": 28,
+      "stationCount": 2
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Wingecarribee",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "La Center",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Upper Montclair",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Boonville",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Tyler",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Villingen-Schwenningen",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Morgan Hill",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Rennes",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "Senegal",
+      "country_code": "sn",
+      "city": "Thiès",
+      "aqi": 28,
+      "stationCount": 2
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "City of Milton Keynes",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "Nigeria",
+      "country_code": "ng",
+      "city": "Eti Osa",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Davenport",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Stevenson Ranch",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Säriswil",
+      "aqi": 28,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Castaic",
+      "aqi": 27,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Cuxhaven",
+      "aqi": 27,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Long Beach",
+      "aqi": 27,
+      "stationCount": 2
+    },
+    {
+      "country": "Slovenia",
+      "country_code": "si",
+      "city": "Maribor",
+      "aqi": 27,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Tufaul Kot",
+      "aqi": 27,
+      "stationCount": 1
+    },
+    {
+      "country": "Senegal",
+      "country_code": "sn",
+      "city": "Communauté rurale de Fandène",
+      "aqi": 27,
+      "stationCount": 1
+    },
+    {
+      "country": "Senegal",
+      "country_code": "sn",
+      "city": "Bignona",
+      "aqi": 27,
+      "stationCount": 1
+    },
+    {
+      "country": "Latvia",
+      "country_code": "lv",
+      "city": "Kandava",
+      "aqi": 27,
+      "stationCount": 1
+    },
+    {
+      "country": "South Africa",
+      "country_code": "za",
+      "city": "KwaDukuza",
+      "aqi": 26,
+      "stationCount": 4
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Alpine",
+      "aqi": 26,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Oak Bay",
+      "aqi": 26,
+      "stationCount": 2
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Adelaide",
+      "aqi": 26,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Mountain View",
+      "aqi": 26,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Tipp City",
+      "aqi": 26,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Belbulak",
+      "aqi": 26,
+      "stationCount": 1
+    },
+    {
+      "country": "North Macedonia",
+      "country_code": "mk",
+      "city": "Debar",
+      "aqi": 26,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Redwood City",
+      "aqi": 25,
+      "stationCount": 3
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Weilheim in Oberbayern",
+      "aqi": 25,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Carteret",
+      "aqi": 25,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "Prague",
+      "aqi": 25,
+      "stationCount": 4
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Roseburg",
+      "aqi": 25,
+      "stationCount": 1
+    },
+    {
+      "country": "Greece",
+      "country_code": "gr",
+      "city": "Municipality of Korydallos",
+      "aqi": 25,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "San Luis Obispo",
+      "aqi": 25,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Wiefelstede",
+      "aqi": 25,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Bhilo Mahar",
+      "aqi": 25,
+      "stationCount": 1
+    },
+    {
+      "country": "Hungary",
+      "country_code": "hu",
+      "city": "Budapest",
+      "aqi": 25,
+      "stationCount": 1
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "gmina Piaseczno",
+      "aqi": 25,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Hilsbach",
+      "aqi": 25,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Riner",
+      "aqi": 25,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Camas",
+      "aqi": 24,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Micanopy",
+      "aqi": 24,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Peace River",
+      "aqi": 24,
+      "stationCount": 1
+    },
+    {
+      "country": "Romania",
+      "country_code": "ro",
+      "city": "Domnești",
+      "aqi": 24,
+      "stationCount": 1
+    },
+    {
+      "country": "Taiwan",
+      "country_code": "tw",
+      "city": "Taipei",
+      "aqi": 24,
+      "stationCount": 2
+    },
+    {
+      "country": "Nigeria",
+      "country_code": "ng",
+      "city": "Akoka",
+      "aqi": 24,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Goose Creek",
+      "aqi": 24,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Marple",
+      "aqi": 24,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Corenc",
+      "aqi": 24,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Sedona",
+      "aqi": 23,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Holtville",
+      "aqi": 23,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Winterthur",
+      "aqi": 23,
+      "stationCount": 5
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Abbotsford",
+      "aqi": 23,
+      "stationCount": 1
+    },
+    {
+      "country": "Austria",
+      "country_code": "at",
+      "city": "Kirchberg-Thening",
+      "aqi": 23,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Cuggiono",
+      "aqi": 23,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Dorset",
+      "aqi": 23,
+      "stationCount": 1
+    },
+    {
+      "country": "Bulgaria",
+      "country_code": "bg",
+      "city": "Ruse",
+      "aqi": 23,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Pontebba / Ponteibe / Pontafel / Tablija",
+      "aqi": 23,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Wakari",
+      "aqi": 23,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Danville",
+      "aqi": 23,
+      "stationCount": 2
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Epe",
+      "aqi": 23,
+      "stationCount": 1
+    },
+    {
+      "country": "Nigeria",
+      "country_code": "ng",
+      "city": "Falomo",
+      "aqi": 23,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Cloverdale",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Los Altos",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Richmond",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "Austria",
+      "country_code": "at",
+      "city": "Neunkirchen",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Burgkirchen an der Alz",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "San Marino",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Madison",
+      "aqi": 22,
+      "stationCount": 7
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "North Aurora",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Sutherland Shire",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Maple Valley",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Sydney",
+      "aqi": 22,
+      "stationCount": 4
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Hillsborough",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Johnstown",
+      "aqi": 22,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Avenal",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Union City",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Shelton",
+      "aqi": 22,
+      "stationCount": 2
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Kenmure",
+      "aqi": 22,
+      "stationCount": 2
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Nanaimo",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "Denmark",
+      "country_code": "dk",
+      "city": "Aalborg",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Wiesbaden",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Kinnelon",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "Austria",
+      "country_code": "at",
+      "city": "Hoffeld",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Devon",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "Guyana",
+      "country_code": "gy",
+      "city": "Wash Clothes",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "Serbia",
+      "country_code": "rs",
+      "city": "Vozdovac Urban Municipality",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Kenosha",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Clarksburg",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Murree Tehsil",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "Hungary",
+      "country_code": "hu",
+      "city": "Százhalombatta",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "Armenia",
+      "country_code": "am",
+      "city": "Tsakhkadzor",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Trentham",
+      "aqi": 22,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "University Place",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Scanzorosciate",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Hialeah",
+      "aqi": 21,
+      "stationCount": 2
+    },
+    {
+      "country": "Portugal",
+      "country_code": "pt",
+      "city": "Lousã",
+      "aqi": 21,
+      "stationCount": 3
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Vancouver",
+      "aqi": 21,
+      "stationCount": 3
+    },
+    {
+      "country": "Russia",
+      "country_code": "ru",
+      "city": "Levokumsky District",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Lehi",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Dingolfing",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Lyon",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Model Town Tehsil",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bowie",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Downers Grove",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "Russia",
+      "country_code": "ru",
+      "city": "Дрокино",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Cambridgeshire",
+      "aqi": 21,
+      "stationCount": 5
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Hohen Neuendorf",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Busto Arsizio",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Brockville",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Potomac",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "Cyprus",
+      "country_code": "cy",
+      "city": "Agios Georgios",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Fort Lee",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Wiltshire",
+      "aqi": 21,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Philadelphia",
+      "aqi": 20,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Delano",
+      "aqi": 20,
+      "stationCount": 12
+    },
+    {
+      "country": "Denmark",
+      "country_code": "dk",
+      "city": "Roskilde",
+      "aqi": 20,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Xepon",
+      "aqi": 20,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Aurora District",
+      "aqi": 19,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Wheat Ridge",
+      "aqi": 19,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "San Francisco",
+      "aqi": 19,
+      "stationCount": 4
+    },
+    {
+      "country": "Romania",
+      "country_code": "ro",
+      "city": "Voluntari",
+      "aqi": 19,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Marysville",
+      "aqi": 19,
+      "stationCount": 1
+    },
+    {
+      "country": "Slovenia",
+      "country_code": "si",
+      "city": "Celje",
+      "aqi": 19,
+      "stationCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Wieringerwaard",
+      "aqi": 19,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Yigo Municipality",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Riehen",
+      "aqi": 18,
+      "stationCount": 2
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "nl",
+      "city": "Amstelveen",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bayside",
+      "aqi": 18,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Denver",
+      "aqi": 18,
+      "stationCount": 6
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Foster City",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Uygur District",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Santa Monica",
+      "aqi": 18,
+      "stationCount": 4
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Melbourne Village",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Hamilton",
+      "aqi": 18,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Tigard",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "Sweden",
+      "country_code": "se",
+      "city": "Kalmar kommun",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "Sweden",
+      "country_code": "se",
+      "city": "Höllviken",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Waldkraiburg",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Lake Mary",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Upper Uwchlan Township",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Sambrial",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Жаңатұрмыс",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Columbus",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Oak Harbor",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Derbyshire",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "Gdańsk",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Hagenbüchach-Wilhelmsdorf (VGem)",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "Hungary",
+      "country_code": "hu",
+      "city": "Tárnok",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "Slovenia",
+      "country_code": "si",
+      "city": "Grosuplje",
+      "aqi": 18,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Chelsea",
+      "aqi": 17,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Kansas City",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Adjala-Tosorontio",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Columbia",
+      "aqi": 17,
+      "stationCount": 4
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Fort Collins",
+      "aqi": 17,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Portland",
+      "aqi": 17,
+      "stationCount": 5
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "North Tonawanda",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Arvada",
+      "aqi": 17,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Cutler Bay",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Greenfield",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Mount Vernon",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Colorado Springs",
+      "aqi": 17,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bend",
+      "aqi": 17,
+      "stationCount": 2
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Geestland",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Adams Township",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "La Côte-aux-Fées",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Glenross",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Littleton",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Glendale",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "South Pasadena",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Maori Hill",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Girona",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Sacramento",
+      "aqi": 17,
+      "stationCount": 3
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "Vestec",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Washington",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Oldenburg",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "Ireland",
+      "country_code": "ie",
+      "city": "Aughrim ED",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Saanich",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Emmendingen (Kernstadt)",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "New Berlin",
+      "aqi": 17,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Los Angeles",
+      "aqi": 16,
+      "stationCount": 14
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Altona",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Hoover",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Monkton",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Fall City",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "King",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "Zambia",
+      "country_code": "zm",
+      "city": "Siavonga",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Ulm",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Namdon",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "China",
+      "country_code": "cn",
+      "city": "Suyu District",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Pensacola",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Панфилово",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Saint-Sauveur",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Wisconsin Rapids",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Goleta",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "Italy",
+      "country_code": "it",
+      "city": "Primaluna",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Maple Shade Township",
+      "aqi": 16,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Elko New Market",
+      "aqi": 15,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Arlington",
+      "aqi": 15,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Rochester",
+      "aqi": 15,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Yellowknife",
+      "aqi": 15,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Vilabouly",
+      "aqi": 15,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Moreno Valley",
+      "aqi": 15,
+      "stationCount": 1
+    },
+    {
+      "country": "Taiwan",
+      "country_code": "tw",
+      "city": "Taoyuan City",
+      "aqi": 15,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Shah Alam Tehsil",
+      "aqi": 15,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Quetta City Tehsil",
+      "aqi": 15,
+      "stationCount": 5
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Dunedin",
+      "aqi": 15,
+      "stationCount": 2
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Günzburg",
+      "aqi": 15,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bainbridge",
+      "aqi": 15,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Huntington Beach",
+      "aqi": 15,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Chicago",
+      "aqi": 14,
+      "stationCount": 8
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Burien",
+      "aqi": 14,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Ryde",
+      "aqi": 14,
+      "stationCount": 1
+    },
+    {
+      "country": "Czechia",
+      "country_code": "cz",
+      "city": "SO POÚ Teplice",
+      "aqi": 14,
+      "stationCount": 1
+    },
+    {
+      "country": "Slovenia",
+      "country_code": "si",
+      "city": "Breg pri Polzeli",
+      "aqi": 14,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Montclair",
+      "aqi": 14,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Egmating",
+      "aqi": 14,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "San Marcos",
+      "aqi": 14,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "La Verne",
+      "aqi": 14,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Altadena",
+      "aqi": 14,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "La Canada Flintridge",
+      "aqi": 14,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Thonon-les-Bains",
+      "aqi": 14,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "St. Paul",
+      "aqi": 14,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Walnut Creek",
+      "aqi": 14,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Millville",
+      "aqi": 14,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Hermosa Beach",
+      "aqi": 14,
+      "stationCount": 1
+    },
+    {
+      "country": "France",
+      "country_code": "fr",
+      "city": "Mont-Saint-Martin",
+      "aqi": 13,
+      "stationCount": 1
+    },
+    {
+      "country": "Mauritius",
+      "country_code": "mu",
+      "city": "Grand Baie VCA, East",
+      "aqi": 13,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Munich",
+      "aqi": 13,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "New York",
+      "aqi": 13,
+      "stationCount": 10
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Davis",
+      "aqi": 13,
+      "stationCount": 2
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Oberon Council",
+      "aqi": 13,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Binghamton",
+      "aqi": 13,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Thurn",
+      "aqi": 13,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Pasadena",
+      "aqi": 13,
+      "stationCount": 3
+    },
+    {
+      "country": "Poland",
+      "country_code": "pl",
+      "city": "Białystok",
+      "aqi": 13,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Güldala",
+      "aqi": 13,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Aalen",
+      "aqi": 13,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "De Pere",
+      "aqi": 13,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Great Falls",
+      "aqi": 12,
+      "stationCount": 1
+    },
+    {
+      "country": "Austria",
+      "country_code": "at",
+      "city": "Nestelbach bei Graz",
+      "aqi": 12,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bear",
+      "aqi": 12,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Midland",
+      "aqi": 12,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Talgar",
+      "aqi": 12,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Severn",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Coldstream",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Sherbrooke",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "Portugal",
+      "country_code": "pt",
+      "city": "Almada",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Greene County",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Santa Barbara",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Tulare",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "Denmark",
+      "country_code": "dk",
+      "city": "Aarhus",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "San Rafael",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Snohomish",
+      "aqi": 11,
+      "stationCount": 3
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Hamburg",
+      "aqi": 11,
+      "stationCount": 5
+    },
+    {
+      "country": "Bulgaria",
+      "country_code": "bg",
+      "city": "Sofia",
+      "aqi": 11,
+      "stationCount": 5
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Salt Lake City",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "Mauritius",
+      "country_code": "mu",
+      "city": "Richelieu VCA, West",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "Moldova",
+      "country_code": "md",
+      "city": "Dumbrava",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Chowchilla",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Sunnyvale",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Ann Arbor",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Brooktrails",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "country_code": "cd",
+      "city": "Kimpe",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "Greece",
+      "country_code": "gr",
+      "city": "Skopelos",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Radnor Township",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Maple Ridge",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Roseville",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Middleton",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Central",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Olpe",
+      "aqi": 11,
+      "stationCount": 2
+    },
+    {
+      "country": "South Africa",
+      "country_code": "za",
+      "city": "Johannesburg",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "Malta",
+      "country_code": "mt",
+      "city": "Southern Region",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "Austria",
+      "country_code": "at",
+      "city": "Kammern im Liesingtal",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Kitzingen",
+      "aqi": 11,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Reno",
+      "aqi": 10,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Phoenix",
+      "aqi": 10,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Brampton",
+      "aqi": 10,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Gilroy",
+      "aqi": 10,
+      "stationCount": 2
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Waterloo",
+      "aqi": 10,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Maynard",
+      "aqi": 10,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Pößneck",
+      "aqi": 10,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Carlsbad",
+      "aqi": 10,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Sierra Madre",
+      "aqi": 10,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Norwich",
+      "aqi": 10,
+      "stationCount": 1
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "pk",
+      "city": "Qilla Saifullah Tehsil",
+      "aqi": 10,
+      "stationCount": 1
+    },
+    {
+      "country": "Belgium",
+      "country_code": "be",
+      "city": "Aartselaar",
+      "aqi": 9,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Earlimart",
+      "aqi": 9,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Tulsa",
+      "aqi": 9,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Hawkesbury",
+      "aqi": 9,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Medina",
+      "aqi": 8,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Perth",
+      "aqi": 8,
+      "stationCount": 2
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Gatineau",
+      "aqi": 8,
+      "stationCount": 2
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Central Bedfordshire",
+      "aqi": 8,
+      "stationCount": 1
+    },
+    {
+      "country": "Romania",
+      "country_code": "ro",
+      "city": "Iași Metropolitan Area",
+      "aqi": 8,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Spokane Valley",
+      "aqi": 8,
+      "stationCount": 1
+    },
+    {
+      "country": "Sweden",
+      "country_code": "se",
+      "city": "Mölndal",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Kitchener",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "South Africa",
+      "country_code": "za",
+      "city": "ESikhawini",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Corvallis",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Hof",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Dillingen an der Donau",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Wesley Chapel",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Fullerton",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "North Brunswick Township",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Lohr am Main",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "Greece",
+      "country_code": "gr",
+      "city": "Municipality of Northern Corfu",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Lynnwood",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "ch",
+      "city": "Ennetbürgen",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Cove Neck",
+      "aqi": 7,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Berkeley",
+      "aqi": 6,
+      "stationCount": 3
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Edmonton",
+      "aqi": 6,
+      "stationCount": 3
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Ottawa",
+      "aqi": 6,
+      "stationCount": 3
+    },
+    {
+      "country": "South Africa",
+      "country_code": "za",
+      "city": "Richards Bay",
+      "aqi": 6,
+      "stationCount": 2
+    },
+    {
+      "country": "South Africa",
+      "country_code": "za",
+      "city": "Robertson",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Calgary",
+      "aqi": 6,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "San Jose",
+      "aqi": 6,
+      "stationCount": 3
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Pleasant Grove",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Jackson",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Flagstaff",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Mount Barker",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Moreton Bay",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Spokane",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Tututawa",
+      "aqi": 6,
+      "stationCount": 3
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Sherwood Park",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "East St. Paul",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Rapid City",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Helena Flats",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Reynolds",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Santa Ana",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Kimberly",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Aspen Park",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Seevetal",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Germering",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "Romania",
+      "country_code": "ro",
+      "city": "Bucharest",
+      "aqi": 6,
+      "stationCount": 3
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Leeds and the Thousand Islands",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Taylorsville",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "West Hollywood",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Topanga",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "San Carlos",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "View Royal",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Leezen",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Rosemount",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Vista",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Brentwood",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Mount Horeb",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Port Moody",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Rancho Cordova",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Bremerton",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Woodbury Center",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Alacant / Alicante",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "New Hope",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Boulder Creek",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Hanover",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Calistoga",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Olympian Village",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Pullman",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "La Mesa",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Jensen Beach",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Burnaby",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Encinitas",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Waterford",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Oceanside",
+      "aqi": 6,
+      "stationCount": 1
+    },
+    {
+      "country": "South Africa",
+      "country_code": "za",
+      "city": "arboretum",
+      "aqi": 5,
+      "stationCount": 2
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "St. Charles",
+      "aqi": 5,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Whistler",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "South Africa",
+      "country_code": "za",
+      "city": "uMhlathuze Local Municipality",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "West Valley City",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "San Gabriel",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "Sweden",
+      "country_code": "se",
+      "city": "Nacka kommun",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Okanagan-Similkameen",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Stockton",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Boraldai",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Toddin",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Emeryville",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "China",
+      "country_code": "cn",
+      "city": "Payzawat",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Kettleman City",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "Portugal",
+      "country_code": "pt",
+      "city": "Cascais e Estoril",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Ashland",
+      "aqi": 4,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "South San Francisco",
+      "aqi": 3,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Las Vegas",
+      "aqi": 3,
+      "stationCount": 1
+    },
+    {
+      "country": "Canada",
+      "country_code": "ca",
+      "city": "Longueuil",
+      "aqi": 3,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Brushy",
+      "aqi": 3,
+      "stationCount": 1
+    },
+    {
+      "country": "Austria",
+      "country_code": "at",
+      "city": "Tulln an der Donau",
+      "aqi": 3,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "New Smyrna Beach",
+      "aqi": 3,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "North Dunedin",
+      "aqi": 3,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Aue",
+      "aqi": 3,
+      "stationCount": 1
+    },
+    {
+      "country": "Chile",
+      "country_code": "cl",
+      "city": "Vilcún",
+      "aqi": 3,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Goldach",
+      "aqi": 3,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Missoula",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Shafter",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "South Africa",
+      "country_code": "za",
+      "city": "Maidstone",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Tucson",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "Laos",
+      "country_code": "la",
+      "city": "Viengthong",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Diamond Bar",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Claremont",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "Australia",
+      "country_code": "au",
+      "city": "Brisbane",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "Portugal",
+      "country_code": "pt",
+      "city": "Pirescoxe e Quinta do Castelo",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Germantown",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Көкқайнар",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Neufahrn bei Freising",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "Green Island",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "Spain",
+      "country_code": "es",
+      "city": "Teguise",
+      "aqi": 2,
+      "stationCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "gb",
+      "city": "Liverpool",
+      "aqi": 1,
+      "stationCount": 1
+    },
+    {
+      "country": "Austria",
+      "country_code": "at",
+      "city": "Linz",
+      "aqi": 1,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Arrowsmith",
+      "aqi": 1,
+      "stationCount": 1
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "nz",
+      "city": "North East Valley",
+      "aqi": 1,
+      "stationCount": 1
+    },
+    {
+      "country": "Romania",
+      "country_code": "ro",
+      "city": "Drăgășani",
+      "aqi": 1,
+      "stationCount": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "kz",
+      "city": "Muhametjan Tüymebaev",
+      "aqi": 1,
+      "stationCount": 1
+    },
+    {
+      "country": "Germany",
+      "country_code": "de",
+      "city": "Pfullingen",
+      "aqi": 1,
+      "stationCount": 1
+    },
+    {
+      "country": "United States of America",
+      "country_code": "us",
+      "city": "Prattville",
+      "aqi": 1,
+      "stationCount": 1
+    },
+    {
+      "country": "Falkland Islands",
+      "country_code": "fk",
+      "city": "Stanley",
+      "aqi": 1,
+      "stationCount": 1
+    }
+  ]
+}

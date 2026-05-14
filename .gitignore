@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.DS_Store
+
+# SQLite database
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+CLAUDE.md
+

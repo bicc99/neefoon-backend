@@ -1,0 +1,5327 @@
+{
+  "cusensor2/0C44F5C40A24": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 11,
+        "pm25": 14,
+        "pm10": 26,
+        "temp": 36.4,
+        "co2": 407.133333333333,
+        "humid": 53,
+        "topic": "cusensor2/0C44F5C40A24"
+      }
+    ],
+    "info": {
+      "topic": "cusensor2/0C44F5C40A24",
+      "project": "cusensor2",
+      "id": "0C44F5C40A24",
+      "lat": "13.742675",
+      "lon": "100.528077",
+      "name": "จามจุรี 10 ชั้น 11",
+      "tambol": "วังใหม่",
+      "amphoe": "ปทุมวัน",
+      "province": "กรุงเทพ"
+    }
+  },
+  "cusensor2/60019440B7A6": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 2,
+        "pm25": 4,
+        "pm10": 4,
+        "temp": 30.1,
+        "co2": 10000,
+        "humid": 43,
+        "topic": "cusensor2/60019440B7A6"
+      }
+    ],
+    "info": {
+      "topic": "cusensor2/60019440B7A6",
+      "project": "cusensor2",
+      "id": "60019440B7A6",
+      "lat": "13.732152",
+      "lon": "100.537307",
+      "name": "อาคารภูมิสิริ ชั้น 1 (หน้า ER) (Indoor)",
+      "tambol": "วังใหม่",
+      "amphoe": "ปทุมวัน",
+      "province": "กรุงเทพ"
+    }
+  },
+  "cusensor2/60019440B808": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 11,
+        "pm25": 18,
+        "pm10": 19,
+        "temp": 33.7,
+        "co2": 65370,
+        "humid": 51,
+        "topic": "cusensor2/60019440B808"
+      }
+    ],
+    "info": {
+      "topic": "cusensor2/60019440B808",
+      "project": "cusensor2",
+      "id": "60019440B808",
+      "lat": "13.735188",
+      "lon": "100.532189",
+      "name": "สถาบันภาษา",
+      "tambol": "วังใหม่",
+      "amphoe": "ปทุมวัน",
+      "province": "กรุงเทพ"
+    }
+  },
+  "cusensor2/60019440B8BA": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 1,
+        "pm25": 2,
+        "pm10": 3,
+        "temp": 30.7,
+        "co2": 65535,
+        "humid": 59,
+        "topic": "cusensor2/60019440B8BA"
+      }
+    ],
+    "info": {
+      "topic": "cusensor2/60019440B8BA",
+      "project": "cusensor2",
+      "id": "60019440B8BA",
+      "lat": "13.738978",
+      "lon": "100.527644",
+      "name": "หอสมุดกลาง (Indoor)",
+      "tambol": "วังใหม่",
+      "amphoe": "ปทุมวัน",
+      "province": "กรุงเทพ"
+    }
+  },
+  "cusensor2/68C63A8E5BB6": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 9,
+        "pm25": 14,
+        "pm10": 15,
+        "temp": 0,
+        "co2": 0,
+        "humid": 0,
+        "topic": "cusensor2/68C63A8E5BB6"
+      }
+    ],
+    "info": {
+      "topic": "cusensor2/68C63A8E5BB6",
+      "project": "cusensor2",
+      "id": "68C63A8E5BB6",
+      "lat": "13.743853",
+      "lon": "100.525705",
+      "name": "จุฬาพัฒน์ 14",
+      "tambol": "วังใหม่",
+      "amphoe": "ปทุมวัน",
+      "province": "กรุงเทพ"
+    }
+  },
+  "cusensor2/D478F5C40A24": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 11,
+        "pm25": 12,
+        "pm10": 22,
+        "temp": 34.1,
+        "co2": 405.65,
+        "humid": 58,
+        "topic": "cusensor2/D478F5C40A24"
+      }
+    ],
+    "info": {
+      "topic": "cusensor2/D478F5C40A24",
+      "project": "cusensor2",
+      "id": "D478F5C40A24",
+      "lat": "13.735921",
+      "lon": "100.530489",
+      "name": "มหามกุฏ คณะวิทยาศาสตร์",
+      "tambol": "วังใหม่",
+      "amphoe": "ปทุมวัน",
+      "province": "กรุงเทพ"
+    }
+  },
+  "cusensor2/E842D01F9C9C": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 11,
+        "pm25": 14,
+        "pm10": 27,
+        "temp": 39.2,
+        "co2": 405.216666666667,
+        "humid": 38,
+        "topic": "cusensor2/E842D01F9C9C"
+      }
+    ],
+    "info": {
+      "topic": "cusensor2/E842D01F9C9C",
+      "project": "cusensor2",
+      "id": "E842D01F9C9C",
+      "lat": "14.510220",
+      "lon": "101.930977",
+      "name": "สถานีวิจัยสิ่งแวดล้อมสะแกราช",
+      "tambol": "อุดมทรัพย์",
+      "amphoe": "วังน้ำเขียว",
+      "province": "นครราชสีมา"
+    }
+  },
+  "cusensor3/0C0AD01F9C9C": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 24,
+        "pm25": 35,
+        "pm10": 46,
+        "temp": 38.7,
+        "co2": 414.6,
+        "humid": 29,
+        "topic": "cusensor3/0C0AD01F9C9C"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/0C0AD01F9C9C",
+      "project": "cusensor3",
+      "id": "0C0AD01F9C9C",
+      "lat": "14.538322",
+      "lon": "101.969470",
+      "name": "อบต.อุดมทรัพย์",
+      "tambol": "อุดมทรัพย์",
+      "amphoe": "วังน้ำเขียว",
+      "province": "นครราชสีมา"
+    }
+  },
+  "cusensor3/10E075BBBC2C": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 25,
+        "pm25": 35,
+        "pm10": 41,
+        "temp": 38.4,
+        "co2": 404.857142857143,
+        "humid": 63,
+        "topic": "cusensor3/10E075BBBC2C"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/10E075BBBC2C",
+      "project": "cusensor3",
+      "id": "10E075BBBC2C",
+      "lat": "14.508215",
+      "lon": "101.949574",
+      "name": "สถานีวิจัยสิ่งแวดล้อมสะแกราช (ป่าเต็งรัง)",
+      "tambol": "อุดมทรัพย์",
+      "amphoe": "วังน้ำเขียว",
+      "province": "นครราชสีมา"
+    }
+  },
+  "cusensor3/1472F5C40A24": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 24,
+        "pm25": 35,
+        "pm10": 41,
+        "temp": 38.6,
+        "co2": 396.083333333333,
+        "humid": 42,
+        "topic": "cusensor3/1472F5C40A24"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/1472F5C40A24",
+      "project": "cusensor3",
+      "id": "1472F5C40A24",
+      "lat": "14.350506",
+      "lon": "101.939644",
+      "name": "ศูนย์พัฒนาส่งเสริมอาชีพคนพิการวังน้ำเขียว",
+      "tambol": "ไทยสามัคคี",
+      "amphoe": "วังน้ำเขียว",
+      "province": "นครราชสีมา"
+    }
+  },
+  "cusensor3/1491DEEA6BE8": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": null,
+        "pm25": 21,
+        "pm10": 22,
+        "temp": 39.3,
+        "co2": 502.6,
+        "humid": 32,
+        "topic": "cusensor3/1491DEEA6BE8"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/1491DEEA6BE8",
+      "project": "cusensor3",
+      "id": "1491DEEA6BE8",
+      "lat": "13.817583",
+      "lon": "100.712861",
+      "name": "หมู่บ้านปรีชา 11",
+      "tambol": "",
+      "amphoe": "",
+      "province": ""
+    }
+  },
+  "cusensor3/240AC4585FEC": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 79,
+        "pm25": 124,
+        "pm10": 131,
+        "temp": 37.7,
+        "co2": null,
+        "humid": 33,
+        "topic": "cusensor3/240AC4585FEC"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/240AC4585FEC",
+      "project": "cusensor3",
+      "id": "240AC4585FEC",
+      "lat": "18.240882",
+      "lon": "100.690272",
+      "name": "โรงเรียนบ้านนา",
+      "tambol": "สถาน",
+      "amphoe": "นาน้อย",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/240AC4589680": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 0,
+        "pm25": 0,
+        "pm10": 0,
+        "temp": 37.6,
+        "co2": null,
+        "humid": 33,
+        "topic": "cusensor3/240AC4589680"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/240AC4589680",
+      "project": "cusensor3",
+      "id": "240AC4589680",
+      "lat": "19.089639",
+      "lon": "100.896645",
+      "name": "อบต.ยม",
+      "tambol": "ยม",
+      "amphoe": "ท่าวังผา",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/240AC458FE8C": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 83,
+        "pm25": 109,
+        "pm10": 114,
+        "temp": 40.3,
+        "co2": null,
+        "humid": 31,
+        "topic": "cusensor3/240AC458FE8C"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/240AC458FE8C",
+      "project": "cusensor3",
+      "id": "240AC458FE8C",
+      "lat": "18.707911",
+      "lon": "100.676518",
+      "name": "อบต.นาซาว",
+      "tambol": "นาซาว",
+      "amphoe": "เมืองน่าน",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/246F289EA1B4": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 0,
+        "pm25": 0,
+        "pm10": 0,
+        "temp": 35.9,
+        "co2": null,
+        "humid": 42,
+        "topic": "cusensor3/246F289EA1B4"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/246F289EA1B4",
+      "project": "cusensor3",
+      "id": "246F289EA1B4",
+      "lat": "13.739848",
+      "lon": "100.530826",
+      "name": "คณะสถาปัตยกรรมศาสตร์",
+      "tambol": "วังใหม่",
+      "amphoe": "ปทุมวัน",
+      "province": "กรุงเทพ"
+    }
+  },
+  "cusensor3/48B3C2895DC0": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 23,
+        "pm25": 32,
+        "pm10": 38,
+        "temp": 34.6,
+        "co2": 420,
+        "humid": 70,
+        "topic": "cusensor3/48B3C2895DC0"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/48B3C2895DC0",
+      "project": "cusensor3",
+      "id": "48B3C2895DC0",
+      "lat": "14.492355",
+      "lon": "101.916393",
+      "name": "สถานีวิจัยสิ่งแวดล้อมสะแกราช (ป่าดิบแล้ง)",
+      "tambol": "อุดมทรัพย์",
+      "amphoe": "วังน้ำเขียว",
+      "province": "นครราชสีมา"
+    }
+  },
+  "cusensor3/7C9EBDF4BA1C": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 92,
+        "pm25": 155,
+        "pm10": 175,
+        "temp": 37.2,
+        "co2": null,
+        "humid": 32,
+        "topic": "cusensor3/7C9EBDF4BA1C"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/7C9EBDF4BA1C",
+      "project": "cusensor3",
+      "id": "7C9EBDF4BA1C",
+      "lat": "18.815158",
+      "lon": "100.456493",
+      "name": "อบต.บ้านฟ้า",
+      "tambol": "บ้านฟ้า",
+      "amphoe": "บ้านหลวง",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/7C9EBDF4BB38": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 31,
+        "pm25": 47,
+        "pm10": 48,
+        "temp": 39.7,
+        "co2": null,
+        "humid": 35,
+        "topic": "cusensor3/7C9EBDF4BB38"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/7C9EBDF4BB38",
+      "project": "cusensor3",
+      "id": "7C9EBDF4BB38",
+      "lat": "18.565724",
+      "lon": "100.735858",
+      "name": "ทต.กลางเวียง",
+      "tambol": "กลางเวียง",
+      "amphoe": "เวียงสา",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/7C9EBDF4DB0C": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 93,
+        "pm25": 148,
+        "pm10": 162,
+        "temp": 29.2,
+        "co2": null,
+        "humid": 58,
+        "topic": "cusensor3/7C9EBDF4DB0C"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/7C9EBDF4DB0C",
+      "project": "cusensor3",
+      "id": "7C9EBDF4DB0C",
+      "lat": "18.199480",
+      "lon": "100.504861",
+      "name": "รพ.สต.เมืองลี\r\n",
+      "tambol": "เมืองลี",
+      "amphoe": "นาหมื่น",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/7C9EBDF4E32C": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 151,
+        "pm25": 191,
+        "pm10": 199,
+        "temp": 35.9,
+        "co2": null,
+        "humid": 40,
+        "topic": "cusensor3/7C9EBDF4E32C"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/7C9EBDF4E32C",
+      "project": "cusensor3",
+      "id": "7C9EBDF4E32C",
+      "lat": "19.388265",
+      "lon": "100.877907",
+      "name": "ทต.ทุ่งช้าง",
+      "tambol": "ทุ่งช้าง",
+      "amphoe": "ทุ่งช้าง",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/7C9EBDF4E430": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 95,
+        "pm25": 140,
+        "pm10": 146,
+        "temp": 42.1,
+        "co2": null,
+        "humid": 26,
+        "topic": "cusensor3/7C9EBDF4E430"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/7C9EBDF4E430",
+      "project": "cusensor3",
+      "id": "7C9EBDF4E430",
+      "lat": "18.701362",
+      "lon": "100.807486",
+      "name": "อบต.นาปัง",
+      "tambol": "นาปัง",
+      "amphoe": "ภูเพียง",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/7C9EBDF4E780": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 111,
+        "pm25": 172,
+        "pm10": 180,
+        "temp": 36.9,
+        "co2": null,
+        "humid": 38,
+        "topic": "cusensor3/7C9EBDF4E780"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/7C9EBDF4E780",
+      "project": "cusensor3",
+      "id": "7C9EBDF4E780",
+      "lat": "19.024651",
+      "lon": "101.204885",
+      "name": "ศูนย์ภูฟ้าพัฒนาอันเนื่องมาจากพระราชดำริฯ",
+      "tambol": "ภูฟ้า",
+      "amphoe": "บ่อเกลือ",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/7C9EBDF4E800": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 99,
+        "pm25": 143,
+        "pm10": 152,
+        "temp": 40.9,
+        "co2": null,
+        "humid": 30,
+        "topic": "cusensor3/7C9EBDF4E800"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/7C9EBDF4E800",
+      "project": "cusensor3",
+      "id": "7C9EBDF4E800",
+      "lat": "18.371423",
+      "lon": "100.673168",
+      "name": "อบต.น้ำตก",
+      "tambol": "น้ำตก",
+      "amphoe": "นาน้อย",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/7C9EBDF50438": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 31,
+        "pm25": 44,
+        "pm10": 47,
+        "temp": 37.1,
+        "co2": null,
+        "humid": 37,
+        "topic": "cusensor3/7C9EBDF50438"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/7C9EBDF50438",
+      "project": "cusensor3",
+      "id": "7C9EBDF50438",
+      "lat": "19.170129",
+      "lon": "100.835931",
+      "name": "โรงเรียนบ้านปงสนุก",
+      "tambol": "เจดีย์ชัย",
+      "amphoe": "ปัว",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/7C9EBDF54B80": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 13,
+        "pm25": 23,
+        "pm10": 27,
+        "temp": 37.4,
+        "co2": null,
+        "humid": 36,
+        "topic": "cusensor3/7C9EBDF54B80"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/7C9EBDF54B80",
+      "project": "cusensor3",
+      "id": "7C9EBDF54B80",
+      "lat": "19.178324",
+      "lon": "100.849567",
+      "name": "รพ.สต.แงง",
+      "tambol": "แงง",
+      "amphoe": "ปัว",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/848AF6C40A24": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 24,
+        "pm25": 33,
+        "pm10": 36,
+        "temp": 33.8,
+        "co2": 387.583333333333,
+        "humid": 49,
+        "topic": "cusensor3/848AF6C40A24"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/848AF6C40A24",
+      "project": "cusensor3",
+      "id": "848AF6C40A24",
+      "lat": "14.364680",
+      "lon": "101.774579",
+      "name": "เขาแผงม้า",
+      "tambol": "บ้านคลองทราย",
+      "amphoe": "วังน้ำเขียว",
+      "province": "นครราชสีมา"
+    }
+  },
+  "cusensor3/8CAAB584DBF0": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 107,
+        "pm25": 139,
+        "pm10": 146,
+        "temp": 39.5,
+        "co2": null,
+        "humid": 32,
+        "topic": "cusensor3/8CAAB584DBF0"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/8CAAB584DBF0",
+      "project": "cusensor3",
+      "id": "8CAAB584DBF0",
+      "lat": "19.168987",
+      "lon": "100.829243",
+      "name": "รพ.สต.เจดีย์ชัย",
+      "tambol": "เจดีย์ชัย",
+      "amphoe": "ปัว",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/8CAAB584E1F8": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 54,
+        "pm25": 82,
+        "pm10": 92,
+        "temp": 37.6,
+        "co2": null,
+        "humid": 36,
+        "topic": "cusensor3/8CAAB584E1F8"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/8CAAB584E1F8",
+      "project": "cusensor3",
+      "id": "8CAAB584E1F8",
+      "lat": "18.333544",
+      "lon": "100.739258",
+      "name": "ศูนย์พัฒนาเด็กเล็กตำบลศรีสะเกษ\r\n",
+      "tambol": "สถาน",
+      "amphoe": "นาน้อย",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/8CAAB584E300": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 124,
+        "pm25": 186,
+        "pm10": 191,
+        "temp": 36.6,
+        "co2": null,
+        "humid": 40,
+        "topic": "cusensor3/8CAAB584E300"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/8CAAB584E300",
+      "project": "cusensor3",
+      "id": "8CAAB584E300",
+      "lat": "19.155305",
+      "lon": "100.944550",
+      "name": "รพ.สต.ศิลาแลง",
+      "tambol": "ศิลาแลง",
+      "amphoe": "ปัว",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/8CAAB5850914": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 90,
+        "pm25": 152,
+        "pm10": 170,
+        "temp": 36.3,
+        "co2": null,
+        "humid": 42,
+        "topic": "cusensor3/8CAAB5850914"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/8CAAB5850914",
+      "project": "cusensor3",
+      "id": "8CAAB5850914",
+      "lat": "19.443116",
+      "lon": "100.680941",
+      "name": "อบต.ชนแดน",
+      "tambol": "ชนแดน",
+      "amphoe": "สองแคว",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/8CAAB58527DC": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 112,
+        "pm25": 161,
+        "pm10": 166,
+        "temp": 36.9,
+        "co2": null,
+        "humid": 37,
+        "topic": "cusensor3/8CAAB58527DC"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/8CAAB58527DC",
+      "project": "cusensor3",
+      "id": "8CAAB58527DC",
+      "lat": "19.179893",
+      "lon": "100.908915",
+      "name": "ทต.ปัว",
+      "tambol": "ปัว",
+      "amphoe": "ปัว",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/8CAAB5853050": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 93,
+        "pm25": 137,
+        "pm10": 142,
+        "temp": 39.1,
+        "co2": null,
+        "humid": 32,
+        "topic": "cusensor3/8CAAB5853050"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/8CAAB5853050",
+      "project": "cusensor3",
+      "id": "8CAAB5853050",
+      "lat": "18.333021",
+      "lon": "100.740808",
+      "name": "ทต.ศรีสะเกษ",
+      "tambol": "ศรีสะเกษ",
+      "amphoe": "นาน้อย",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/8CAAB5856E5C": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 100,
+        "pm25": 153,
+        "pm10": 164,
+        "temp": 35.3,
+        "co2": null,
+        "humid": 45,
+        "topic": "cusensor3/8CAAB5856E5C"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/8CAAB5856E5C",
+      "project": "cusensor3",
+      "id": "8CAAB5856E5C",
+      "lat": "18.189532",
+      "lon": "100.496403",
+      "name": "โรงเรียนบ้านนาคา",
+      "tambol": "เมืองลี",
+      "amphoe": "นาหมื่น",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/90FBF6C40A24": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 24,
+        "pm25": 33,
+        "pm10": 38,
+        "temp": 38,
+        "co2": 398.090909090909,
+        "humid": 38,
+        "topic": "cusensor3/90FBF6C40A24"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/90FBF6C40A24",
+      "project": "cusensor3",
+      "id": "90FBF6C40A24",
+      "lat": "14.560155",
+      "lon": "101.939806",
+      "name": "รพสต.บ้านหนองนกเขียน",
+      "tambol": "อุดมทรัพย์",
+      "amphoe": "วังน้ำเขียว",
+      "province": "นครราชสีมา"
+    }
+  },
+  "cusensor3/AC67B22B26DC": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 83,
+        "pm25": 126,
+        "pm10": 134,
+        "temp": 39.8,
+        "co2": null,
+        "humid": 34,
+        "topic": "cusensor3/AC67B22B26DC"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/AC67B22B26DC",
+      "project": "cusensor3",
+      "id": "AC67B22B26DC",
+      "lat": "19.080631",
+      "lon": "100.879598",
+      "name": "รร.บ้านถ่อน",
+      "tambol": "จอมพระ",
+      "amphoe": "ท่าวังผา",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/B078F5C40A24": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 27,
+        "pm25": 39,
+        "pm10": 47,
+        "temp": 34.4,
+        "co2": 413.3,
+        "humid": 35,
+        "topic": "cusensor3/B078F5C40A24"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/B078F5C40A24",
+      "project": "cusensor3",
+      "id": "B078F5C40A24",
+      "lat": "14.441807",
+      "lon": "101.840850",
+      "name": "โรงเรียนบ้านน้ำซับ",
+      "tambol": "วังน้ำเขียว",
+      "amphoe": "วังน้ำเขียว",
+      "province": "นครราชสีมา"
+    }
+  },
+  "cusensor3/B8F009CD09C0": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 79,
+        "pm25": 117,
+        "pm10": 121,
+        "temp": 33.9,
+        "co2": null,
+        "humid": 42,
+        "topic": "cusensor3/B8F009CD09C0"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/B8F009CD09C0",
+      "project": "cusensor3",
+      "id": "B8F009CD09C0",
+      "lat": "18.189381",
+      "lon": "100.660136",
+      "name": "รพ.สต.บ้านหลักหมื่น",
+      "tambol": "นาทะนุง",
+      "amphoe": "นาหมื่น",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/B8F009CD11A0": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 66,
+        "pm25": 79,
+        "pm10": 81,
+        "temp": 40.6,
+        "co2": null,
+        "humid": 35,
+        "topic": "cusensor3/B8F009CD11A0"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/B8F009CD11A0",
+      "project": "cusensor3",
+      "id": "B8F009CD11A0",
+      "lat": "18.200575",
+      "lon": "100.506664",
+      "name": "อบต.เมืองลี",
+      "tambol": "เมืองลี",
+      "amphoe": "นาหมื่น",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/B8F009CD1878": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 106,
+        "pm25": 175,
+        "pm10": 193,
+        "temp": 38.6,
+        "co2": null,
+        "humid": 35,
+        "topic": "cusensor3/B8F009CD1878"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/B8F009CD1878",
+      "project": "cusensor3",
+      "id": "B8F009CD1878",
+      "lat": "19.422232",
+      "lon": "100.879537",
+      "name": "อบต.และ",
+      "tambol": "และ",
+      "amphoe": "ทุ่งช้าง",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/B8F009CD1E28": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 59,
+        "pm25": 93,
+        "pm10": 98,
+        "temp": 39.9,
+        "co2": null,
+        "humid": 32,
+        "topic": "cusensor3/B8F009CD1E28"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/B8F009CD1E28",
+      "project": "cusensor3",
+      "id": "B8F009CD1E28",
+      "lat": "18.552074",
+      "lon": "100.778766",
+      "name": "รร.รวมบ้านขึ่งงามมงคล",
+      "tambol": "ขึ่ง",
+      "amphoe": "เวียงสา",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/B8F009CD1F20": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 108,
+        "pm25": 149,
+        "pm10": 153,
+        "temp": 42.9,
+        "co2": null,
+        "humid": 27,
+        "topic": "cusensor3/B8F009CD1F20"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/B8F009CD1F20",
+      "project": "cusensor3",
+      "id": "B8F009CD1F20",
+      "lat": "18.775246",
+      "lon": "100.687514",
+      "name": "อบต.เรือง",
+      "tambol": "เรือง",
+      "amphoe": "เมืองน่าน",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/D8F875BBBC2C": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 23,
+        "pm25": 31,
+        "pm10": 37,
+        "temp": 41.2,
+        "co2": 415,
+        "humid": 38,
+        "topic": "cusensor3/D8F875BBBC2C"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/D8F875BBBC2C",
+      "project": "cusensor3",
+      "id": "D8F875BBBC2C",
+      "lat": "14.524777",
+      "lon": "101.890703",
+      "name": "สถานีวิจัยสิ่งแวดล้อมสะแกราช (ป่าฟื้นฟู)",
+      "tambol": "อุดมทรัพย์",
+      "amphoe": "วังน้ำเขียว",
+      "province": "นครราชสีมา"
+    }
+  },
+  "cusensor3/E86BEADE9CAC": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 107,
+        "pm25": 161,
+        "pm10": 168,
+        "temp": 35.9,
+        "co2": null,
+        "humid": 40,
+        "topic": "cusensor3/E86BEADE9CAC"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/E86BEADE9CAC",
+      "project": "cusensor3",
+      "id": "E86BEADE9CAC",
+      "lat": "18.334230",
+      "lon": "100.616280",
+      "name": "อบต.บัวใหญ่",
+      "tambol": "บัวใหญ่",
+      "amphoe": "นาน้อย",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/E86BEADED0BC": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 102,
+        "pm25": 152,
+        "pm10": 157,
+        "temp": 35.8,
+        "co2": null,
+        "humid": 38,
+        "topic": "cusensor3/E86BEADED0BC"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/E86BEADED0BC",
+      "project": "cusensor3",
+      "id": "E86BEADED0BC",
+      "lat": "18.859093",
+      "lon": "100.821647",
+      "name": "รพ.สต.บ้านเมืองจัง",
+      "tambol": "",
+      "amphoe": "",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/E86BEADF7DB4": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 39,
+        "pm25": 58,
+        "pm10": 61,
+        "temp": 35.4,
+        "co2": null,
+        "humid": 46,
+        "topic": "cusensor3/E86BEADF7DB4"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/E86BEADF7DB4",
+      "project": "cusensor3",
+      "id": "E86BEADF7DB4",
+      "lat": "1.000000",
+      "lon": "1.000000",
+      "name": "Test4",
+      "tambol": "",
+      "amphoe": "",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/F008D1D35218": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 87,
+        "pm25": 123,
+        "pm10": 126,
+        "temp": 40,
+        "co2": null,
+        "humid": 29,
+        "topic": "cusensor3/F008D1D35218"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/F008D1D35218",
+      "project": "cusensor3",
+      "id": "F008D1D35218",
+      "lat": "18.406061",
+      "lon": "100.597583",
+      "name": "รร.บ้านเป้า",
+      "tambol": "บ้านฟ้า",
+      "amphoe": "บ้านหลวง ",
+      "province": "น่าน"
+    }
+  },
+  "cusensor3/F008D1D35E18": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 80,
+        "pm25": 131,
+        "pm10": 141,
+        "temp": 31.7,
+        "co2": null,
+        "humid": 42,
+        "topic": "cusensor3/F008D1D35E18"
+      }
+    ],
+    "info": {
+      "topic": "cusensor3/F008D1D35E18",
+      "project": "cusensor3",
+      "id": "F008D1D35E18",
+      "lat": "18.791412",
+      "lon": "100.456894",
+      "name": "รพสต.บ้านฟ้า",
+      "tambol": "บ้านฟ้า",
+      "amphoe": "บ้านหลวง ",
+      "province": "น่าน"
+    }
+  },
+  "nansensor/CU-S0035": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 54,
+        "pm25": 67,
+        "pm10": 72,
+        "temp": 41.2,
+        "co2": null,
+        "humid": 32,
+        "topic": "nansensor/CU-S0035"
+      }
+    ],
+    "info": {
+      "topic": "nansensor/CU-S0035",
+      "project": "nansensor",
+      "id": "CU-S0035",
+      "lat": "18.722192",
+      "lon": "101.008247",
+      "name": "เทศบาลตำบลหนองแดง",
+      "tambol": "หนองแดง",
+      "amphoe": "แม่จริม",
+      "province": "น่าน"
+    }
+  },
+  "nansensor/CU-S0036": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 76,
+        "pm25": 94,
+        "pm10": 97,
+        "temp": 39.2,
+        "co2": null,
+        "humid": 36,
+        "topic": "nansensor/CU-S0036"
+      }
+    ],
+    "info": {
+      "topic": "nansensor/CU-S0036",
+      "project": "nansensor",
+      "id": "CU-S0036",
+      "lat": "19.208550",
+      "lon": "101.185284",
+      "name": "องค์การบริหารส่วนตำบลดงพญา",
+      "tambol": "ดงพญา",
+      "amphoe": "บ่อเกลือ",
+      "province": "น่าน"
+    }
+  },
+  "nansensor/CU-S0038": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 41,
+        "pm25": 51,
+        "pm10": 58,
+        "temp": 46.1,
+        "co2": null,
+        "humid": 34,
+        "topic": "nansensor/CU-S0038"
+      }
+    ],
+    "info": {
+      "topic": "nansensor/CU-S0038",
+      "project": "nansensor",
+      "id": "CU-S0038",
+      "lat": "18.790337",
+      "lon": "100.790337",
+      "name": "เทศบาลตำบลขึ่ง",
+      "tambol": "ขึ่ง",
+      "amphoe": "เวียงสา",
+      "province": "น่าน"
+    }
+  },
+  "nansensor/CU-S0042": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 56,
+        "pm25": 72,
+        "pm10": 77,
+        "temp": 43.1,
+        "co2": null,
+        "humid": 30,
+        "topic": "nansensor/CU-S0042"
+      }
+    ],
+    "info": {
+      "topic": "nansensor/CU-S0042",
+      "project": "nansensor",
+      "id": "CU-S0042",
+      "lat": "19.089435",
+      "lon": "100.896897",
+      "name": "อบต.ยม",
+      "tambol": "ยม",
+      "amphoe": "ท่าวังผา",
+      "province": "น่าน"
+    }
+  },
+  "nansensor/CU-S0059": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 54,
+        "pm25": 68,
+        "pm10": 76,
+        "temp": 42.9,
+        "co2": null,
+        "humid": 35,
+        "topic": "nansensor/CU-S0059"
+      }
+    ],
+    "info": {
+      "topic": "nansensor/CU-S0059",
+      "project": "nansensor",
+      "id": "CU-S0059",
+      "lat": "18.644196",
+      "lon": "101.011780",
+      "name": "องค์การบริหารส่วนตำบลน้ำพาง",
+      "tambol": "น้ำพาง",
+      "amphoe": "แม่จริม",
+      "province": "น่าน"
+    }
+  },
+  "nansensor/CU-S0071": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 6,
+        "pm25": 6,
+        "pm10": 6,
+        "temp": 44.9,
+        "co2": null,
+        "humid": 29,
+        "topic": "nansensor/CU-S0071"
+      }
+    ],
+    "info": {
+      "topic": "nansensor/CU-S0071",
+      "project": "nansensor",
+      "id": "CU-S0071",
+      "lat": "18.799662",
+      "lon": "100.733299",
+      "name": "องค์การบริหารส่วนจังหวัดน่าน",
+      "tambol": "ไชยสถาน",
+      "amphoe": "เมืองน่าน",
+      "province": "น่าน"
+    }
+  },
+  "nansensor/CU-S0075": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 29,
+        "pm25": 38,
+        "pm10": 47,
+        "temp": 67259676.1,
+        "co2": null,
+        "humid": 143537292,
+        "topic": "nansensor/CU-S0075"
+      }
+    ],
+    "info": {
+      "topic": "nansensor/CU-S0075",
+      "project": "nansensor",
+      "id": "CU-S0075",
+      "lat": "18.635660",
+      "lon": "100.740395",
+      "name": "องค์การบริหารส่วนตำบลน้ำปั้ว",
+      "tambol": "น้ำปั้ว",
+      "amphoe": "เวียงสา",
+      "province": "น่าน"
+    }
+  },
+  "nansensor/CU-S0081": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 50,
+        "pm25": 63,
+        "pm10": 69,
+        "temp": 43.4,
+        "co2": null,
+        "humid": 31,
+        "topic": "nansensor/CU-S0081"
+      }
+    ],
+    "info": {
+      "topic": "nansensor/CU-S0081",
+      "project": "nansensor",
+      "id": "CU-S0081",
+      "lat": "18.910000",
+      "lon": "100.940000",
+      "name": "องค์การบริหารส่วนตำบลดุ่พงษ์",
+      "tambol": "ดุ่พงษ์",
+      "amphoe": "สันติสุข",
+      "province": "น่าน"
+    }
+  },
+  "nansensor/CU-S0085": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 0,
+        "pm25": 0,
+        "pm10": 0,
+        "temp": 43.8,
+        "co2": null,
+        "humid": 32,
+        "topic": "nansensor/CU-S0085"
+      }
+    ],
+    "info": {
+      "topic": "nansensor/CU-S0085",
+      "project": "nansensor",
+      "id": "CU-S0085",
+      "lat": "18.797941",
+      "lon": "100.714249",
+      "name": "องค์การบริหารส่วนตำบลถืมตอง",
+      "tambol": "ถืมตอง",
+      "amphoe": "เมืองน่าน",
+      "province": "น่าน"
+    }
+  },
+  "nansensor/CU-S0096": {
+    "data": [
+      {
+        "time": "2026-04-13T06:00:00.000Z",
+        "pm1": 65,
+        "pm25": 85,
+        "pm10": 89,
+        "temp": 42.7,
+        "co2": null,
+        "humid": 35,
+        "topic": "nansensor/CU-S0096"
+      }
+    ],
+    "info": {
+      "topic": "nansensor/CU-S0096",
+      "project": "nansensor",
+      "id": "CU-S0096",
+      "lat": "19.141400",
+      "lon": "100.930390",
+      "name": "องค์การบริหารส่วนตำบลป่ากลาง",
+      "tambol": "ป่ากลาง",
+      "amphoe": "ปัว",
+      "province": "น่าน"
+    }
+  },
+  "PCD/02t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/02t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/02t",
+      "project": "PCD",
+      "id": "02t",
+      "lat": "13.732846",
+      "lon": "100.487662",
+      "name": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/03t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 29,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/03t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/03t",
+      "project": "PCD",
+      "id": "03t",
+      "lat": "13.636514",
+      "lon": "100.414262",
+      "name": "ริมถนนทางหลวงหมายเลข 3902 ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/05t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 25,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/05t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/05t",
+      "project": "PCD",
+      "id": "05t",
+      "lat": "13.666183",
+      "lon": "100.605742",
+      "name": "กรมอุตุนิยมวิทยาบางนา",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/08t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 31,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/08t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/08t",
+      "project": "PCD",
+      "id": "08t",
+      "lat": "13.664087",
+      "lon": "100.543436",
+      "name": "ศูนย์ฟื้นฟูอาชีพคนพิการและทุพลภาพ ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/100t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 21,
+        "pm10": 63,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/100t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/100t",
+      "project": "PCD",
+      "id": "100t",
+      "lat": "12.609570",
+      "lon": "102.104080",
+      "name": "สถานีอุตุนิยมวิทยาจันทบุรี",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/101t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": 36,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/101t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/101t",
+      "project": "PCD",
+      "id": "101t",
+      "lat": "14.945452",
+      "lon": "103.105896",
+      "name": "ศาลากลางจังหวัดบุรีรัมย์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/102t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 42,
+        "pm10": 68,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/102t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/102t",
+      "project": "PCD",
+      "id": "102t",
+      "lat": "16.542570",
+      "lon": "104.719200",
+      "name": "สนามกีฬากลางจังหวัดมุกดาหาร",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/103t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": 47,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/103t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/103t",
+      "project": "PCD",
+      "id": "103t",
+      "lat": "12.577835",
+      "lon": "99.953663",
+      "name": " สถานีตรวจอากาศหัวหิน สถานีอุตุนิยมวิทยาประจวบคีรีขันธ์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/104t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 52,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/104t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/104t",
+      "project": "PCD",
+      "id": "104t",
+      "lat": "14.893387",
+      "lon": "100.413077",
+      "name": "โรงเรียนสิงห์บุรี",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/108t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 47,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/108t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/108t",
+      "project": "PCD",
+      "id": "108t",
+      "lat": "15.811480",
+      "lon": "102.022810",
+      "name": "สนามกีฬาเทศบาลเมืองชัยภูมิ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/109t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 32,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/109t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/109t",
+      "project": "PCD",
+      "id": "109t",
+      "lat": "15.783861",
+      "lon": "104.154639",
+      "name": "สวนสาธารณะพญาแถน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/12t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/12t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/12t",
+      "project": "PCD",
+      "id": "12t",
+      "lat": "13.708067",
+      "lon": "100.547333",
+      "name": "โรงเรียนนนทรีวิทยา ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/13t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 23,
+        "pm10": 44,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/13t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/13t",
+      "project": "PCD",
+      "id": "13t",
+      "lat": "13.852778",
+      "lon": "100.529444",
+      "name": "กรมควบควบคุมโรค",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/14t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 29,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/14t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/14t",
+      "project": "PCD",
+      "id": "14t",
+      "lat": "13.705488",
+      "lon": "100.315622",
+      "name": "แขวงการทางสมุทรสาคร ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/16t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 22,
+        "pm10": 31,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/16t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/16t",
+      "project": "PCD",
+      "id": "16t",
+      "lat": "13.618000",
+      "lon": "100.556200",
+      "name": "โรงไฟฟ้าพระนครใต้ ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/17t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 29,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/17t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/17t",
+      "project": "PCD",
+      "id": "17t",
+      "lat": "13.652141",
+      "lon": "100.531805",
+      "name": "บ้านพักกรมอุตสาหกรรมพื้นฐานและการเหมืองแร่",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/18t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 34,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/18t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/18t",
+      "project": "PCD",
+      "id": "18t",
+      "lat": "13.599149",
+      "lon": "100.597345",
+      "name": "ศาลากลางจังหวัดสมุทรปราการ ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/19t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 27,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/19t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/19t",
+      "project": "PCD",
+      "id": "19t",
+      "lat": "13.570500",
+      "lon": "100.786287",
+      "name": "การเคหะชุมชนเมืองใหม่บางพลี ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/20t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 38,
+        "pm10": 57,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/20t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/20t",
+      "project": "PCD",
+      "id": "20t",
+      "lat": "14.037420",
+      "lon": "100.605216",
+      "name": "มหาวิทยาลัยกรุงเทพ วิทยาเขตรังสิต ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/21t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 35,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/21t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/21t",
+      "project": "PCD",
+      "id": "21t",
+      "lat": "14.352220",
+      "lon": "100.565325",
+      "name": "โรงเรียนอยุธยาวิทยาลัย",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/22t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 37,
+        "pm10": 94,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/22t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/22t",
+      "project": "PCD",
+      "id": "22t",
+      "lat": "13.907861",
+      "lon": "100.535641",
+      "name": "มหาวิทยาลัยสุโขทัยธรรมาธิราช ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/24t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 40,
+        "pm10": 69,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/24t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/24t",
+      "project": "PCD",
+      "id": "24t",
+      "lat": "14.685833",
+      "lon": "100.871996",
+      "name": "สถานีตำรวจภูธรตำบลหน้าพระลาน ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/25t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 28,
+        "pm10": 53,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/25t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/25t",
+      "project": "PCD",
+      "id": "25t",
+      "lat": "14.526343",
+      "lon": "100.926047",
+      "name": "สถานีดับเพลิงพระลักษณ์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/26t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 38,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/26t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/26t",
+      "project": "PCD",
+      "id": "26t",
+      "lat": "13.523440",
+      "lon": "99.814082",
+      "name": "สำนักงานสิ่งแวดล้อมภาคที่8",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/27t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 35,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/27t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/27t",
+      "project": "PCD",
+      "id": "27t",
+      "lat": "13.550263",
+      "lon": "100.264768",
+      "name": "โรงเรียนสมุทรสาครวิทยาลัย",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/28t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 29,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/28t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/28t",
+      "project": "PCD",
+      "id": "28t",
+      "lat": "12.973783",
+      "lon": "101.212850",
+      "name": "สำนักงานสาธารณสุขอำเภอปลวกแดง",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/29t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 22,
+        "pm10": 47,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/29t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/29t",
+      "project": "PCD",
+      "id": "29t",
+      "lat": "12.708650",
+      "lon": "101.165983",
+      "name": "โรงพยาบาลส่งเสริมสุขภาพตำบลมาบตาพุด ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/30t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 28,
+        "pm10": 37,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/30t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/30t",
+      "project": "PCD",
+      "id": "30t",
+      "lat": "12.671550",
+      "lon": "101.275867",
+      "name": "สำนักงานเกษตรจังหวัดระยอง ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/32t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 19,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/32t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/32t",
+      "project": "PCD",
+      "id": "32t",
+      "lat": "13.119233",
+      "lon": "100.918550",
+      "name": "สนามกีฬาเทศบาลแหลมฉบัง ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/33t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 20,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/33t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/33t",
+      "project": "PCD",
+      "id": "33t",
+      "lat": "13.054551",
+      "lon": "101.098128",
+      "name": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านเขาหิน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/34t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 21,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/34t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/34t",
+      "project": "PCD",
+      "id": "34t",
+      "lat": "13.354617",
+      "lon": "100.979217",
+      "name": "สำนักงานสิ่งแวดล้อมภาคที่ 13 ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/36t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 80,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/36t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/36t",
+      "project": "PCD",
+      "id": "36t",
+      "lat": "18.790933",
+      "lon": "98.990000",
+      "name": "โรงเรียนยุพราชวิทยาลัย ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/37t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 102,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/37t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/37t",
+      "project": "PCD",
+      "id": "37t",
+      "lat": "18.278333",
+      "lon": "99.506467",
+      "name": "สถานีอุตุนิยมวิทยาลำปาง",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/38t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 99,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/38t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/38t",
+      "project": "PCD",
+      "id": "38t",
+      "lat": "18.250817",
+      "lon": "99.763950",
+      "name": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านสบป้าด ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/39t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 99,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/39t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/39t",
+      "project": "PCD",
+      "id": "39t",
+      "lat": "18.426783",
+      "lon": "99.757633",
+      "name": "โรงพยาบาลส่งเสริมสุขภาพตำบลท่าสี ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/40t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 100,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/40t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/40t",
+      "project": "PCD",
+      "id": "40t",
+      "lat": "18.282633",
+      "lon": "99.659817",
+      "name": "การประปาส่วนภูมิภาคแม่เมาะ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/41t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 69,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/41t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/41t",
+      "project": "PCD",
+      "id": "41t",
+      "lat": "15.686230",
+      "lon": "100.110556",
+      "name": "โครงการชลประทานนครสวรรค์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/42t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 14,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/42t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/42t",
+      "project": "PCD",
+      "id": "42t",
+      "lat": "9.126017",
+      "lon": "99.325145",
+      "name": "สำนักงานสิ่งแวดล้อมภาคที่ 14",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/43t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 14,
+        "pm10": 29,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/43t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/43t",
+      "project": "PCD",
+      "id": "43t",
+      "lat": "7.884488",
+      "lon": "98.391283",
+      "name": "ศูนย์บริการสาธารณสุขเทศบาลภูเก็ต",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/44t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 15,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/44t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/44t",
+      "project": "PCD",
+      "id": "44t",
+      "lat": "7.020434",
+      "lon": "100.484088",
+      "name": "เทศบาลนครหาดใหญ่ ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/47t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 27,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/47t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/47t",
+      "project": "PCD",
+      "id": "47t",
+      "lat": "14.979537",
+      "lon": "102.098335",
+      "name": "สถานีสูบน้ำประตูพลแสน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/50t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 29,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/50t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/50t",
+      "project": "PCD",
+      "id": "50t",
+      "lat": "13.729852",
+      "lon": "100.536501",
+      "name": "โรงพยาบาลจุฬาลงกรณ์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/52t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 29,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/52t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/52t",
+      "project": "PCD",
+      "id": "52t",
+      "lat": "13.727622",
+      "lon": "100.486568",
+      "name": "การไฟฟ้าย่อยธนบุรี ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/53t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 29,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/53t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/53t",
+      "project": "PCD",
+      "id": "53t",
+      "lat": "13.795425",
+      "lon": "100.593030",
+      "name": "สถานีตำรวจนครบาลโชคชัย ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/54t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 30,
+        "pm10": 65,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/54t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/54t",
+      "project": "PCD",
+      "id": "54t",
+      "lat": "13.762517",
+      "lon": "100.550200",
+      "name": "การเคหะชุมชนดินแดง ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/57t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 110,
+        "pm10": 130,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/57t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/57t",
+      "project": "PCD",
+      "id": "57t",
+      "lat": "19.909217",
+      "lon": "99.823467",
+      "name": "สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดเชียงราย",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/58t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 203,
+        "pm10": 243,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/58t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/58t",
+      "project": "PCD",
+      "id": "58t",
+      "lat": "19.304550",
+      "lon": "97.971650",
+      "name": "สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/59t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": 41,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/59t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/59t",
+      "project": "PCD",
+      "id": "59t",
+      "lat": "13.783185",
+      "lon": "100.540489",
+      "name": "กรมประชาสัมพันธ์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/60t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 29,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/60t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/60t",
+      "project": "PCD",
+      "id": "60t",
+      "lat": "13.588500",
+      "lon": "101.286333",
+      "name": "สำนักงานเทศบาลตำบลทุ่งสะเดา",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/61t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/61t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/61t",
+      "project": "PCD",
+      "id": "61t",
+      "lat": "13.769634",
+      "lon": "100.614567",
+      "name": "โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี) ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/62t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 14,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/62t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/62t",
+      "project": "PCD",
+      "id": "62t",
+      "lat": "6.426853",
+      "lon": "101.823388",
+      "name": "ศาลากลางจังหวัดนราธิวาส ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/63t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 13,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/63t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/63t",
+      "project": "PCD",
+      "id": "63t",
+      "lat": "6.546205",
+      "lon": "101.283137",
+      "name": "สนามโรงพิธีช้างเผือก ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/67t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 147,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/67t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/67t",
+      "project": "PCD",
+      "id": "67t",
+      "lat": "18.788883",
+      "lon": "100.776317",
+      "name": "สำนักงานเทศบาลเมืองน่าน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/68t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 89,
+        "pm10": 118,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/68t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/68t",
+      "project": "PCD",
+      "id": "68t",
+      "lat": "18.567194",
+      "lon": "99.038639",
+      "name": "อุตุนิยมวิทยาลำพูน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/69t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 104,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/69t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/69t",
+      "project": "PCD",
+      "id": "69t",
+      "lat": "18.128367",
+      "lon": "100.162433",
+      "name": "อุตุนิยมวิทยาจังหวัดแพร่",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/70t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 143,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/70t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/70t",
+      "project": "PCD",
+      "id": "70t",
+      "lat": "19.200226",
+      "lon": "99.893048",
+      "name": "สนามกีฬาจังหวัดพะเยา",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/71t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 18,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/71t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/71t",
+      "project": "PCD",
+      "id": "71t",
+      "lat": "13.691047",
+      "lon": "102.510442",
+      "name": "สวนกาญจนาภิเษก ร.9 (ฝั่งสวนหิน)",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/72t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 104,
+        "pm10": 124,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/72t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/72t",
+      "project": "PCD",
+      "id": "72t",
+      "lat": "17.484620",
+      "lon": "101.732734",
+      "name": "สวนสาธารณะเฉลิมพระเกียรติ 60 พรรษามหาราชินี จังหวัดเลย",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/73t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 124,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/73t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/73t",
+      "project": "PCD",
+      "id": "73t",
+      "lat": "20.427325",
+      "lon": "99.883842",
+      "name": "สำนักงานสาธารณสุขแม่สาย",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/74t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 25,
+        "pm10": 34,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/74t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/74t",
+      "project": "PCD",
+      "id": "74t",
+      "lat": "12.706600",
+      "lon": "101.180550",
+      "name": "ศูนย์ราชการจังหวัดระยอง ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/75t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 260,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/75t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/75t",
+      "project": "PCD",
+      "id": "75t",
+      "lat": "19.575967",
+      "lon": "101.081517",
+      "name": "โรงพยาบาลเฉลิมพระเกียรติ ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/76t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 78,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/76t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/76t",
+      "project": "PCD",
+      "id": "76t",
+      "lat": "16.734413",
+      "lon": "98.566961",
+      "name": "ศูนย์การศึกษานอกโรงเรียน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/77t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 29,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/77t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/77t",
+      "project": "PCD",
+      "id": "77t",
+      "lat": "13.917563",
+      "lon": "101.590529",
+      "name": "ศาลาประชาคมบ้านบุยายใบ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/78t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 13,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/78t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/78t",
+      "project": "PCD",
+      "id": "78t",
+      "lat": "5.763873",
+      "lon": "101.067903",
+      "name": "ศูนย์พัฒนาเด็กเล็กเทศบาลเมืองเบตง",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/79t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 34,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/79t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/79t",
+      "project": "PCD",
+      "id": "79t",
+      "lat": "14.022376",
+      "lon": "99.536195",
+      "name": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/80t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 15,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/80t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/80t",
+      "project": "PCD",
+      "id": "80t",
+      "lat": "6.624747",
+      "lon": "100.066159",
+      "name": "ศาลากลาง จ.สตูล",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/81t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 35,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/81t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/81t",
+      "project": "PCD",
+      "id": "81t",
+      "lat": "13.832076",
+      "lon": "100.057961",
+      "name": "อ่างเก็บน้ำประปา",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/82t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 64,
+        "pm10": 107,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/82t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/82t",
+      "project": "PCD",
+      "id": "82t",
+      "lat": "17.877480",
+      "lon": "102.728925",
+      "name": "สวนสาธารณะหนองถิ่น",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/83t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 65,
+        "pm10": 92,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/83t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/83t",
+      "project": "PCD",
+      "id": "83t",
+      "lat": "15.245413",
+      "lon": "104.846219",
+      "name": "ศูนย์แสดงและจำหน่ายสินค้า OTOP จังหวัดอุบลราชธานี",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/84t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 52,
+        "pm10": 72,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/84t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/84t",
+      "project": "PCD",
+      "id": "84t",
+      "lat": "13.428581",
+      "lon": "100.024664",
+      "name": "สำนักงานสาธารณสุขจังหวัดสมุทรสงคราม",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/85t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 57,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/85t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/85t",
+      "project": "PCD",
+      "id": "85t",
+      "lat": "14.476214",
+      "lon": "100.086095",
+      "name": "สนามกีฬากลางจังหวัดสุพรรณบุรี",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/86t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 104,
+        "pm10": 244,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/86t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/86t",
+      "project": "PCD",
+      "id": "86t",
+      "lat": "16.820833",
+      "lon": "100.258056",
+      "name": "สวนชมน่านเฉลิมพระเกียรติ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/87t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 18,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/87t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/87t",
+      "project": "PCD",
+      "id": "87t",
+      "lat": "12.234862",
+      "lon": "102.523721",
+      "name": "สนามกีฬากลางจังหวัดตราด",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/88t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 127,
+        "pm10": 167,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/88t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/88t",
+      "project": "PCD",
+      "id": "88t",
+      "lat": "17.412345",
+      "lon": "104.778612",
+      "name": "สถานีอุตุนิยมวิทยานครพนม",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/89t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 14,
+        "pm10": 28,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/89t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/89t",
+      "project": "PCD",
+      "id": "89t",
+      "lat": "8.426923",
+      "lon": "99.961469",
+      "name": "ศูนย์ฟื้นฟูสุขภาพผู้สูงอายุ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/90t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 78,
+        "pm10": 98,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/90t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/90t",
+      "project": "PCD",
+      "id": "90t",
+      "lat": "17.156620",
+      "lon": "104.133216",
+      "name": "สถานีอุตุนิยมวิทยาสกลนคร",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/91t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 63,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/91t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/91t",
+      "project": "PCD",
+      "id": "91t",
+      "lat": "17.414174",
+      "lon": "102.780926",
+      "name": "สวนสาธารณะหนองประจักษ์ อุดรธานี",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/92t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 99,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/92t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/92t",
+      "project": "PCD",
+      "id": "92t",
+      "lat": "17.631352",
+      "lon": "100.098960",
+      "name": "สวนมหามงคลเฉลิมพระชนมพรรษา 6 รอบ 5 ธันวาคม 2552 อุตรดิตถ์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/93t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 13,
+        "pm10": 29,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/93t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/93t",
+      "project": "PCD",
+      "id": "93t",
+      "lat": "7.570238",
+      "lon": "99.588743",
+      "name": "วิทยาลัยสารพัดช่างตรัง",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/94t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 83,
+        "pm10": 109,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/94t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/94t",
+      "project": "PCD",
+      "id": "94t",
+      "lat": "16.475374",
+      "lon": "99.525425",
+      "name": "ลานอนุรักษ์วัฒนธรรมไทยสิริจิตอุทยาน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/95t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 55,
+        "pm10": 80,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/95t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/95t",
+      "project": "PCD",
+      "id": "95t",
+      "lat": "16.442554",
+      "lon": "100.322756",
+      "name": "สนามกีฬาจังหวัดพิจิตร",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/96t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 102,
+        "pm10": 142,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/96t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/96t",
+      "project": "PCD",
+      "id": "96t",
+      "lat": "17.006059",
+      "lon": "99.819270",
+      "name": "สวนสาธารณะ ชุมชนเลอไทย",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/97t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 55,
+        "pm10": 74,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/97t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/97t",
+      "project": "PCD",
+      "id": "97t",
+      "lat": "16.418417",
+      "lon": "101.156556",
+      "name": "สวนเพชบุระ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/98t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 60,
+        "pm10": 87,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/98t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/98t",
+      "project": "PCD",
+      "id": "98t",
+      "lat": "15.373638",
+      "lon": "100.038725",
+      "name": "สถานีสวนเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว เฉลิมพระชนมพรรษา 80 พรรษา",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/99t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 50,
+        "pm10": 70,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/99t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/99t",
+      "project": "PCD",
+      "id": "99t",
+      "lat": "14.800032",
+      "lon": "100.628548",
+      "name": "สถานีอุตุนิยมวิทยาลพบุรี",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp100t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 28,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp100t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp100t",
+      "project": "PCD",
+      "id": "bkp100t",
+      "lat": "13.785212",
+      "lon": "100.669183",
+      "name": "สำนักงานเขตบึงกุ่ม",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp101t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 28,
+        "pm10": 43,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp101t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp101t",
+      "project": "PCD",
+      "id": "bkp101t",
+      "lat": "13.859911",
+      "lon": "100.704002",
+      "name": "สำนักงานเขตคลองสามวา",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp102t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 25,
+        "pm10": 69,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp102t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp102t",
+      "project": "PCD",
+      "id": "bkp102t",
+      "lat": "13.677757",
+      "lon": "100.483861",
+      "name": "สำนักงานเขตจอมทอง",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp103t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 32,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp103t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp103t",
+      "project": "PCD",
+      "id": "bkp103t",
+      "lat": "13.793965",
+      "lon": "100.504956",
+      "name": "สำนักงานเขตบางพลัด",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp104t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 26,
+        "pm10": 46,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp104t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp104t",
+      "project": "PCD",
+      "id": "bkp104t",
+      "lat": "13.696314",
+      "lon": "100.409049",
+      "name": "สำนักงานเขตบางแค",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp105t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 31,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp105t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp105t",
+      "project": "PCD",
+      "id": "bkp105t",
+      "lat": "13.659908",
+      "lon": "100.435902",
+      "name": "สำนักงานเขตบางขุนเทียน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp114t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 22,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp114t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp114t",
+      "project": "PCD",
+      "id": "bkp114t",
+      "lat": "13.732225",
+      "lon": "100.544838",
+      "name": "สวนลุมพินี ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp115t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 26,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp115t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp115t",
+      "project": "PCD",
+      "id": "bkp115t",
+      "lat": "13.811852",
+      "lon": "100.553583",
+      "name": "สวนวชิรเบญจทัศ ถนนกำแพงเพชร 3 แขวงลาดยาว เขตจตุจักร",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp116t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 25,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp116t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp116t",
+      "project": "PCD",
+      "id": "bkp116t",
+      "lat": "13.802546",
+      "lon": "100.550919",
+      "name": "สวนจตุจักร ถนนพหลโยธิน แขวงจตุจักร เขตจตุจักร",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp117t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 21,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp117t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp117t",
+      "project": "PCD",
+      "id": "bkp117t",
+      "lat": "13.688139",
+      "lon": "100.657966",
+      "name": "สวนหลวง ร.9 ถนนเฉลิมพระเกียรติ ร.9 แขวงหนองบอน เขตประเวศ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp118t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 27,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp118t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp118t",
+      "project": "PCD",
+      "id": "bkp118t",
+      "lat": "13.763114",
+      "lon": "100.730210",
+      "name": "สวน 60 พรรษาสมเด็จพระนางเจ้าพระบรมราชินีนาถ ถนนเคหะร่มเกล้า เขตลาดกระบัง",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp119t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp119t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp119t",
+      "project": "PCD",
+      "id": "bkp119t",
+      "lat": "13.730492",
+      "lon": "100.568463",
+      "name": "อุทยานเบญจสิริ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp120t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp120t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp120t",
+      "project": "PCD",
+      "id": "bkp120t",
+      "lat": "13.928868",
+      "lon": "100.568467",
+      "name": "สวนรมณีย์ทุ่งสีกัน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp121t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 26,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp121t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp121t",
+      "project": "PCD",
+      "id": "bkp121t",
+      "lat": "13.650230",
+      "lon": "100.490977",
+      "name": "สวนธนบุรีรมย์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp122t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp122t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp122t",
+      "project": "PCD",
+      "id": "bkp122t",
+      "lat": "13.732879",
+      "lon": "100.560017",
+      "name": "สวนเบญจกิติ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp123t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 25,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp123t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp123t",
+      "project": "PCD",
+      "id": "bkp123t",
+      "lat": "13.805547",
+      "lon": "100.548834",
+      "name": "สวนสมเด็จพระนางเจ้าสิริกิติ์ฯ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp124t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 30,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp124t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp124t",
+      "project": "PCD",
+      "id": "bkp124t",
+      "lat": "13.771645",
+      "lon": "100.468113",
+      "name": "สวนเฉลิมพระเกียรติ 80 พรรษา",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp125t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 29,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp125t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp125t",
+      "project": "PCD",
+      "id": "bkp125t",
+      "lat": "13.785567",
+      "lon": "100.673336",
+      "name": "สวนเสรีไทย",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp126t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp126t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp126t",
+      "project": "PCD",
+      "id": "bkp126t",
+      "lat": "13.686348",
+      "lon": "100.384404",
+      "name": "สวนบางแคภิรมย์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp127t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 28,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp127t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp127t",
+      "project": "PCD",
+      "id": "bkp127t",
+      "lat": "13.743533",
+      "lon": "100.352689",
+      "name": "สวนทวีวนารมย์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp128t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 22,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp128t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp128t",
+      "project": "PCD",
+      "id": "bkp128t",
+      "lat": "13.720104",
+      "lon": "100.780708",
+      "name": "สวนพระนคร",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp129t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 26,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp129t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp129t",
+      "project": "PCD",
+      "id": "bkp129t",
+      "lat": "13.855656",
+      "lon": "100.858554",
+      "name": "สวนหนองจอก",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp130t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp130t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp130t",
+      "project": "PCD",
+      "id": "bkp130t",
+      "lat": "13.877876",
+      "lon": "100.620709",
+      "name": "สวนกีฬารามอินทรา",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp131t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp131t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp131t",
+      "project": "PCD",
+      "id": "bkp131t",
+      "lat": "13.697252",
+      "lon": "100.497185",
+      "name": "สวนสาธารณะเฉลิมพระเกียรติ 6 รอบพระชนมพรรษา",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp56t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 22,
+        "pm10": 54,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp56t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp56t",
+      "project": "PCD",
+      "id": "bkp56t",
+      "lat": "13.761922",
+      "lon": "100.558606",
+      "name": "สำนักงานเขตดินแดง กรุงเทพฯ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp57t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 22,
+        "pm10": 59,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp57t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp57t",
+      "project": "PCD",
+      "id": "bkp57t",
+      "lat": "13.691511",
+      "lon": "100.614570",
+      "name": "สำนักงานเขตพระโขนง กรุงเทพฯ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp58t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 28,
+        "pm10": 67,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp58t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp58t",
+      "project": "PCD",
+      "id": "bkp58t",
+      "lat": "13.682136",
+      "lon": "100.506051",
+      "name": "สำนักงานเขตราษฎร์บูรณะ กรุงเทพฯ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp59t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 33,
+        "pm10": 46,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp59t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp59t",
+      "project": "PCD",
+      "id": "bkp59t",
+      "lat": "13.759085",
+      "lon": "100.534579",
+      "name": "สำนักงานเขตราชเทวี กรุงเทพฯ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp60t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 22,
+        "pm10": 51,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp60t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp60t",
+      "project": "PCD",
+      "id": "bkp60t",
+      "lat": "13.776664",
+      "lon": "100.520982",
+      "name": "ริมสวนหย่อมตรงข้ามสำนักงานเขตดุสิต",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp61t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 23,
+        "pm10": 41,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp61t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp61t",
+      "project": "PCD",
+      "id": "bkp61t",
+      "lat": "13.756281",
+      "lon": "100.514267",
+      "name": "สำนักงานคณะกรรมการพัฒนาเศรษฐกิจและสังคมแห่งชาติ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp62t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 19,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp62t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp62t",
+      "project": "PCD",
+      "id": "bkp62t",
+      "lat": "13.737136",
+      "lon": "100.512734",
+      "name": "วงเวียนโอเดียน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp63t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 29,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp63t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp63t",
+      "project": "PCD",
+      "id": "bkp63t",
+      "lat": "13.783554",
+      "lon": "100.534465",
+      "name": "แฟลตทหารบก สามเสน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp64t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 31,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp64t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp64t",
+      "project": "PCD",
+      "id": "bkp64t",
+      "lat": "13.778981",
+      "lon": "100.622294",
+      "name": "สำนักงานเขตวังทองหลาง",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp65t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 30,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp65t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp65t",
+      "project": "PCD",
+      "id": "bkp65t",
+      "lat": "13.733136",
+      "lon": "100.528290",
+      "name": "สามย่านมิตรทาวน์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp66t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 35,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp66t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp66t",
+      "project": "PCD",
+      "id": "bkp66t",
+      "lat": "13.726136",
+      "lon": "100.528055",
+      "name": "ลานบางรักเลิฟลี่ พลาซ่า",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp67t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 31,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp67t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp67t",
+      "project": "PCD",
+      "id": "bkp67t",
+      "lat": "13.707763",
+      "lon": "100.526787",
+      "name": "สำนักงานเขตสาทร",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp69t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 25,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp69t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp69t",
+      "project": "PCD",
+      "id": "bkp69t",
+      "lat": "13.679226",
+      "lon": "100.546870",
+      "name": "ธนาคารกรุงศรีอยุธยา สำนักงานใหญ่",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp70t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 22,
+        "pm10": 46,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp70t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp70t",
+      "project": "PCD",
+      "id": "bkp70t",
+      "lat": "13.722096",
+      "lon": "100.584559",
+      "name": "ริมถนนซอยสุขุมวิท 63",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp71t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 22,
+        "pm10": 48,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp71t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp71t",
+      "project": "PCD",
+      "id": "bkp71t",
+      "lat": "13.731051",
+      "lon": "100.651705",
+      "name": "สำนักงานเขตสวนหลวง",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp72t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 26,
+        "pm10": 53,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp72t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp72t",
+      "project": "PCD",
+      "id": "bkp72t",
+      "lat": "13.667987",
+      "lon": "100.635313",
+      "name": "บิ๊กซี ซุปเปอร์เซ็นเตอร์ บางนา",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp73t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 32,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp73t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp73t",
+      "project": "PCD",
+      "id": "bkp73t",
+      "lat": "13.839923",
+      "lon": "100.575632",
+      "name": "มหาวิทยาลัยเกษตรศาสตร์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp74t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 29,
+        "pm10": 69,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp74t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp74t",
+      "project": "PCD",
+      "id": "bkp74t",
+      "lat": "13.910986",
+      "lon": "100.594877",
+      "name": "สำนักงานเขตดอนเมือง",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp75t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 26,
+        "pm10": 50,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp75t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp75t",
+      "project": "PCD",
+      "id": "bkp75t",
+      "lat": "13.896035",
+      "lon": "100.660628",
+      "name": "สำนักงานเขตสายไหม",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp76t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 23,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp76t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp76t",
+      "project": "PCD",
+      "id": "bkp76t",
+      "lat": "13.766478",
+      "lon": "100.647785",
+      "name": "สำนักงานเขตบางกะปิ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp77t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 25,
+        "pm10": 48,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp77t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp77t",
+      "project": "PCD",
+      "id": "bkp77t",
+      "lat": "13.813844",
+      "lon": "100.686594",
+      "name": "แยกสวนสยาม-รามอินทรา",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp78t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 32,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp78t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp78t",
+      "project": "PCD",
+      "id": "bkp78t",
+      "lat": "13.722050",
+      "lon": "100.784069",
+      "name": "โรงพยาบาลลาดกระบัง",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp79t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 28,
+        "pm10": 43,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp79t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp79t",
+      "project": "PCD",
+      "id": "bkp79t",
+      "lat": "13.813578",
+      "lon": "100.732080",
+      "name": "สวนเฉลิมพระเกียรติ ร.9",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp80t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 32,
+        "pm10": 53,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp80t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp80t",
+      "project": "PCD",
+      "id": "bkp80t",
+      "lat": "13.855362",
+      "lon": "100.862670",
+      "name": "สำนักงานเขตหนองจอก",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp81t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 27,
+        "pm10": 61,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp81t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp81t",
+      "project": "PCD",
+      "id": "bkp81t",
+      "lat": "13.695561",
+      "lon": "100.647615",
+      "name": "ซีคอน สแควร์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp82t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 23,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp82t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp82t",
+      "project": "PCD",
+      "id": "bkp82t",
+      "lat": "13.705150",
+      "lon": "100.484650",
+      "name": "แยกมไหศวรรย์",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp83t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 22,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp83t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp83t",
+      "project": "PCD",
+      "id": "bkp83t",
+      "lat": "13.719705",
+      "lon": "100.508782",
+      "name": "ห้องสมุดใต้สะพานสมเด็จพระเจ้าตากสิน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp84t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 30,
+        "pm10": 57,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp84t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp84t",
+      "project": "PCD",
+      "id": "bkp84t",
+      "lat": "13.729431",
+      "lon": "100.474373",
+      "name": "สี่แยกท่าพระ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp85t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 28,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp85t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp85t",
+      "project": "PCD",
+      "id": "bkp85t",
+      "lat": "13.759619",
+      "lon": "100.481137",
+      "name": "สถานีตำรวจรถไฟบางกอกน้อย",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp86t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 30,
+        "pm10": 47,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp86t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp86t",
+      "project": "PCD",
+      "id": "bkp86t",
+      "lat": "13.780778",
+      "lon": "100.426727",
+      "name": "ถนนพุทธมณฑลสาย 1 ตัดกับถนนบรมราชชนนี",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp87t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 30,
+        "pm10": 48,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp87t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp87t",
+      "project": "PCD",
+      "id": "bkp87t",
+      "lat": "13.746257",
+      "lon": "100.355099",
+      "name": "ตลาดธนบุรีสนามหลวง 2",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp88t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 27,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp88t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp88t",
+      "project": "PCD",
+      "id": "bkp88t",
+      "lat": "13.718689",
+      "lon": "100.453910",
+      "name": "มหาวิทยาลัยสยาม",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp89t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 29,
+        "pm10": 60,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp89t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp89t",
+      "project": "PCD",
+      "id": "bkp89t",
+      "lat": "13.705582",
+      "lon": "100.343164",
+      "name": "ริมถนนมาเจริญ เพชรเกษม 8, เขตหนองแขม",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp90t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 28,
+        "pm10": 54,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp90t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp90t",
+      "project": "PCD",
+      "id": "bkp90t",
+      "lat": "13.639165",
+      "lon": "100.372958",
+      "name": "ตลาดบางบอน 5",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp91t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 25,
+        "pm10": 58,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp91t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp91t",
+      "project": "PCD",
+      "id": "bkp91t",
+      "lat": "13.651004",
+      "lon": "100.496673",
+      "name": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp92t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 30,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp92t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp92t",
+      "project": "PCD",
+      "id": "bkp92t",
+      "lat": "13.764150",
+      "lon": "100.499077",
+      "name": "สำนักงานเขตพระนคร",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp93t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": 34,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp93t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp93t",
+      "project": "PCD",
+      "id": "bkp93t",
+      "lat": "13.776820",
+      "lon": "100.579543",
+      "name": "สำนักงานเขตห้วยขวาง",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp94t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 31,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp94t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp94t",
+      "project": "PCD",
+      "id": "bkp94t",
+      "lat": "13.708488",
+      "lon": "100.583747",
+      "name": "สำนักงานเขตคลองเตย",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp95t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 31,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp95t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp95t",
+      "project": "PCD",
+      "id": "bkp95t",
+      "lat": "13.809596",
+      "lon": "100.537883",
+      "name": "สำนักงานเขตบางซื่อ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp96t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 27,
+        "pm10": 44,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp96t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp96t",
+      "project": "PCD",
+      "id": "bkp96t",
+      "lat": "13.803587",
+      "lon": "100.607535",
+      "name": "สำนักงานเขตลาดพร้าว",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp97t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 34,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp97t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp97t",
+      "project": "PCD",
+      "id": "bkp97t",
+      "lat": "13.887395",
+      "lon": "100.579247",
+      "name": "สำนักงานเขตหลักสี่",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp98t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 27,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp98t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp98t",
+      "project": "PCD",
+      "id": "bkp98t",
+      "lat": "13.873603",
+      "lon": "100.595839",
+      "name": "สำนักงานเขตบางเขน",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/bkp99t": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 24,
+        "pm10": 38,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/bkp99t"
+      }
+    ],
+    "info": {
+      "topic": "PCD/bkp99t",
+      "project": "PCD",
+      "id": "bkp99t",
+      "lat": "13.768892",
+      "lon": "100.685743",
+      "name": "สำนักงานเขตสะพานสูง",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/o38": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 17,
+        "pm10": -1,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/o38"
+      }
+    ],
+    "info": {
+      "topic": "PCD/o38",
+      "project": "PCD",
+      "id": "o38",
+      "lat": "12.648576",
+      "lon": "101.322450",
+      "name": "ค่ายสุรสิงหนาท",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/o65": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 40,
+        "pm10": 67,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/o65"
+      }
+    ],
+    "info": {
+      "topic": "PCD/o65",
+      "project": "PCD",
+      "id": "o65",
+      "lat": "6.890640",
+      "lon": "101.251061",
+      "name": "สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดปัตตานี",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/o66": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 193,
+        "pm10": 223,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/o66"
+      }
+    ],
+    "info": {
+      "topic": "PCD/o66",
+      "project": "PCD",
+      "id": "o66",
+      "lat": "14.606306",
+      "lon": "100.453589",
+      "name": " สวนน้ำเฉลิมพระเกียรติ ",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  },
+  "PCD/o68": {
+    "data": [
+      {
+        "time": "2026-04-13T05:00:00.000Z",
+        "pm1": null,
+        "pm25": 306,
+        "pm10": 351,
+        "temp": null,
+        "co2": null,
+        "humid": null,
+        "topic": "PCD/o68"
+      }
+    ],
+    "info": {
+      "topic": "PCD/o68",
+      "project": "PCD",
+      "id": "o68",
+      "lat": "6.666144",
+      "lon": "100.327349",
+      "name": "โรงเรียนชุมชนบ้านปาดัง",
+      "tambol": null,
+      "amphoe": null,
+      "province": null
+    }
+  }
+}
