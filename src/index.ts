@@ -10,6 +10,7 @@ import cuSense from './routes/cuSense.js';
 import airGradient from './routes/airGradient.js';
 import aqi, { startBackgroundPoller } from './routes/aqi.js';
 import { dbReady, closePool } from './db/database.js';
+import { requireApiKey } from './lib/apiKey.js';
 
 const app = express();
 const port = Number(process.env.PORT) || 3000;
@@ -20,6 +21,8 @@ app.use(express.json());
 app.get('/health', (_req, res) => {
     res.json({ status: 'ok' });
 });
+
+app.use(requireApiKey);
 
 app.use('/api/aqi/air4thai', air4thaiRouter);
 app.use('/api/aqi/cu-sense', cuSense);

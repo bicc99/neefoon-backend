@@ -24,12 +24,18 @@ npm install
 | Variable | Required | Description |
 |---|---|---|
 | `DATABASE_URL` | Yes | PostgreSQL connection string |
+| `API_KEY` | Yes | Shared secret — all API clients must send `Authorization: Bearer <key>` |
 | `FIRMS_MAP_KEY` | Yes | NASA FIRMS API key |
 | `CUSENSE_API_KEY` | Yes | CUSense API key |
 | `LOCATIONIQ_API_KEY` | Yes | LocationIQ reverse geocoding key |
 | `MARKER_ASSETS_DIR` | No | Path to AQI marker assets (default: `./assets/aqi-markers`) |
 | `HOST` | No | Network interface to bind (default: `0.0.0.0`) |
 | `PORT` | No | Port to listen on (default: `3000`) |
+
+Generate a key with:
+```bash
+node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
+```
 
 ## Running
 
@@ -42,10 +48,17 @@ npm run build
 npm start
 ```
 
+## Authentication
+
+All endpoints except `/health` require:
+```
+Authorization: Bearer <API_KEY>
+```
+
 ## API Endpoints
 
 ```
-GET /health
+GET /health                          # no auth required
 
 GET /api/aqi/all
 GET /api/aqi/stations/:stationID
