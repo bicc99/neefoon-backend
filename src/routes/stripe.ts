@@ -66,7 +66,7 @@ router.post('/create-checkout-session', async (req: Request, res: Response) => {
           quantity: 1,
         },
       ],
-      success_url: `${FRONTEND_URL}/support?donated=true`,
+      success_url: `${FRONTEND_URL}/thank-you`,
       cancel_url: `${FRONTEND_URL}/support`,
     });
 
