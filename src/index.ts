@@ -9,6 +9,7 @@ import firmsRouter from './routes/firms.js';
 import cuSense from './routes/cuSense.js';
 import airGradient from './routes/airGradient.js';
 import aqi, { startBackgroundPoller } from './routes/aqi.js';
+import stripeRouter from './routes/stripe.js';
 import { dbReady, closePool } from './db/database.js';
 import { requireApiKey } from './lib/apiKey.js';
 
@@ -21,6 +22,10 @@ app.use(express.json());
 app.get('/health', (_req, res) => {
     res.json({ status: 'ok' });
 });
+
+// Stripe route is public — the website frontend has no API key.
+// Must be registered before requireApiKey.
+app.use('/api/stripe', stripeRouter);
 
 app.use(requireApiKey);
 
