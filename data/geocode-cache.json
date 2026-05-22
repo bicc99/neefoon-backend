@@ -17288,5 +17288,165 @@
     "country": "Germany",
     "country_code": "de",
     "city": "Baden-Württemberg"
+  },
+  "-26.724689,27.884772": {
+    "country": "South Africa",
+    "country_code": "za",
+    "city": "Gauteng"
+  },
+  "-26.723,27.877": {
+    "country": "South Africa",
+    "country_code": "za",
+    "city": "Gauteng"
+  },
+  "27.727502,85.330135": {
+    "country": "Nepal",
+    "country_code": "np",
+    "city": "Bagamati"
+  },
+  "35.1844016,-111.693098": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Arizona"
+  },
+  "14.490412714080469,100.43669131922096": {
+    "country": "Thailand",
+    "country_code": "th",
+    "city": "Ang Thong"
+  },
+  "19.434,99.1956": {
+    "country": "Thailand",
+    "country_code": "th",
+    "city": "Chiang Mai"
+  },
+  "-29.55722258160617,31.119879760604597": {
+    "country": "South Africa",
+    "country_code": "za",
+    "city": "Kwazulu-Natal"
+  },
+  "43.04941,17.645741": {
+    "country": "Croatia",
+    "country_code": "hr",
+    "city": "Grad Metković"
+  },
+  "15.514475953776264,-86.23013067479253": {
+    "country": "Honduras",
+    "country_code": "hn",
+    "city": "Colón"
+  },
+  "31.299695,74.22505": {
+    "country": "Pakistan",
+    "country_code": "pk",
+    "city": "Punjab"
+  },
+  "32.188717,74.180032": {
+    "country": "Pakistan",
+    "country_code": "pk",
+    "city": "Punjab"
+  },
+  "43.4877,77.0611": {
+    "country": "Kazakhstan",
+    "country_code": "kz",
+    "city": "Almaty Region"
+  },
+  "43.2167,76.7743": {
+    "country": "Kazakhstan",
+    "country_code": "kz",
+    "city": "Almaty Region"
+  },
+  "37.6713,-121.724887": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "California"
+  },
+  "38.88136684156813,-94.77096553943787": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Kansas"
+  },
+  "52.18387601335834,4.464458777303122": {
+    "country": "Netherlands",
+    "country_code": "nl",
+    "city": "South Holland"
+  },
+  "-37.887096,145.04375": {
+    "country": "Australia",
+    "country_code": "au",
+    "city": "Glen Eira"
+  },
+  "25.243945,51.513429": {
+    "country": "Qatar",
+    "country_code": "qa",
+    "city": "Doha"
+  },
+  "-37.812225666061735,144.89103192658013": {
+    "country": "Australia",
+    "country_code": "au",
+    "city": "Maribyrnong"
+  },
+  "37.568393,-121.99625": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "California"
+  },
+  "40.547996,-123.1825259": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "California"
+  },
+  "48.17942835502674,16.42074789531637": {
+    "country": "Austria",
+    "country_code": "at",
+    "city": "Vienna"
+  },
+  "53.428418,-2.176583": {
+    "country": "UK",
+    "country_code": "gb",
+    "city": "Stockport"
+  },
+  "35.825536328864644,14.471049088201276": {
+    "country": "Malta",
+    "country_code": "mt",
+    "city": "Żurrieq"
+  },
+  "-2.8973385004898007,-79.00312414817775": {
+    "country": "Ecuador",
+    "country_code": "ec",
+    "city": "Azuay"
+  },
+  "34.5525,36.0757": {
+    "country": "Lebanon",
+    "country_code": "lb",
+    "city": "Akkar Governorate"
+  },
+  "51.035519,13.853688": {
+    "country": "Germany",
+    "country_code": "de",
+    "city": "Saxony"
+  },
+  "41.130195,-8.423484": {
+    "country": "Portugal",
+    "country_code": "pt",
+    "city": "Porto"
+  },
+  "29.73034,-95.35242": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Texas"
+  },
+  "32.768010606135064,-117.12639541462805": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "California"
+  },
+  "40.5279685237137,44.71188951868399": {
+    "country": "Armenia",
+    "country_code": "am",
+    "city": "Kotayk"
+  },
+  "35.07461956069065,-80.57988652872359": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "North Carolina"
   }
 }

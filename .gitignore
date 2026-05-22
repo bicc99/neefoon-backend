@@ -9,4 +9,4 @@ data/*.db-shm
 data/*.db-wal
 
 CLAUDE.md
-
+NOTES.md
