@@ -6,7 +6,7 @@ const router = Router();
 
 // Path used as the HMAC input when minting signed URLs for the FIRMS PNG.
 // Must match the actual request path the client will hit so the signature verifies.
-const FIRMS_FIRES_PATH = "/api/firms/fires";
+const FIRMS_FIRES_PATH = "/firms/fires";
 
 // How long a signed URL is valid for. Long enough for MapLibre to fetch and
 // render the PNG (and tolerate a slow upstream from NASA on first fill),
