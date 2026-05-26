@@ -1,7 +1,20 @@
 import { Router, type Request, type Response } from 'express';
 import Stripe from 'stripe';
+import { z } from 'zod';
 
 const router = Router();
+
+const SUPPORTED_CURRENCIES = ['USD', 'THB'] as const;
+type SupportedCurrency = typeof SUPPORTED_CURRENCIES[number];
+
+// Single source of truth for what the request body must look like. zod handles
+// type checks, coercion (e.g. numeric strings become numbers), and produces
+// human-readable errors for free. The currency-dependent minimum is enforced
+// after parsing because it depends on two fields.
+const checkoutSchema = z.object({
+  amount: z.coerce.number().int().positive(),
+  currency: z.enum(SUPPORTED_CURRENCIES),
+});
 
 const STRIPE_SECRET_KEY = process.env.STRIPE_SECRET_KEY;
 const FRONTEND_URL = process.env.FRONTEND_URL;
@@ -18,8 +31,6 @@ if (!FRONTEND_URL) {
 
 const stripe = new Stripe(STRIPE_SECRET_KEY);
 
-type SupportedCurrency = 'USD' | 'THB';
-
 // Stripe's minimum charge amounts for our two supported currencies.
 // Sending less than this causes Stripe to reject the request.
 const MIN_AMOUNT: Record<SupportedCurrency, number> = {
@@ -28,25 +39,30 @@ const MIN_AMOUNT: Record<SupportedCurrency, number> = {
 };
 
 router.post('/create-checkout-session', async (req: Request, res: Response) => {
-  const { amount, currency } = req.body as { amount: unknown; currency: unknown };
-
-  if (currency !== 'USD' && currency !== 'THB') {
-    res.status(400).json({ error: 'currency must be USD or THB' });
+  const parsed = checkoutSchema.safeParse(req.body);
+  if (!parsed.success) {
+    const issue = parsed.error.issues[0];
+    res.status(400).json({
+      error: issue ? `${issue.path.join('.')}: ${issue.message}` : 'invalid input',
+    });
     return;
   }
+  const { amount, currency } = parsed.data;
 
-  const numAmount = Number(amount);
-
-  // Reject non-integers and amounts below Stripe's minimums.
-  if (!Number.isFinite(numAmount) || !Number.isInteger(numAmount) || numAmount < MIN_AMOUNT[currency]) {
-    res.status(400).json({ error: `amount must be a whole number of at least ${MIN_AMOUNT[currency]} ${currency}` });
+  // Cross-field rule: the minimum depends on the currency, so it cannot live
+  // inside the schema for a single field. Done after parsing so amount/currency
+  // are already typed.
+  if (amount < MIN_AMOUNT[currency]) {
+    res.status(400).json({
+      error: `amount must be at least ${MIN_AMOUNT[currency]} ${currency}`,
+    });
     return;
   }
 
   try {
     // Stripe always wants amounts in the smallest currency unit.
     // Both USD (cents) and THB (satang) use a factor of 100.
-    const unitAmount = numAmount * 100;
+    const unitAmount = amount * 100;
 
     const session = await stripe.checkout.sessions.create({
       mode: 'payment',

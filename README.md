@@ -28,6 +28,9 @@ npm install
 | `FIRMS_MAP_KEY` | Yes | NASA FIRMS API key |
 | `CUSENSE_API_KEY` | Yes | CUSense API key |
 | `LOCATIONIQ_API_KEY` | Yes | LocationIQ reverse geocoding key |
+| `URL_SIGNING_SECRET` | Yes | Server-side HMAC-SHA256 secret used to mint/verify signed URLs (e.g. MapLibre fetching the FIRMS hotspot PNG). Must never be bundled into the mobile app. |
+| `STRIPE_SECRET_KEY` | Yes | Stripe secret key (`sk_test_...` in dev, `sk_live_...` in prod) |
+| `FRONTEND_URL` | Yes | Public URL of the website frontend. Used for CORS allow-listing and Stripe success/cancel redirects. |
 | `MARKER_ASSETS_DIR` | No | Path to AQI marker assets (default: `./assets/aqi-markers`) |
 | `HOST` | No | Network interface to bind (default: `0.0.0.0`) |
 | `PORT` | No | Port to listen on (default: `3000`) |
@@ -50,31 +53,35 @@ npm start
 
 ## Authentication
 
-All endpoints except `/health` require:
+All endpoints except `/health` and `/stripe/*` require:
 ```
 Authorization: Bearer <API_KEY>
 ```
 
+`/stripe/*` is public because the website frontend has no API key. CORS is locked to `FRONTEND_URL` for browser clients; the native mobile app does not send an `Origin` header and is unaffected.
+
 ## API Endpoints
 
 ```
-GET /health                          # no auth required
+GET  /health                                    # no auth required
 
-GET /api/aqi/all
-GET /api/aqi/stations/:stationID
-GET /api/aqi/stations/:stationID/daily
-GET /api/aqi/rankings/countries
-GET /api/aqi/rankings/cities
-GET /api/aqi/markers/current/sprite.json
-GET /api/aqi/markers/current/sprite.png
-GET /api/aqi/markers/current/sprite@2x.json
-GET /api/aqi/markers/current/sprite@2x.png
+POST /stripe/create-checkout-session            # no auth required (CORS-gated)
 
-GET /api/aqi/air4thai/*
-GET /api/aqi/cu-sense/*
-GET /api/aqi/airgradient/*
+GET  /aqi/all
+GET  /aqi/stations/:stationID
+GET  /aqi/stations/:stationID/daily
+GET  /aqi/rankings/countries
+GET  /aqi/rankings/cities
+GET  /aqi/markers/current/sprite.json
+GET  /aqi/markers/current/sprite.png
+GET  /aqi/markers/current/sprite@2x.json
+GET  /aqi/markers/current/sprite@2x.png
 
-GET /api/firms/fires
+GET  /aqi/air4thai/*
+GET  /aqi/cu-sense/*
+GET  /aqi/airgradient/*
+
+GET  /firms/fires
 ```
 
 ## Database
