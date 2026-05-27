@@ -1,3 +1,9 @@
+// Imported first so PLAY_INTEGRITY_KEY_B64 (Railway-style base64 secret) is
+// decoded to a file and GOOGLE_APPLICATION_CREDENTIALS is set before any
+// module that touches google-auth-library loads. No-op if the env var is
+// unset (local dev can point GOOGLE_APPLICATION_CREDENTIALS at a real file).
+import './lib/bootSecrets.js';
+
 import express from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
@@ -21,6 +27,7 @@ import cuSense from './routes/cuSense.js';
 import airGradient from './routes/airGradient.js';
 import aqi, { startBackgroundPoller } from './routes/aqi.js';
 import stripeRouter from './routes/stripe.js';
+import authRouter from './routes/auth.js';
 import { dbReady, closePool } from './db/database.js';
 import { requireApiKey } from './lib/apiKey.js';
 import { globalLimiter, apiLimiter } from './lib/rateLimiter.js';
@@ -57,6 +64,13 @@ app.use('/stripe', stripeRouter);
 // apiLimiter runs before requireApiKey so failed auth attempts also consume
 // the per-minute budget, preventing API key brute-forcing.
 app.use(apiLimiter);
+
+// Attestation endpoints are public — they ARE the auth mechanism, so they
+// must be reachable without an existing token. Mounted after apiLimiter so
+// /auth/challenge can't be hammered to enumerate nonces, but before
+// requireApiKey so they don't require the static Bearer key.
+app.use('/auth', authRouter);
+
 app.use(requireApiKey);
 
 app.use('/aqi/air4thai', air4thaiRouter);

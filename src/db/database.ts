@@ -52,10 +52,52 @@ async function init(): Promise<void> {
     )
   `);
 
+  // iOS App Attest stores a per-install Secure Enclave keypair. We persist the
+  // public half so future assertions from that install can be verified without
+  // re-attesting on every request. sign_counter is supplied by Apple in each
+  // assertion and must monotonically increase: a decrease or stall indicates
+  // a replay attempt and the assertion is rejected.
+  await pool.query(`
+    CREATE TABLE IF NOT EXISTS attest_keys (
+      key_id        TEXT        PRIMARY KEY,
+      public_key    BYTEA       NOT NULL,
+      sign_counter  BIGINT      NOT NULL DEFAULT 0,
+      created_at    TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+      last_used_at  TIMESTAMPTZ
+    )
+  `);
+
+  // Single-use nonces issued by /auth/challenge and consumed by /auth/token.
+  // Both App Attest and Play Integrity bind a server-supplied nonce into the
+  // cryptographic output, so an attacker cannot replay an attestation captured
+  // from a different install. consumed_at is set atomically during /auth/token
+  // verification so two parallel requests with the same nonce cannot both succeed.
+  await pool.query(`
+    CREATE TABLE IF NOT EXISTS auth_challenges (
+      nonce        TEXT        PRIMARY KEY,
+      exp          TIMESTAMPTZ NOT NULL,
+      consumed_at  TIMESTAMPTZ
+    )
+  `);
+
+  // Lets the on-startup sweep below find expired rows without a sequential scan
+  // once the table grows. Tiny table normally, but cheap insurance.
+  await pool.query(`
+    CREATE INDEX IF NOT EXISTS idx_auth_challenges_exp
+      ON auth_challenges (exp)
+  `);
+
   // Prune readings older than 35 days on startup
   await pool.query(
     `DELETE FROM station_aqi_readings
      WHERE observed_at_utc::timestamptz < NOW() - INTERVAL '35 days'`
+  );
+
+  // Sweep stale challenges so the table doesn't grow unbounded. 1-hour grace
+  // window past expiry in case the boot-time sweep races with an in-flight
+  // /auth/token request that's about to consume a just-expired nonce.
+  await pool.query(
+    `DELETE FROM auth_challenges WHERE exp < NOW() - INTERVAL '1 hour'`
   );
 }
 
