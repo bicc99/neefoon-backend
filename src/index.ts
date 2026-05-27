@@ -30,6 +30,7 @@ import stripeRouter from './routes/stripe.js';
 import authRouter from './routes/auth.js';
 import { dbReady, closePool } from './db/database.js';
 import { requireApiKey } from './lib/apiKey.js';
+import { requireAuth } from './lib/auth.js';
 import { globalLimiter, apiLimiter } from './lib/rateLimiter.js';
 import { httpLogger } from './lib/logger.js';
 
@@ -61,23 +62,27 @@ app.get('/health', (_req, res) => {
 // Must be registered before requireApiKey.
 app.use('/stripe', stripeRouter);
 
-// apiLimiter runs before requireApiKey so failed auth attempts also consume
-// the per-minute budget, preventing API key brute-forcing.
+// apiLimiter runs before any auth so failed attempts on any route also
+// consume the per-minute budget, preventing key brute-forcing.
 app.use(apiLimiter);
 
-// Attestation endpoints are public — they ARE the auth mechanism, so they
+// Attestation endpoints are public: they ARE the auth mechanism, so they
 // must be reachable without an existing token. Mounted after apiLimiter so
-// /auth/challenge can't be hammered to enumerate nonces, but before
-// requireApiKey so they don't require the static Bearer key.
+// /auth/challenge cannot be hammered to enumerate nonces.
 app.use('/auth', authRouter);
 
-app.use(requireApiKey);
-
-app.use('/aqi/air4thai', air4thaiRouter);
-app.use('/aqi/cu-sense', cuSense);
-app.use('/aqi/airgradient', airGradient);
-app.use('/aqi', aqi);
-app.use('/firms', firmsRouter);
+// Auth is applied per-route below instead of globally because we are mid-
+// migration from the static API key to attestation-derived JWTs. The /aqi
+// router uses requireAuth (new JWT) as a validation vertical so the mobile
+// client can be tested end-to-end against one real route; every other route
+// keeps requireApiKey (static key) until clients are migrated. After cut-
+// over, all of these become requireAuth and the per-route middleware can
+// be consolidated back into a single global app.use(requireAuth).
+app.use('/aqi/air4thai', requireApiKey, air4thaiRouter);
+app.use('/aqi/cu-sense', requireApiKey, cuSense);
+app.use('/aqi/airgradient', requireApiKey, airGradient);
+app.use('/aqi', requireAuth, aqi);
+app.use('/firms', requireApiKey, firmsRouter);
 
 await dbReady;
 

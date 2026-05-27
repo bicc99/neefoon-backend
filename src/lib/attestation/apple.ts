@@ -16,8 +16,8 @@
  */
 
 import {
-    verifyAttestation,
     verifyAssertion,
+    verifyAttestation,
 } from "node-app-attest";
 
 const BUNDLE_ID = process.env.IOS_BUNDLE_IDENTIFIER;
@@ -33,10 +33,16 @@ if (!TEAM_ID) {
 }
 
 // Xcode dev builds and TestFlight attest against Apple's sandbox attestation
-// environment; App Store builds use the production environment. Allowing
-// development outside NODE_ENV=production lets us test on a physical dev build
-// without a separate code path. NODE_ENV is asserted by the deploy process.
-const ALLOW_DEV_ENV = process.env.NODE_ENV !== "production";
+// environment; App Store builds use the production environment. Allow dev
+// attestations when either NODE_ENV is non-production OR the explicit
+// ALLOW_DEV_ATTEST flag is set. The flag exists so we can test sandbox
+// attestations against the live Railway backend before launch, without
+// running a separate staging deploy. Delete the flag once the iOS app
+// ships with the production entitlement.
+const ALLOW_DEV_ENV =
+    process.env.NODE_ENV !== "production" ||
+    process.env.ALLOW_DEV_ATTEST === "true";
+
 
 /**
  * Verifies a fresh App Attest attestation and returns the public key for storage.

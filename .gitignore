@@ -3,6 +3,8 @@ dist/
 .env
 .DS_Store
 
+.secrets/
+
 # SQLite database
 data/*.db
 data/*.db-shm

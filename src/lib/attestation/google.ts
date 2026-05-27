@@ -56,11 +56,11 @@ export async function verifyPlayIntegrity(input: {
         throw new Error("Play Integrity returned no payload");
     }
 
-    // The nonce binds this attestation to our specific challenge. Without
-    // this check, an attestation captured from another install or another
-    // moment could be replayed against us.
-    if (payload.requestDetails?.nonce !== input.expectedNonce) {
-        throw new Error("Nonce mismatch");
+    // The requestHash binds this attestation to our specific challenge.
+    // Without this check, an attestation captured from another install or
+    // another moment could be replayed against us.
+    if (payload.requestDetails?.requestHash !== input.expectedNonce) {
+        throw new Error("Request hash mismatch");
     }
     if (payload.requestDetails?.requestPackageName !== PACKAGE_NAME) {
         throw new Error("Package name mismatch");
