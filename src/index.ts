@@ -21,15 +21,11 @@ if (!FRONTEND_URL) {
     process.exit(1);
 }
 
-import air4thaiRouter from './routes/air4thai.js';
 import firmsRouter from './routes/firms.js';
-import cuSense from './routes/cuSense.js';
-import airGradient from './routes/airGradient.js';
-import aqi, { startBackgroundPoller } from './routes/aqi.js';
+import aqi, { startBackgroundPoller } from './routes/allAqi.js';
 import stripeRouter from './routes/stripe.js';
 import authRouter from './routes/auth.js';
 import { dbReady, closePool } from './db/database.js';
-import { requireApiKey } from './lib/apiKey.js';
 import { requireAuth } from './lib/auth.js';
 import { globalLimiter, apiLimiter } from './lib/rateLimiter.js';
 import { httpLogger } from './lib/logger.js';
@@ -71,18 +67,11 @@ app.use(apiLimiter);
 // /auth/challenge cannot be hammered to enumerate nonces.
 app.use('/auth', authRouter);
 
-// Auth is applied per-route below instead of globally because we are mid-
-// migration from the static API key to attestation-derived JWTs. The /aqi
-// router uses requireAuth (new JWT) as a validation vertical so the mobile
-// client can be tested end-to-end against one real route; every other route
-// keeps requireApiKey (static key) until clients are migrated. After cut-
-// over, all of these become requireAuth and the per-route middleware can
-// be consolidated back into a single global app.use(requireAuth).
-app.use('/aqi/air4thai', requireApiKey, air4thaiRouter);
-app.use('/aqi/cu-sense', requireApiKey, cuSense);
-app.use('/aqi/airgradient', requireApiKey, airGradient);
+// All client-facing data routes require an attestation-derived JWT. The /firms
+// router additionally accepts a signed URL on /firms/fires (see requireAuth)
+// for MapLibre's header-less ImageSource fetch.
 app.use('/aqi', requireAuth, aqi);
-app.use('/firms', requireApiKey, firmsRouter);
+app.use('/firms', requireAuth, firmsRouter);
 
 await dbReady;
 

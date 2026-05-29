@@ -1,6 +1,6 @@
 import type { Request, Response } from "express";
 import { Router } from "express";
-import { signUrl } from "../lib/apiKey.js";
+import { signUrl } from "../lib/signedUrl.js";
 
 const router = Router();
 
