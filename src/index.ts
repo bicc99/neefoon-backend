@@ -1,3 +1,8 @@
+// Imported before anything that loads jose so the Web Crypto global jose needs
+// is present even on runtimes that don't expose it by default. See the module
+// for the full rationale (it's why /auth/token was returning spurious 401s).
+import './lib/cryptoPolyfill.js';
+
 // Imported first so PLAY_INTEGRITY_KEY_B64 (Railway-style base64 secret) is
 // decoded to a file and GOOGLE_APPLICATION_CREDENTIALS is set before any
 // module that touches google-auth-library loads. No-op if the env var is
