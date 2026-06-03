@@ -51,12 +51,58 @@ const BASE_URL =
   `&FORMAT=image/png` +
   `&TRANSPARENT=true`;
 // In memory cache.
-let cache: { data: Buffer; contentType: string; timestamp: number } | null = null;
+type FirmsCache = { data: Buffer; contentType: string; timestamp: number };
+let cache: FirmsCache | null = null;
+// Single-flight guard: holds the in-progress refresh so concurrent requests on a
+// cold/stale cache await the same NASA fetch instead of each firing their own.
+// This is the thundering-herd defence — N simultaneous callers collapse to 1 upstream hit.
+let inflightRefresh: Promise<FirmsCache> | null = null;
 // JS timing
 const CACHE_TTL_MS = 60 * 60 * 1000 // 1 hour
 // HTTP cache headers
 const BROWSER_CACHE_SEC = 300; // 5 mins
 const CDN_CACHE_SEC = 3600; // 1 hour
+
+/**
+ * Returns the FIRMS PNG cache, refreshing it from NASA first if it is empty or
+ * older than CACHE_TTL_MS.
+ *
+ * Both /fires and /fires/sign read cache.timestamp through this function, so the
+ * "Updated" time the client displays (from /fires/sign) always matches the PNG
+ * /fires serves. Previously /fires/sign read a possibly-stale timestamp and only
+ * triggered the refill afterward (via the new signed URL), so the chip lagged one
+ * generation behind whenever the cache was stale at sign time.
+ *
+ * Single-flight: if a refresh is already running, await it rather than starting a
+ * second NASA fetch. The promise is cleared in finally() so the next stale window
+ * can refresh again.
+ */
+async function getFirmsCache(): Promise<FirmsCache> {
+  if (!MAP_KEY) throw new Error("FIRMS_MAP_KEY not configured");
+
+  const now = Date.now();
+  if (cache && now - cache.timestamp < CACHE_TTL_MS) return cache;
+
+  if (!inflightRefresh) {
+    inflightRefresh = (async () => {
+      const response = await fetch(BASE_URL);
+      if (!response.ok) {
+        throw new Error(`FIRMS WMS request failed with status ${response.status}`);
+      }
+      const contentType = response.headers.get("content-type") ?? "image/png";
+      const buffer = Buffer.from(await response.arrayBuffer());
+      // Stamp the timestamp at fetch completion so it reflects when this data was
+      // actually retrieved from NASA, which is what the client shows as "Updated".
+      cache = { data: buffer, contentType, timestamp: Date.now() };
+      return cache;
+    })().finally(() => {
+      // Clear regardless of success/failure so a failed fetch doesn't lock out retries.
+      inflightRefresh = null;
+    });
+  }
+
+  return inflightRefresh;
+}
 
 /**
  * Mints a short-lived signed URL the client can hand to MapLibre's ImageSource.
@@ -71,93 +117,72 @@ const CDN_CACHE_SEC = 3600; // 1 hour
  * the underlying PNG hasn't changed. The Last-Modified value returned here matches
  * what the actual /fires response would return.
  */
-router.get("/fires/sign", (req: Request, res: Response) => {
-  const now = Date.now();
-  const haveFreshCache = cache && now - cache.timestamp < CACHE_TTL_MS;
+router.get("/fires/sign", async (req: Request, res: Response) => {
+  try {
+    // Refresh-then-read: guarantees the timestamp we report below matches the PNG
+    // /fires will serve, so the client's "Updated" chip is never a generation behind.
+    const current = await getFirmsCache();
 
-  if (haveFreshCache) {
+    // RFC 7232 conditional request: if the client already has this version, 304.
+    // HTTP dates have second precision, so compare in seconds to avoid false mismatches.
     const ifModifiedSince = req.headers['if-modified-since'];
     if (ifModifiedSince) {
       const clientTimeSec = Math.floor(new Date(ifModifiedSince).getTime() / 1000);
-      const cacheTimeSec = Math.floor(cache!.timestamp / 1000);
+      const cacheTimeSec = Math.floor(current.timestamp / 1000);
       if (!isNaN(clientTimeSec) && clientTimeSec >= cacheTimeSec) {
         res.status(304).end();
         return;
       }
     }
+
+    const { exp, sig } = signUrl(FIRMS_FIRES_PATH, SIGNED_URL_TTL_SEC);
+    const lastModified = new Date(current.timestamp).toUTCString();
+
+    res.json({ exp, sig, lastModified });
+  } catch (error) {
+    res.status(502).json({
+      error: "Failed to prepare FIRMS signed URL",
+      message: error instanceof Error ? error.message : "Unknown error",
+    });
   }
-
-  const { exp, sig } = signUrl(FIRMS_FIRES_PATH, SIGNED_URL_TTL_SEC);
-
-  // If the cache is empty (cold start), lastModified is null. The client treats
-  // this as "no last-modified yet" and the next /fires request will populate the
-  // cache as a side-effect of serving the PNG.
-  const lastModified = cache ? new Date(cache.timestamp).toUTCString() : null;
-
-  res.json({ exp, sig, lastModified });
 });
 
 // GET
 router.get("/fires", async (req: Request, res: Response) => {
   try {
-    if (!MAP_KEY) {
-      res.status(500).json({ error: "FIRMS_MAP_KEY not configured"});
-      return;
-    }
+    // Refresh-then-read through the shared single-flight cache, so this PNG and the
+    // timestamp /fires/sign reported come from the same generation.
+    const current = await getFirmsCache();
 
-    const now = Date.now();
-
-    if(cache && now - cache.timestamp < CACHE_TTL_MS) {
-      // RFC 7232 conditional request: if the client already has this version, return 304
-      // with no body. This saves bandwidth — the client skips re-downloading the PNG.
-      // HTTP dates have second precision, so we compare in seconds to avoid false mismatches.
-      const ifModifiedSince = req.headers['if-modified-since'];
-      if (ifModifiedSince) {
-        const clientTimeSec = Math.floor(new Date(ifModifiedSince).getTime() / 1000);
-        const cacheTimeSec  = Math.floor(cache.timestamp / 1000);
-        if (!isNaN(clientTimeSec) && clientTimeSec >= cacheTimeSec) {
-          res.status(304).end();
-          return;
-        }
+    // RFC 7232 conditional request: if the client already has this version, return 304
+    // with no body. This saves bandwidth — the client skips re-downloading the PNG.
+    // HTTP dates have second precision, so we compare in seconds to avoid false mismatches.
+    const ifModifiedSince = req.headers['if-modified-since'];
+    if (ifModifiedSince) {
+      const clientTimeSec = Math.floor(new Date(ifModifiedSince).getTime() / 1000);
+      const cacheTimeSec  = Math.floor(current.timestamp / 1000);
+      if (!isNaN(clientTimeSec) && clientTimeSec >= cacheTimeSec) {
+        res.status(304).end();
+        return;
       }
-
-      res.set("Content-Type", cache.contentType);
-      // max-age = browser, s-maxage = CDN/shared cache
-      res.set("Cache-Control", `public, max-age=${BROWSER_CACHE_SEC}, s-maxage=${CDN_CACHE_SEC}`);
-      // Standard HTTP header: tells clients when the backend last fetched from NASA FIRMS.
-      // Clients read this to display "Updated HH:MM" and use it as a stable cache-bust key —
-      // the value only changes when the backend gets fresh data (every hour).
-      res.set("Last-Modified", new Date(cache.timestamp).toUTCString());
-      res.send(cache.data);
-      return;
-    }
-    
-    const response = await fetch(BASE_URL);
-
-    if (!response.ok) {
-      res.status(502).json({
-        error: "FIRMS WMS request failed",
-        status: response.status,
-      });
-      return;
     }
 
-    const contentType = response.headers.get("content-type") ?? "image/png";
-    const buffer = Buffer.from(await response.arrayBuffer());
-
-    cache = { data: buffer, contentType, timestamp: now };
-
-    res.set("Content-Type", contentType);
+    res.set("Content-Type", current.contentType);
+    // max-age = browser, s-maxage = CDN/shared cache
     res.set("Cache-Control", `public, max-age=${BROWSER_CACHE_SEC}, s-maxage=${CDN_CACHE_SEC}`);
-    res.set("Last-Modified", new Date(now).toUTCString());
-    res.send(buffer);
+    // Standard HTTP header: tells clients when the backend last fetched from NASA FIRMS.
+    // Clients read this to display "Updated HH:MM" and use it as a stable cache-bust key —
+    // the value only changes when the backend gets fresh data (every hour).
+    res.set("Last-Modified", new Date(current.timestamp).toUTCString());
+    res.send(current.data);
   } catch (error) {
-    res.status(500).json({
+    // getFirmsCache throws on a missing MAP_KEY or an upstream NASA failure; surface
+    // it as a 502 (bad upstream) rather than a generic 500.
+    res.status(502).json({
       error: "Failed to fetch FIRMS fires",
       message: error instanceof Error ? error.message : "Unknown error",
     });
   }
-  
 })
 
 export default router;
