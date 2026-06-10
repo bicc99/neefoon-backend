@@ -1,6 +1,7 @@
 import type { Request, Response } from "express";
 import { Router } from "express";
 import { signUrl } from "../lib/signedUrl.js";
+import { firmsTileLimiter } from "../lib/rateLimiter.js";
 
 const router = Router();
 
@@ -402,7 +403,7 @@ router.get("/tiles/sign", (_req: Request, res: Response) => {
  * happened in requireAuth; here we validate the coordinates/layer and serve from
  * the per-tile cache, honoring conditional requests just like /fires.
  */
-router.get("/tiles/:z/:x/:y.png", async (req: Request, res: Response) => {
+router.get("/tiles/:z/:x/:y.png", firmsTileLimiter, async (req: Request, res: Response) => {
   try {
     const params = parseTileParams(req);
     if (!params) {

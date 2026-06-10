@@ -1,4 +1,14 @@
 import rateLimit from 'express-rate-limit';
+import type { Request } from 'express';
+
+/**
+ * FIRMS tile PNGs are exempt from the shared limiters and use firmsTileLimiter.
+ * One viewport fetches 16-36 tiles at once, far chattier than the AQI polling the
+ * shared buckets are sized for. Safe to allow: read-only, signed-URL gated, and
+ * served from the per-tile cache. Excludes /firms/tiles/sign (one call/refresh).
+ */
+const isFirmsTile = (req: Request): boolean =>
+    req.path.startsWith('/firms/tiles/') && req.path.endsWith('.png');
 
 /**
  * Broad cap applied before all other middleware.
@@ -15,6 +25,7 @@ export const globalLimiter = rateLimit({
     limit: 200,                  // max requests per window per IP
     standardHeaders: 'draft-7', // emit RateLimit-* headers per RFC 9110 draft
     legacyHeaders: false,        // suppress deprecated X-RateLimit-* headers
+    skip: isFirmsTile,           // tiles use firmsTileLimiter instead
     message: { error: 'Too many requests. Please try again later.' },
 });
 
@@ -32,5 +43,21 @@ export const apiLimiter = rateLimit({
     limit: 60,                   // max requests per minute per IP
     standardHeaders: 'draft-7',
     legacyHeaders: false,
+    skip: isFirmsTile,           // tiles use firmsTileLimiter instead
     message: { error: 'Too many requests. Please slow down.' },
+});
+
+/**
+ * Loose per-IP cap for FIRMS tile PNGs only (mounted on the tile route itself).
+ *
+ * Why 600/min: a heavy session panning/zooming the fire layer can pull a few
+ * hundred tiles a minute, so the budget has to clear that with headroom while
+ * still stopping a scraper enumerating the global tile pyramid (thousands/sec).
+ */
+export const firmsTileLimiter = rateLimit({
+    windowMs: 60 * 1000,        // 1-minute window
+    limit: 600,                  // max tile requests per minute per IP
+    standardHeaders: 'draft-7',
+    legacyHeaders: false,
+    message: { error: 'Too many tile requests. Please slow down.' },
 });

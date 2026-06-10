@@ -9,10 +9,10 @@ import './lib/cryptoPolyfill.js';
 // unset (local dev can point GOOGLE_APPLICATION_CREDENTIALS at a real file).
 import './lib/bootSecrets.js';
 
-import express from 'express';
 import cors from 'cors';
-import helmet from 'helmet';
 import dotenv from 'dotenv';
+import express from 'express';
+import helmet from 'helmet';
 
 dotenv.config();
 
@@ -26,14 +26,14 @@ if (!FRONTEND_URL) {
     process.exit(1);
 }
 
-import firmsRouter from './routes/firms.js';
-import aqi, { startBackgroundPoller } from './routes/allAqi.js';
-import stripeRouter from './routes/stripe.js';
-import authRouter from './routes/auth.js';
-import { dbReady, closePool } from './db/database.js';
+import { closePool, dbReady } from './db/database.js';
 import { requireAuth } from './lib/auth.js';
-import { globalLimiter, apiLimiter } from './lib/rateLimiter.js';
 import { httpLogger } from './lib/logger.js';
+import { apiLimiter, globalLimiter } from './lib/rateLimiter.js';
+import aqi, { startBackgroundPoller } from './routes/allAqi.js';
+import authRouter from './routes/auth.js';
+import firmsRouter from './routes/firms.js';
+import stripeRouter from './routes/stripe.js';
 
 const app = express();
 const port = Number(process.env.PORT) || 3000;
@@ -77,7 +77,7 @@ app.use('/auth', authRouter);
 // header-less fetches: /firms/fires (legacy ImageSource PNG) and
 // /firms/tiles/:z/:x/:y.png (raster tile source).
 app.use('/aqi', requireAuth, aqi);
-app.use('/firms', requireAuth, firmsRouter);
+app.use('/firms', requireAuth, firmsRouter); // /firms/tiles/ skips globalLimiter/apiLimiter
 
 await dbReady;
 
