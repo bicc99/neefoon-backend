@@ -73,8 +73,9 @@ app.use(apiLimiter);
 app.use('/auth', authRouter);
 
 // All client-facing data routes require an attestation-derived JWT. The /firms
-// router additionally accepts a signed URL on /firms/fires (see requireAuth)
-// for MapLibre's header-less ImageSource fetch.
+// router additionally accepts signed URLs (see requireAuth) for MapLibre's
+// header-less fetches: /firms/fires (legacy ImageSource PNG) and
+// /firms/tiles/:z/:x/:y.png (raster tile source).
 app.use('/aqi', requireAuth, aqi);
 app.use('/firms', requireAuth, firmsRouter);
 

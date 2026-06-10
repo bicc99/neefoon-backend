@@ -24,7 +24,14 @@
 
 import type { Request, Response, NextFunction } from "express";
 import { verifyAppToken } from "./jwt.js";
-import { verifySignedUrl } from "./signedUrl.js";
+import { verifySignedUrl, verifySignedUrlForPath } from "./signedUrl.js";
+
+// Tile requests (/firms/tiles/:z/:x/:y.png) are header-less MapLibre raster
+// fetches that all share ONE signature, minted against this fixed prefix. The
+// signature authorizes "may request FIRMS tiles"; the specific z/x/y and layer
+// are validated by the route handler, so a leaked sig can't be turned into an
+// arbitrary upstream WMS request.
+const TILE_SIGNED_PREFIX = "/firms/tiles";
 
 // Augment Express's Request type so handlers can read req.installId without
 // casting. Declared in the file that owns the middleware so the augmentation
@@ -40,10 +47,21 @@ export async function requireAuth(
     res: Response,
     next: NextFunction,
 ): Promise<void> {
-    // Header-less clients (MapLibre's ImageSource fetching the FIRMS PNG)
-    // authenticate via a signed URL instead of a Bearer token. Checked first
-    // because these requests carry no Authorization header at all.
-    if (verifySignedUrl(req)) {
+    // Header-less clients (MapLibre fetching FIRMS imagery) authenticate via a
+    // signed URL instead of a Bearer token. Checked first because these requests
+    // carry no Authorization header at all.
+    //
+    // Two shapes:
+    //   - The legacy single PNG (/firms/fires): signature bound to its exact path.
+    //   - Raster tiles (/firms/tiles/:z/:x/:y.png): one signature covers every
+    //     tile, verified against the fixed prefix; coordinates/layer are validated
+    //     in the route handler.
+    const absolutePath = req.baseUrl + req.path;
+    const isTileRequest = absolutePath.startsWith(`${TILE_SIGNED_PREFIX}/`);
+    const signedOk = isTileRequest
+        ? verifySignedUrlForPath(req, TILE_SIGNED_PREFIX)
+        : verifySignedUrl(req);
+    if (signedOk) {
         next();
         return;
     }

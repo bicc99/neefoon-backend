@@ -32,13 +32,20 @@ if (!TEAM_ID) {
     process.exit(1);
 }
 
-// Xcode dev builds and TestFlight attest against Apple's sandbox attestation
-// environment; App Store builds use the production environment. Allow dev
-// attestations when either NODE_ENV is non-production OR the explicit
-// ALLOW_DEV_ATTEST flag is set. The flag exists so we can test sandbox
-// attestations against the live Railway backend before launch, without
-// running a separate staging deploy. Delete the flag once the iOS app
-// ships with the production entitlement.
+// App Attest's environment follows the build's code signature, not the
+// distribution channel: only Xcode-run, development-signed builds attest
+// against Apple's sandbox (development) environment. TestFlight and App Store
+// builds are distribution-signed and both attest against the production
+// environment. Allow dev attestations when either NODE_ENV is non-production OR
+// the explicit ALLOW_DEV_ATTEST flag is set. The flag exists so we can test
+// sandbox attestations against the live Railway backend before launch, without
+// running a separate staging deploy.
+//
+// SECURITY: never leave ALLOW_DEV_ATTEST set in production. Sandbox
+// attestations can be minted freely by anyone on their own device, so accepting
+// them in production would defeat the attestation gate. Production traffic
+// (including TestFlight) presents production attestations, so the flag is only
+// ever needed for local dev builds hitting the live backend.
 const ALLOW_DEV_ENV =
     process.env.NODE_ENV !== "production" ||
     process.env.ALLOW_DEV_ATTEST === "true";
