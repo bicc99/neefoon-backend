@@ -29,13 +29,14 @@ const CENTER = SIZE / 2;
 // npm install canvas
 // npm run generate:aqi-markers
 
+// Vivid / split-text palette.
 const CATEGORY_COLORS = {
-  good: '#7ED07A',
-  moderate: '#FFE15A',
-  usg: '#FF9E4A',
-  unhealthy: '#F05A5A',
-  very: '#A16BC7',
-  hazardous: '#7E2A3A',
+  good: '#4FB477',
+  moderate: '#F5C518',
+  usg: '#F57C1F',
+  unhealthy: '#E02828',
+  very: '#9A3DB8',
+  hazardous: '#8B1E3F',
   nodata: '#B8C0C5',
 };
 
