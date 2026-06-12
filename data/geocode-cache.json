@@ -17598,5 +17598,350 @@
     "country": "Singapore",
     "country_code": "sg",
     "city": "Singapore"
+  },
+  "14.547922866744255,100.85647317791022": {
+    "country": "Thailand",
+    "country_code": "th",
+    "city": "Saraburi"
+  },
+  "13.738978,100.527644": {
+    "country": "Thailand",
+    "country_code": "th",
+    "city": "Bangkok"
+  },
+  "14.51022,101.930977": {
+    "country": "Thailand",
+    "country_code": "th",
+    "city": "Nakhon Ratchasima"
+  },
+  "18.553499,100.714429": {
+    "country": "Thailand",
+    "country_code": "th",
+    "city": "Nan"
+  },
+  "18.553243,100.714488": {
+    "country": "Thailand",
+    "country_code": "th",
+    "city": "Nan"
+  },
+  "-20.43885361165913,57.721672271164685": {
+    "country": "Mauritius",
+    "country_code": "mu",
+    "city": "Grand Port"
+  },
+  "39.97607096941354,-85.98377286957566": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Indiana"
+  },
+  "32.2136214,-7.9359933": {
+    "country": "Morocco",
+    "country_code": "ma",
+    "city": "Marrakech-Safi"
+  },
+  "41.36188,-73.26471": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Connecticut"
+  },
+  "45.2236017,-93.585468": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Minnesota"
+  },
+  "47.52996,19.08052": {
+    "country": "Hungary",
+    "country_code": "hu",
+    "city": "Central Hungary"
+  },
+  "51.85467,5.404167": {
+    "country": "Netherlands",
+    "country_code": "nl",
+    "city": "Gelderland"
+  },
+  "-6.281047,106.70024": {
+    "country": "Indonesia",
+    "country_code": "id",
+    "city": "Banten"
+  },
+  "33.894513,-118.007262": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "California"
+  },
+  "42.2226,-71.5422": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Massachusetts"
+  },
+  "42.2225,-71.542": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Massachusetts"
+  },
+  "61.196026,-149.8574": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Alaska"
+  },
+  "-32.031312915,115.86876": {
+    "country": "Australia",
+    "country_code": "au",
+    "city": "Canning"
+  },
+  "32.4598818,74.5130851": {
+    "country": "Pakistan",
+    "country_code": "pk",
+    "city": "Punjab"
+  },
+  "27.7109112,85.3803717": {
+    "country": "Nepal",
+    "country_code": "np",
+    "city": "Bagamati"
+  },
+  "43.2083,76.96651": {
+    "country": "Kazakhstan",
+    "country_code": "kz",
+    "city": "Almaty"
+  },
+  "43.3439,77.0072": {
+    "country": "Kazakhstan",
+    "country_code": "kz",
+    "city": "Almaty"
+  },
+  "43.2466,76.8681": {
+    "country": "Kazakhstan",
+    "country_code": "kz",
+    "city": "Almaty"
+  },
+  "27.6838241,85.3101773": {
+    "country": "Nepal",
+    "country_code": "np",
+    "city": "Bagamati"
+  },
+  "14.767499,-17.431044": {
+    "country": "Senegal",
+    "country_code": "sn",
+    "city": "Dakar Region"
+  },
+  "43.2465,76.7918": {
+    "country": "Kazakhstan",
+    "country_code": "kz",
+    "city": "Almaty"
+  },
+  "0.360209,32.610756": {
+    "country": "Uganda",
+    "country_code": "ug",
+    "city": "Central Region"
+  },
+  "13.76183725246212,100.65373440109288": {
+    "country": "Thailand",
+    "country_code": "th",
+    "city": "Bangkok"
+  },
+  "6.309,-10.6779": {
+    "country": "Liberia",
+    "country_code": "lr",
+    "city": "Montserrado County"
+  },
+  "55.8543615501282,23.33423515512709": {
+    "country": "Lithuania",
+    "country_code": "lt",
+    "city": "Šiauliai County"
+  },
+  "40.67863904642025,-73.97010796187521": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "New York"
+  },
+  "-26.34544744,-70.61573186": {
+    "country": "Chile",
+    "country_code": "cl",
+    "city": "Atacama Region"
+  },
+  "35.690585,-105.910681": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "New Mexico"
+  },
+  "37.1038,-76.3872": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Virginia"
+  },
+  "25.379894,51.451464": {
+    "country": "Qatar",
+    "country_code": "qa",
+    "city": "Al-Daayen"
+  },
+  "33.9934,35.6362": {
+    "country": "Lebanon",
+    "country_code": "lb",
+    "city": "Keserwan-Jbeil Governorate"
+  },
+  "38.652356,-9.144369": {
+    "country": "Portugal",
+    "country_code": "pt",
+    "city": "Setúbal District"
+  },
+  "43.4227336,-80.2619612": {
+    "country": "Canada",
+    "country_code": "ca",
+    "city": "Ontario"
+  },
+  "39.2201,-77.4242": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Maryland"
+  },
+  "-15.321902,28.342373": {
+    "country": "Zambia",
+    "country_code": "zm",
+    "city": "Lusaka"
+  },
+  "-26.341236,-70.614909": {
+    "country": "Chile",
+    "country_code": "cl",
+    "city": "Atacama Region"
+  },
+  "-26.347617,-70.624114": {
+    "country": "Chile",
+    "country_code": "cl",
+    "city": "Atacama Region"
+  },
+  "-26.346139,-70.613545": {
+    "country": "Chile",
+    "country_code": "cl",
+    "city": "Atacama Region"
+  },
+  "15.0564574,-88.7501315": {
+    "country": "Honduras",
+    "country_code": "hn",
+    "city": "Copán"
+  },
+  "1.3236135590820972,103.8159092656027": {
+    "country": "Singapore",
+    "country_code": "sg",
+    "city": "Singapore"
+  },
+  "-26.347458,-70.616389": {
+    "country": "Chile",
+    "country_code": "cl",
+    "city": "Atacama Region"
+  },
+  "5.329316,-4.103733": {
+    "country": "Côte d'Ivoire",
+    "country_code": "ci",
+    "city": "Abidjan"
+  },
+  "51.77387,19.442626": {
+    "country": "Poland",
+    "country_code": "pl",
+    "city": "Łódź Voivodeship"
+  },
+  "38.7679,-76.54061": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Maryland"
+  },
+  "40.7082422,-73.8467422": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "New York"
+  },
+  "33.598773,-117.738024": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "California"
+  },
+  "43.4460948,-80.4213492": {
+    "country": "Canada",
+    "country_code": "ca",
+    "city": "Ontario"
+  },
+  "-26.9073766,152.9282965": {
+    "country": "Australia",
+    "country_code": "au",
+    "city": "Sunshine Coast"
+  },
+  "39.95107463240214,116.46357221261427": {
+    "country": "China",
+    "country_code": "cn",
+    "city": "Chaoyang District"
+  },
+  "43.2207830179861,-77.31348790618803": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "New York"
+  },
+  "44.55492827388629,-79.05446697045524": {
+    "country": "Canada",
+    "country_code": "ca",
+    "city": "Ontario"
+  },
+  "14.576655,121.070464": {
+    "country": "Philippines",
+    "country_code": "ph",
+    "city": "Metro Manila"
+  },
+  "51.93573251897311,6.3692079188338555": {
+    "country": "Netherlands",
+    "country_code": "nl",
+    "city": "Gelderland"
+  },
+  "35.642956,-106.023909": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "New Mexico"
+  },
+  "29.716791896012683,-95.36122020935417": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Texas"
+  },
+  "39.873092,-75.132017": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "New Jersey"
+  },
+  "53.373324,-112.88917": {
+    "country": "Canada",
+    "country_code": "ca",
+    "city": "Alberta"
+  },
+  "40.451323,-3.722025": {
+    "country": "Spain",
+    "country_code": "es",
+    "city": "Community of Madrid"
+  },
+  "36.36942073284864,-94.30080976474022": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Arkansas"
+  },
+  "35.82542,-105.92118": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "New Mexico"
+  },
+  "29.69913028312036,-95.34274124626434": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Texas"
+  },
+  "14.3366542,-88.166749": {
+    "country": "Honduras",
+    "country_code": "hn",
+    "city": "Intibucá"
+  },
+  "56.48132790014597,10.05030049710362": {
+    "country": "Denmark",
+    "country_code": "dk",
+    "city": "Central Denmark Region"
+  },
+  "47.860173,-121.937734": {
+    "country": "USA",
+    "country_code": "us",
+    "city": "Washington"
   }
 }
