@@ -39,12 +39,13 @@ interface Breakpoint {
  * Note: Always truncate (not round) PM2.5 to 1 decimal before calculating.
  */
 export const PM25_BREAKPOINTS: Breakpoint[] = [
-  { cLow: 0.0,   cHigh: 9.0,   iLow: 0,   iHigh: 50,  label: 'Good',                           color: '#7ED07A', textColor: 'black', colorKey: 'c_good',      advice: 'Great day to be outside' },
-  { cLow: 9.1,   cHigh: 35.4,  iLow: 51,  iHigh: 100, label: 'Moderate',                       color: '#FFE15A', textColor: 'black', colorKey: 'c_moderate',  advice: 'Air quality is acceptable for most people' },
-  { cLow: 35.5,  cHigh: 55.4,  iLow: 101, iHigh: 150, label: 'Unhealthy for Sensitive Groups', color: '#FF9E4A', textColor: 'white', colorKey: 'c_usg',       advice: 'Sensitive groups should reduce outdoor activity' },
-  { cLow: 55.5,  cHigh: 125.4, iLow: 151, iHigh: 200, label: 'Unhealthy',                      color: '#F05A5A', textColor: 'white', colorKey: 'c_unhealthy', advice: 'Air quality is not ideal for outdoor activity' },
-  { cLow: 125.5, cHigh: 225.4, iLow: 201, iHigh: 300, label: 'Very Unhealthy',                 color: '#A16BC7', textColor: 'white', colorKey: 'c_very',      advice: 'It is better to stay indoors' },
-  { cLow: 225.5, cHigh: 325.4, iLow: 301, iHigh: 500, label: 'Hazardous',                      color: '#7E2A3A', textColor: 'white', colorKey: 'c_hazardous', advice: 'Avoid going outside unless necessary' },
+  // Vivid / split-text palette: dark text on light fills (good/moderate/usg), white on dark fills (unhealthy+). All clear WCAG AA (4.5:1).
+  { cLow: 0.0,   cHigh: 9.0,   iLow: 0,   iHigh: 50,  label: 'Good',                           color: '#4FB477', textColor: '#08331C', colorKey: 'c_good',      advice: 'Great day to be outside' },
+  { cLow: 9.1,   cHigh: 35.4,  iLow: 51,  iHigh: 100, label: 'Moderate',                       color: '#F5C518', textColor: '#3D2E00', colorKey: 'c_moderate',  advice: 'Air quality is acceptable for most people' },
+  { cLow: 35.5,  cHigh: 55.4,  iLow: 101, iHigh: 150, label: 'Unhealthy for Sensitive Groups', color: '#F57C1F', textColor: '#3A1A00', colorKey: 'c_usg',       advice: 'Sensitive groups should reduce outdoor activity' },
+  { cLow: 55.5,  cHigh: 125.4, iLow: 151, iHigh: 200, label: 'Unhealthy',                      color: '#E02828', textColor: '#FFFFFF', colorKey: 'c_unhealthy', advice: 'Air quality is not ideal for outdoor activity' },
+  { cLow: 125.5, cHigh: 225.4, iLow: 201, iHigh: 300, label: 'Very Unhealthy',                 color: '#9A3DB8', textColor: '#FFFFFF', colorKey: 'c_very',      advice: 'It is better to stay indoors' },
+  { cLow: 225.5, cHigh: 325.4, iLow: 301, iHigh: 500, label: 'Hazardous',                      color: '#8B1E3F', textColor: '#FFFFFF', colorKey: 'c_hazardous', advice: 'Avoid going outside unless necessary' },
 ];
 
 export function pm25toAQI(pm25: number): AqiResult | null {
