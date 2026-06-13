@@ -1,4 +1,5 @@
 import { reverseGeocodeLatLon } from "../reverseGeocode.js";
+import { classifyAqiValue } from "./aqiMath.js";
 import type { AqiResult, UnifiedStation } from "../../types/aqi.js";
 
 export type { AqiResult, UnifiedStation };
@@ -9,6 +10,10 @@ export type RankedCityItem = {
   country_code: string | null;
   city: string;
   aqi: number;
+  // Category colours, so the client renders the same palette as station detail.
+  color: string;
+  textColor: string;
+  colorKey: string;
   stationCount: number;
 };
 
@@ -110,6 +115,7 @@ export async function buildCityRankings(
   const items: RankedCityItem[] = Array.from(grouped.entries()).map(([key, { values, country_code }]) => {
     const [country = "", city = ""] = key.split("__");
     const aqi = metric === "mean" ? mean(values) : median(values);
+    const { color, textColor, colorKey } = classifyAqiValue(aqi);
 
     return {
       id: `${country_code ?? country}-${city}`,
@@ -117,6 +123,9 @@ export async function buildCityRankings(
       country_code,
       city,
       aqi,
+      color,
+      textColor,
+      colorKey,
       stationCount: values.length,
     };
   });

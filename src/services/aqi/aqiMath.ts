@@ -69,6 +69,17 @@ export function pm25toAQI(pm25: number): AqiResult | null {
   };
 }
 
+// Maps an aggregated AQI index value to its category colours.
+// Matches on the AQI range (iLow..iHigh), not PM2.5, since the input is an AQI value.
+export function classifyAqiValue(
+  aqi: number
+): Pick<AqiResult, "color" | "textColor" | "colorKey" | "label"> {
+  const bp =
+    PM25_BREAKPOINTS.find((b) => aqi >= b.iLow && aqi <= b.iHigh) ??
+    PM25_BREAKPOINTS[PM25_BREAKPOINTS.length - 1]!;
+  return { color: bp.color, textColor: bp.textColor, colorKey: bp.colorKey, label: bp.label };
+}
+
 export function toNumber(value: unknown): number | null {
   if (value === null || value === undefined || value === "") return null;
   const n = Number(value);
